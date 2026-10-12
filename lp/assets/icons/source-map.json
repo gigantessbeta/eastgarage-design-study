@@ -1,0 +1,156 @@
+{
+  "prepared_at": "2026-10-12T19:43:27.191645+00:00",
+  "package": "@phosphor-icons/core",
+  "version": "2.1.1",
+  "repository": "https://github.com/phosphor-icons/phosphor-core.git",
+  "copyright": "Copyright (c) 2023 Phosphor Icons",
+  "author": "Tobias Fried",
+  "license": "MIT",
+  "license_file": "LICENSE-Phosphor.txt",
+  "icons": [
+    {
+      "file": "phone.svg",
+      "name": "phone",
+      "weight": "regular",
+      "source_path": "@phosphor-icons/core/assets/regular/phone.svg",
+      "sha256": "a6eaa18b76ebeff885aad0eff89dc286a659f263bea801359a6fe2d15cde24f8",
+      "processing": "none; byte-for-byte copy"
+    },
+    {
+      "file": "arrow-up-right.svg",
+      "name": "arrow-up-right",
+      "weight": "regular",
+      "source_path": "@phosphor-icons/core/assets/regular/arrow-up-right.svg",
+      "sha256": "44db5257b360ec04863eb6daaa41f220c8b714d23fb81403517d0a30acfda9f4",
+      "processing": "none; byte-for-byte copy"
+    },
+    {
+      "file": "arrow-right.svg",
+      "name": "arrow-right",
+      "weight": "regular",
+      "source_path": "@phosphor-icons/core/assets/regular/arrow-right.svg",
+      "sha256": "e45bc4a12592b8723110db42c6deffdf177e4fe7704cf50324963fa0a59b2d74",
+      "processing": "none; byte-for-byte copy"
+    },
+    {
+      "file": "map-pin.svg",
+      "name": "map-pin",
+      "weight": "regular",
+      "source_path": "@phosphor-icons/core/assets/regular/map-pin.svg",
+      "sha256": "523f024fa467fc285d95c1db4ed6c32b640513c79780d14310bebf342b6f94fb",
+      "processing": "none; byte-for-byte copy"
+    },
+    {
+      "file": "instagram-logo.svg",
+      "name": "instagram-logo",
+      "weight": "regular",
+      "source_path": "@phosphor-icons/core/assets/regular/instagram-logo.svg",
+      "sha256": "a08dcda4ded4c6bd00c234085604d9547f03dc9f7f385f3d175bd280714848da",
+      "processing": "none; byte-for-byte copy"
+    },
+    {
+      "file": "plus.svg",
+      "name": "plus",
+      "weight": "regular",
+      "source_path": "@phosphor-icons/core/assets/regular/plus.svg",
+      "sha256": "d688feb9dd2e41c1721d6906a05a2a42e18cd774762fe706d72b2bdfd91cddc4",
+      "processing": "none; byte-for-byte copy"
+    },
+    {
+      "file": "minus.svg",
+      "name": "minus",
+      "weight": "regular",
+      "source_path": "@phosphor-icons/core/assets/regular/minus.svg",
+      "sha256": "5a068d1cfd707fde5ddb0ce0623958123b6a5afba98401318983aeb0fdad6382",
+      "processing": "none; byte-for-byte copy"
+    },
+    {
+      "file": "list.svg",
+      "name": "list",
+      "weight": "regular",
+      "source_path": "@phosphor-icons/core/assets/regular/list.svg",
+      "sha256": "fb1851842c74b40a3f42ce3d6ae0e67ede556b624218e79c0f4ead7d9ceec51f",
+      "processing": "none; byte-for-byte copy"
+    },
+    {
+      "file": "x.svg",
+      "name": "x",
+      "weight": "regular",
+      "source_path": "@phosphor-icons/core/assets/regular/x.svg",
+      "sha256": "7397b15e1fa66eaf6ff9b59fe91d483cb5c3bcf75b2fe052097ab6f0593b513a",
+      "processing": "none; byte-for-byte copy"
+    },
+    {
+      "file": "phone-bold.svg",
+      "name": "phone",
+      "weight": "bold",
+      "source_path": "@phosphor-icons/core/assets/bold/phone-bold.svg",
+      "sha256": "61826bd13e5100b0079815888c38338ef4586d0febb96ad0e8c9420f5ea27a60",
+      "processing": "none; byte-for-byte copy"
+    },
+    {
+      "file": "arrow-up-right-bold.svg",
+      "name": "arrow-up-right",
+      "weight": "bold",
+      "source_path": "@phosphor-icons/core/assets/bold/arrow-up-right-bold.svg",
+      "sha256": "28687c40e5980d0321a33fe5021d2060fa49633d65127f80009f8c44cbe95418",
+      "processing": "none; byte-for-byte copy"
+    },
+    {
+      "file": "arrow-right-bold.svg",
+      "name": "arrow-right",
+      "weight": "bold",
+      "source_path": "@phosphor-icons/core/assets/bold/arrow-right-bold.svg",
+      "sha256": "aa0f883acecf63d9140ad7cd51910fa4b723671c400772a3c621c9cc16b1687b",
+      "processing": "none; byte-for-byte copy"
+    },
+    {
+      "file": "map-pin-bold.svg",
+      "name": "map-pin",
+      "weight": "bold",
+      "source_path": "@phosphor-icons/core/assets/bold/map-pin-bold.svg",
+      "sha256": "07bb9883e9e324d0043309d8f7e41a1b2a8db80acb8371be8294edd9135f3b69",
+      "processing": "none; byte-for-byte copy"
+    },
+    {
+      "file": "instagram-logo-bold.svg",
+      "name": "instagram-logo",
+      "weight": "bold",
+      "source_path": "@phosphor-icons/core/assets/bold/instagram-logo-bold.svg",
+      "sha256": "7a3e711a7346e143cf95bc205cafab62a6985d54b064af383685e33d1ab89df8",
+      "processing": "none; byte-for-byte copy"
+    },
+    {
+      "file": "plus-bold.svg",
+      "name": "plus",
+      "weight": "bold",
+      "source_path": "@phosphor-icons/core/assets/bold/plus-bold.svg",
+      "sha256": "3d20a4b2e00657baeb922bed94f13fbfa288968b738991d047dd252cb64005d8",
+      "processing": "none; byte-for-byte copy"
+    },
+    {
+      "file": "minus-bold.svg",
+      "name": "minus",
+      "weight": "bold",
+      "source_path": "@phosphor-icons/core/assets/bold/minus-bold.svg",
+      "sha256": "f9be4875a49d6bc9931891127335a396beacb420c7076e068abd9e1505348396",
+      "processing": "none; byte-for-byte copy"
+    },
+    {
+      "file": "list-bold.svg",
+      "name": "list",
+      "weight": "bold",
+      "source_path": "@phosphor-icons/core/assets/bold/list-bold.svg",
+      "sha256": "eebf2179178a5d4e93097a35f6a02efec45db6a88c1fbbc027fe81a167fd910f",
+      "processing": "none; byte-for-byte copy"
+    },
+    {
+      "file": "x-bold.svg",
+      "name": "x",
+      "weight": "bold",
+      "source_path": "@phosphor-icons/core/assets/bold/x-bold.svg",
+      "sha256": "d540487912a267d83c495954b24ca07981002fda05ee2ea0b492d8fc188d1c3e",
+      "processing": "none; byte-for-byte copy"
+    }
+  ]
+}

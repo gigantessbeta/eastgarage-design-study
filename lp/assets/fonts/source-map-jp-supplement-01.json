@@ -1,0 +1,75 @@
+{
+  "prepared_at": "2026-10-12T20:08:33.890855+00:00",
+  "api_documentation": "https://developers.google.com/fonts/docs/css2",
+  "api_url": "https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New%3Awght%40400%3B500%3B700%3B900&display=swap&text=%C2%A9%E2%80%94%E2%86%97%E3%81%92%E3%82%93%E3%82%A9%E3%82%B2%E3%82%BC%E3%83%8A%E3%83%9F%E3%83%AF%E4%B8%A6%E4%BB%AE%E4%BD%8F%E5%82%99%E5%8B%9D%E5%90%AB%E5%A3%B0%E5%A4%96%E5%A7%8B%E5%BD%B9%E6%89%8B%E6%8E%B2%E6%9F%BB%E6%A4%9C%E6%AD%A2%E8%80%83%E8%A8%8E%E8%B5%A4%E8%BC%89%E9%96%8B%E9%A1%A7%E9%BB%92%EF%BC%8F%EF%BD%9C",
+  "source_files": [
+    {
+      "file": "site/index.html",
+      "sha256_at_preparation": "acddeecc50e75b3b6181e5eb4cc4a947ea723a8b00cee2789199e9fd1819f45a"
+    },
+    {
+      "file": "design/candidates/b/index.html",
+      "sha256_at_preparation": "cdf7078e57254eea37bf3ac13fe9a1d4d12d502283167f9e54a6cd006e4959f8"
+    },
+    {
+      "file": "design/candidates/c/index.html",
+      "sha256_at_preparation": "a454c6948695b2d25a4aaface94f77418a3c0d02b75eeac5f2edfb7a0113b387"
+    },
+    {
+      "file": "design/index.html",
+      "sha256_at_preparation": "f903f18bb1310a432ba2615b239458362940fcc47f670da83db961db0aabc8b6"
+    }
+  ],
+  "character_count": 35,
+  "characters": "©—↗げんォゲゼナミワ並仮住備勝含声外始役手掲査検止考討赤載開顧黒／｜",
+  "character_set_file": "zen-kaku-gothic-new-supplement-01-characters.txt",
+  "character_set_sha256": "7215952b878cfd85df72e2296d8438320858166320a2a3d4d4ab095380eb1d1a",
+  "unicode_range": "U+00A9, U+2014, U+2197, U+3052, U+3093, U+30A9, U+30B2, U+30BC, U+30CA, U+30DF, U+30EF, U+4E26, U+4EEE, U+4F4F, U+5099, U+52DD, U+542B, U+58F0, U+5916, U+59CB, U+5F79, U+624B, U+63B2, U+67FB, U+691C, U+6B62, U+8003, U+8A0E, U+8D64, U+8F09, U+958B, U+9867, U+9ED2, U+FF0F, U+FF5C",
+  "transmitted_data": "Only a deduplicated sorted set of missing characters and font family/weights. No original sentences or document structure.",
+  "css": "fonts-jp.css",
+  "original_css": "google-fonts-jp-supplement-01-original.css",
+  "fonts": [
+    {
+      "file": "zen-kaku-gothic-new-400-supplement-01.woff2",
+      "family": "Zen Kaku Gothic New",
+      "weight": 400,
+      "bytes": 5860,
+      "sha256": "923b9f7fb641e7c6d3ca2e0b5fa36b8a7c03014a73bcd6cd9eb2630d980a6246",
+      "source_url": "https://fonts.gstatic.com/l/font?kit=gNMYW2drQpDw0GjzrVNFf_valaDBcznOkj56PqZRquHZM1hspmcFAgp_JPg3-6Gb6Wfogm_6Ob8yws_F-lbC_NBWFcpgpgfSflN5h6vlBasg6eh8HtN8FwcvQL1T9iB_NAATefoTFWYJSW_nLxlPeUSbtZNXfKmh_VRy3QekSLbue1FltFFS9JrsG0omGppnlS93&skey=7b7f935ef05e996a&v=v19",
+      "license": "SIL Open Font License 1.1",
+      "license_file": "OFL-Zen-Kaku-Gothic-New.txt"
+    },
+    {
+      "file": "zen-kaku-gothic-new-500-supplement-01.woff2",
+      "family": "Zen Kaku Gothic New",
+      "weight": 500,
+      "bytes": 5900,
+      "sha256": "3ec0c0c51d1732d27c250cfc745f6447af2b3f6158abd1dab763b0350c6f9564",
+      "source_url": "https://fonts.gstatic.com/l/font?kit=gNMVW2drQpDw0GjzrVNFf_valaDBcznOqs9LaWHKP6PkM15vp2ADAgp8JPs2-6GR6WfYgm_iOb8xws_M-lbF_NFgFcp1pgfiflNhgJD0Bago6e5dH-xqFw4rQKZl9hNkNAc1efkOFXw7SlvVLx52eVWStahwfKCf83lT3S-pSKvEe1hItXtQ9K3AG1ATHJ16lS5kpsyX&skey=6e7fe20f45eed400&v=v19",
+      "license": "SIL Open Font License 1.1",
+      "license_file": "OFL-Zen-Kaku-Gothic-New.txt"
+    },
+    {
+      "file": "zen-kaku-gothic-new-700-supplement-01.woff2",
+      "family": "Zen Kaku Gothic New",
+      "weight": 700,
+      "bytes": 5804,
+      "sha256": "f832220b374147dd2c9037009200d44537113fb647a71c1ddd6f1f56bfc13fe9",
+      "source_url": "https://fonts.gstatic.com/l/font?kit=gNMVW2drQpDw0GjzrVNFf_valaDBcznOqodNaWHKP6PkM15vp2ADAgp8JPs2-6GR6WfYgm_iOb8xws_M-lbF_NFgFcp1pgfiflNhgJD0Bago6e5dH-xqFw4rQKZl9hNkNAc1efkOFXw7SlvVLx52eVWStahwfKCf83lT3S-pSKvEe1hItXtQ9K3AG1ATHJ16lS5kpsyX&skey=82994e245a1cc281&v=v19",
+      "license": "SIL Open Font License 1.1",
+      "license_file": "OFL-Zen-Kaku-Gothic-New.txt"
+    },
+    {
+      "file": "zen-kaku-gothic-new-900-supplement-01.woff2",
+      "family": "Zen Kaku Gothic New",
+      "weight": 900,
+      "bytes": 5716,
+      "sha256": "76bc94eb367ec4ac0c1e49acd8ce60466afc50f1a1663e86ec02f27abce9d190",
+      "source_url": "https://fonts.gstatic.com/l/font?kit=gNMVW2drQpDw0GjzrVNFf_valaDBcznOqr9PaWHKP6PkM15vp2ADAgp8JPs2-6GR6WfYgm_iOb8xws_M-lbF_NFgFcp1pgfiflNhgJD0Bago6e5dH-xqFw4rQKZl9hNkNAc1efkOFXw7SlvVLx52eVWStahwfKCf83lT3S-pSKvEe1hItXtQ9K3AG1ATHJ16lS5kpsyX&skey=fd6b21b70f3e7e63&v=v19",
+      "license": "SIL Open Font License 1.1",
+      "license_file": "OFL-Zen-Kaku-Gothic-New.txt"
+    }
+  ],
+  "previous_subset": "source-map-jp.json",
+  "update_policy": "Supplement-only: existing 585-character files retained unchanged; unicode-range limits these faces to the new characters."
+}

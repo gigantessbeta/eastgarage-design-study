@@ -1,0 +1,93 @@
+{
+  "recorded_at": "2026-10-12T20:08:46.709782+00:00",
+  "provenance": "Primary agent confirmed all three use design/scenes/a/01-hero.png as the sole image reference, dedicated saved prompts, and transparent_background=true. Technical dimensions, alpha and SHA-256 measured from production PNG bytes.",
+  "assets": [
+    {
+      "file": "tire-stack.png",
+      "kind": "AI-generated decorative illustration; not a photograph",
+      "generated_with": "Built-in image_gen tool in this session",
+      "prompt_file": "design/prompts/part-tire-stack.md",
+      "prompt_sha256": "95a07aebba22d5cf12d12ab294aed2ff5d37509e782ba52ec1084402c7964edd",
+      "reference_image": "design/scenes/a/01-hero.png",
+      "reference_use": "Engraving style reference only; independent generation, not a screenshot crop",
+      "reference_sha256": "88a2ca84f26371330523403577e5f8298dce4273bc7188619a54a8e1ebfd1063",
+      "transparent_background_requested": true,
+      "width": 1448,
+      "height": 1086,
+      "mode": "RGBA",
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_counts": {
+        "fully_transparent": 617007,
+        "partially_transparent": 955188,
+        "fully_opaque": 333
+      },
+      "sha256": "ab9ff7b1479918ac6deea0b904ad798de9166b8a415a4042b644a1d819ed369d",
+      "bytes": 2393076,
+      "processing": "Materialized original generated PNG; no screenshot slicing or photograph substitution",
+      "production_use": "Decorative, empty alt; does not document shop inventory, machinery, people or actual products",
+      "rights_note": "Generated for this private design study; no third-party photo source or brand claim attached."
+    },
+    {
+      "file": "single-tire.png",
+      "kind": "AI-generated decorative illustration; not a photograph",
+      "generated_with": "Built-in image_gen tool in this session",
+      "prompt_file": "design/prompts/part-single-tire.md",
+      "prompt_sha256": "b71312d1e710ecea56785a1f4a920f08662b7bee751fe424395ea21a1033a2b2",
+      "reference_image": "design/scenes/a/01-hero.png",
+      "reference_use": "Engraving style reference only; independent generation, not a screenshot crop",
+      "reference_sha256": "88a2ca84f26371330523403577e5f8298dce4273bc7188619a54a8e1ebfd1063",
+      "transparent_background_requested": true,
+      "width": 1237,
+      "height": 1272,
+      "mode": "RGBA",
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_counts": {
+        "fully_transparent": 628182,
+        "partially_transparent": 944645,
+        "fully_opaque": 637
+      },
+      "sha256": "d199c2e3562ffc771490a370fb3862ff8d5648e31fc90aa93a85a1430a51a209",
+      "bytes": 2582472,
+      "processing": "Materialized original generated PNG; no screenshot slicing or photograph substitution",
+      "production_use": "Decorative, empty alt; does not document shop inventory, machinery, people or actual products",
+      "rights_note": "Generated for this private design study; no third-party photo source or brand claim attached."
+    },
+    {
+      "file": "garage-tools.png",
+      "kind": "AI-generated decorative illustration; not a photograph",
+      "generated_with": "Built-in image_gen tool in this session",
+      "prompt_file": "design/prompts/part-garage-tools.md",
+      "prompt_sha256": "90e6954f54499f2a8269172d488e35512c7d7d9100bae1bc6976488807a5d34f",
+      "reference_image": "design/scenes/a/01-hero.png",
+      "reference_use": "Engraving style reference only; independent generation, not a screenshot crop",
+      "reference_sha256": "88a2ca84f26371330523403577e5f8298dce4273bc7188619a54a8e1ebfd1063",
+      "transparent_background_requested": true,
+      "width": 1774,
+      "height": 887,
+      "mode": "RGBA",
+      "alpha_channel": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_counts": {
+        "fully_transparent": 731704,
+        "partially_transparent": 841418,
+        "fully_opaque": 416
+      },
+      "sha256": "067a04a045174924164a01c6313067873196eba69a6bea925167b1e8df5bc451",
+      "bytes": 2517324,
+      "processing": "Materialized original generated PNG; no screenshot slicing or photograph substitution",
+      "production_use": "Decorative, empty alt; does not document shop inventory, machinery, people or actual products",
+      "rights_note": "Generated for this private design study; no third-party photo source or brand claim attached."
+    }
+  ]
+}
