@@ -1,0 +1,22 @@
+{
+  "asset_check": "Original photograph and generated part byte identity; copied font CSS paths resolve. This is not a browser layout review.",
+  "missing_font_files": [],
+  "assets": [
+    {
+      "file": "assets/photos/large-wheel-detail.jpg",
+      "source": "site/assets/photos/large-wheel-detail.jpg",
+      "width": 640,
+      "height": 480,
+      "sha256": "72fa3fcfe1f2e12ace4ac1bdb9267455c0d27416388f4528910e1e4bd0096552",
+      "identical_bytes": true
+    },
+    {
+      "file": "assets/parts/rim-macro.png",
+      "source": "design/parts/b/rim-macro.png",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "da3279a66e334a2428eb945ef7bf3ee48e6b56d6d3500035af310c9cbf88e4fb",
+      "identical_bytes": true
+    }
+  ]
+}

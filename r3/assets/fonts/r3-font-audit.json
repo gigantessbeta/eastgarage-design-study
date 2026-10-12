@@ -1,0 +1,36 @@
+{
+  "source_copy": "../../../design/copy.md",
+  "source_copy_sha256": "b99ed86165429797a7a3408488fdb39a542b23ca0d8b1084b5b5227a80253b82",
+  "character_source": "r3-ui-character-source.txt",
+  "scope": "Adopted text blocks, factual image alts, selected metadata and aria labels; excludes rejected/internal production text.",
+  "unique_needed_characters": 235,
+  "previous_declared_coverage": 620,
+  "missing_before_supplement": "ハ上圧壁年払支料月材祝製金銀黄",
+  "missing_count": 15,
+  "fallback_if_unsupplemented": "These missing characters use next supported family in the CSS stack, e.g. Hiragino Kaku Gothic ProN, Yu Gothic, Meiryo, sans-serif. Existing faces are constrained by unicode-range.",
+  "adopted_families": {
+    "Barlow Condensed": [
+      700,
+      800
+    ],
+    "Zen Kaku Gothic New": [
+      400,
+      500,
+      700,
+      900
+    ]
+  },
+  "license": "SIL Open Font License 1.1; original license files and copyright retained",
+  "previous_assets_copied": 29,
+  "fonts_loading_not_yet_browser_verified": true,
+  "supplement": "source-map-jp-supplement-r3.json",
+  "missing_after_declared_supplement": "",
+  "supplement_total_bytes": 11752,
+  "coverage_evidence": "Existing character manifests/unicode-range plus successful official subset delivery. WOFF2 headers inspected; runtime glyph rendering is left to actual-screen review.",
+  "font_css_for_implementation": [
+    "assets/fonts/fonts.css",
+    "assets/fonts/fonts-jp.css"
+  ],
+  "fallback_stack_japanese": "\"Zen Kaku Gothic New\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", Meiryo, sans-serif",
+  "fallback_stack_latin": "\"Barlow Condensed\", \"Arial Narrow\", sans-serif"
+}
