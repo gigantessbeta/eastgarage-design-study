@@ -1,0 +1,71 @@
+{
+  "fonttools": "4.66.1",
+  "brotli": "1.2.0",
+  "api_documentation": "https://fonttools.readthedocs.io/en/latest/ttLib/woff2.html",
+  "fonts": [
+    {
+      "file": "DelaGothicOne-Regular.woff2",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/fonts/DelaGothicOne-Regular.ttf",
+      "source_sha256": "4ff87a0965f1b0505e5a2c58424bc6ad3cff27e56a82f21c2fc9d6b0e3857ee2",
+      "sha256": "e7cde7c3a9b253734ab1a7ce40e03ef1f19307b39aaabb9772db7f8acfe2c5bf",
+      "subsetting": false,
+      "bytes": 1186656
+    },
+    {
+      "file": "YuseiMagic-Regular.woff2",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/fonts/YuseiMagic-Regular.ttf",
+      "source_sha256": "82098615f39ed9da6a8ccc674b9006e49c70dd5b775a7a1697f6bedd22ce25a2",
+      "sha256": "33de935fbf42ee09ef160d31dce7cd01b0b8f9d02ba451dee5921fcb033c7542",
+      "subsetting": false,
+      "bytes": 964684
+    },
+    {
+      "file": "Anton-Regular.woff2",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/fonts/Anton-Regular.ttf",
+      "source_sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab",
+      "sha256": "e261fbadf359b1387d3685b865818c2b7f650517e13016d77d21e1eb7ab7fae4",
+      "subsetting": false,
+      "bytes": 57412
+    },
+    {
+      "file": "LilitaOne-Regular.woff2",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/fonts/LilitaOne-Regular.ttf",
+      "source_sha256": "f5b641c45c69d772ee4eda687bc9fda411d5cad6b0b45371491da4580cbc8d59",
+      "sha256": "fd882d2519e6eb27b4fb4fe9906149cb29d31a995a6b139c9e1e2a29c9525505",
+      "subsetting": false,
+      "bytes": 11924
+    },
+    {
+      "file": "ZenKakuGothicNew-Regular.woff2",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/fonts/ZenKakuGothicNew-Regular.ttf",
+      "source_sha256": "b840cd07a67d89cacca44249ae49aa99ee7640eb5ce623be8d8983d6aabac801",
+      "sha256": "82947c8de422edf4804a2976163f03cfb8a283fb3e1262c89c1bebe1364d1c2b",
+      "subsetting": false,
+      "bytes": 1052404
+    },
+    {
+      "file": "ZenKakuGothicNew-Medium.woff2",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/fonts/ZenKakuGothicNew-Medium.ttf",
+      "source_sha256": "651a3f7280b7f36262601ee76d8388a8dc4372dcc67aff025a608939a562b525",
+      "sha256": "5074a35728c6a3b2c67faff1823c18eb7cc9aa8a041ebc360b4d2b7258e7dcc6",
+      "subsetting": false,
+      "bytes": 1065444
+    },
+    {
+      "file": "ZenKakuGothicNew-Bold.woff2",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/fonts/ZenKakuGothicNew-Bold.ttf",
+      "source_sha256": "0081cedabc4921982fcd061f845a005664ac7fb642af2dd34b4007bc63ccd235",
+      "sha256": "751171e0c0e30d0b51c2f51ddc54362f082fcb49d6f0d144b9ae119a4ec3a978",
+      "subsetting": false,
+      "bytes": 1083376
+    },
+    {
+      "file": "BarlowCondensed-SemiBold.woff2",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/fonts/BarlowCondensed-SemiBold.ttf",
+      "source_sha256": "7b619d14bc2327509a9ef32b0890f709626f7ecc9ff61191c2a4314c5499d2d9",
+      "sha256": "fa9dce30a032594dc73eabdee132dd851120e606fd35452e3cb870006bd54475",
+      "subsetting": false,
+      "bytes": 39264
+    }
+  ]
+}

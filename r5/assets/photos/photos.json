@@ -1,0 +1,827 @@
+{
+  "created": "2026-10-14",
+  "coordinate_convention": "left,top,right,bottom; right/bottom exclusive",
+  "assets": [
+    {
+      "id": "goopit-02",
+      "original_file": "originals/goopit-02.jpg",
+      "original_source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage/research/assets/goopit-02.jpg",
+      "original_sha256": "3237abb9cb36e13ba48a31346d61df7a771dc41b49016104bb2e71ba53d4b05c",
+      "original_dimensions": [
+        640,
+        480
+      ],
+      "source_url": "https://www.goo-net.com/pit/shop/0171919/top",
+      "image_url": "https://picture1.goo-net.com/shop/017/0171919/L/0171919_Pit_Shp_02.jpg",
+      "derivatives": [
+        {
+          "file": "goopit-02.jpg",
+          "sha256": "3237abb9cb36e13ba48a31346d61df7a771dc41b49016104bb2e71ba53d4b05c",
+          "dimensions": [
+            640,
+            480
+          ],
+          "operations": [
+            {
+              "operation": "unchanged_copy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goopit-05",
+      "original_file": "originals/goopit-05.jpg",
+      "original_source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage/research/assets/goopit-05.jpg",
+      "original_sha256": "2f1f5a674f0182c95e1e5392b94ffaccd0ce87a58bfb1af31591d6e34906148a",
+      "original_dimensions": [
+        640,
+        480
+      ],
+      "source_url": "https://www.goo-net.com/pit/shop/0171919/top",
+      "image_url": "https://picture1.goo-net.com/shop/017/0171919/L/0171919_Pit_Shp_05.jpg",
+      "derivatives": [
+        {
+          "file": "goopit-05.jpg",
+          "sha256": "2f1f5a674f0182c95e1e5392b94ffaccd0ce87a58bfb1af31591d6e34906148a",
+          "dimensions": [
+            640,
+            480
+          ],
+          "operations": [
+            {
+              "operation": "unchanged_copy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goopit-08",
+      "original_file": "originals/goopit-08.jpg",
+      "original_source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage/research/assets/goopit-08.jpg",
+      "original_sha256": "24367bf56979066a9b2bb432b6eac0394a3ca101b6df34311fac9c5b34c5a386",
+      "original_dimensions": [
+        640,
+        480
+      ],
+      "source_url": "https://www.goo-net.com/pit/shop/0171919/top",
+      "image_url": "https://picture1.goo-net.com/shop/017/0171919/L/0171919_Pit_Shp_08.jpg",
+      "derivatives": [
+        {
+          "file": "goopit-08.jpg",
+          "sha256": "24367bf56979066a9b2bb432b6eac0394a3ca101b6df34311fac9c5b34c5a386",
+          "dimensions": [
+            640,
+            480
+          ],
+          "operations": [
+            {
+              "operation": "unchanged_copy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tirepit-01",
+      "original_file": "originals/tirepit-01.jpg",
+      "original_source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage/research/assets/tirepit-01.jpg",
+      "original_sha256": "39edcc1d13f69c91fd2b09be16ed5e11ac193d012afc8b0c21958e5cfd9dbfbe",
+      "original_dimensions": [
+        737,
+        456
+      ],
+      "source_url": "https://www.tirepit.jp/stores/detail/16915",
+      "image_url": "https://www.tirepit.jp/upload/stores/16915/20220530111305_62942831f0df4_________2_m.jfif?1653876786",
+      "derivatives": [
+        {
+          "file": "tirepit-01.jpg",
+          "sha256": "39edcc1d13f69c91fd2b09be16ed5e11ac193d012afc8b0c21958e5cfd9dbfbe",
+          "dimensions": [
+            737,
+            456
+          ],
+          "operations": [
+            {
+              "operation": "unchanged_copy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "work-01-04",
+      "original_file": "originals/work-01-04.jpg",
+      "original_source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage/research/assets/work-01-04.jpg",
+      "original_sha256": "9ccf96d640a07d6db09627408573e77aa3bc2004416b2bdc262195df9f47a228",
+      "original_dimensions": [
+        640,
+        480
+      ],
+      "source_url": "https://www.goo-net.com/pit/shop/0171919/blog/483652",
+      "image_url": "https://picture1.goo-net.com/shop/017/0171919/M/0171919_20230119180258_189_P_Pit_Blog_04.jpg",
+      "derivatives": [
+        {
+          "file": "work-01-04.jpg",
+          "sha256": "86e259d873263e9a0663918c6382846d9c335b92200666a782dbca8f88c76364",
+          "dimensions": [
+            360,
+            480
+          ],
+          "operations": [
+            {
+              "operation": "trim_white_build_comps",
+              "box": [
+                140,
+                0,
+                500,
+                480
+              ],
+              "threshold": 238,
+              "sample_step": 4,
+              "upscale": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "work-03-02",
+      "original_file": "originals/work-03-02.jpg",
+      "original_source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage/research/assets/work-03-02.jpg",
+      "original_sha256": "72fa3fcfe1f2e12ace4ac1bdb9267455c0d27416388f4528910e1e4bd0096552",
+      "original_dimensions": [
+        640,
+        480
+      ],
+      "source_url": "https://www.goo-net.com/pit/shop/0171919/blog/476174",
+      "image_url": "https://picture1.goo-net.com/shop/017/0171919/M/0171919_20221205164902_416_P_Pit_Blog_01.jpg",
+      "derivatives": [
+        {
+          "file": "work-03-02.jpg",
+          "sha256": "69af91ad7ce5574d266fa9211673e2629fc4a5efd98b60e2028cea3d3b6e7bef",
+          "dimensions": [
+            384,
+            480
+          ],
+          "operations": [
+            {
+              "operation": "trim_white_build_comps",
+              "box": [
+                128,
+                0,
+                512,
+                480
+              ],
+              "threshold": 238,
+              "sample_step": 4,
+              "upscale": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "work-05-04",
+      "original_file": "originals/work-05-04.jpg",
+      "original_source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage/research/assets/work-05-04.jpg",
+      "original_sha256": "19d8a86f093d20706d6703ec29057941bdaf6b39ee3cc79bef59e68ef0d5fd7a",
+      "original_dimensions": [
+        640,
+        480
+      ],
+      "source_url": "https://www.goo-net.com/pit/shop/0171919/blog/473633",
+      "image_url": "https://picture1.goo-net.com/shop/017/0171919/M/0171919_20221124111633_773_P_Pit_Blog_01.jpg",
+      "derivatives": [
+        {
+          "file": "work-05-04.jpg",
+          "sha256": "24c86c2826e56ff053e7dec9872b92f0127520d8cfbbaf8d425aa2056dbd2da3",
+          "dimensions": [
+            384,
+            480
+          ],
+          "operations": [
+            {
+              "operation": "trim_white_build_comps",
+              "box": [
+                128,
+                0,
+                512,
+                480
+              ],
+              "threshold": 238,
+              "sample_step": 4,
+              "upscale": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "work-09-01",
+      "original_file": "originals/work-09-01.jpg",
+      "original_source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage/research/assets/work-09-01.jpg",
+      "original_sha256": "bb2723ec005b7475e52b2b4a1f83208610152ee416f98ecd620b4c5c019c41c1",
+      "original_dimensions": [
+        640,
+        480
+      ],
+      "source_url": "https://www.goo-net.com/pit/shop/0171919/blog/469649",
+      "image_url": "https://picture1.goo-net.com/shop/017/0171919/M/0171919_20221105141520_496_P_Pit_Blog_00.jpg",
+      "derivatives": [
+        {
+          "file": "work-09-01.jpg",
+          "sha256": "138f8d8d511006e5aa6e1fb4acf85baf19a5a05b310db3535636a425e14ebc21",
+          "dimensions": [
+            360,
+            480
+          ],
+          "operations": [
+            {
+              "operation": "trim_white_build_comps",
+              "box": [
+                140,
+                0,
+                500,
+                480
+              ],
+              "threshold": 238,
+              "sample_step": 4,
+              "upscale": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "instagram-02",
+      "original_file": "originals/instagram-02.jpg",
+      "original_source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage/research/assets/instagram-02.jpg",
+      "original_sha256": "be7ff718f6a1ad688d65f6a4c89f6034a04f1d3f68f242e89d12042103428873",
+      "original_dimensions": [
+        480,
+        640
+      ],
+      "source_url": "https://www.instagram.com/p/Dd-cTYBE8gI/",
+      "image_url": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/828360262_17915969694465366_727838237560551162_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jPHlp83IqRwQ7kNvwHfFhwa&_nc_oc=Adqxg-Q0G16P02DfnThMFLP2u3cjSkRoAO6GDsVL2dGfXtc2kE-2n0HyoDXdf9Q_eb8MOwbD4jqweq3pBSovbJSp&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZiulaHWAILzmZA8XZfsQPg&_nc_ss=7b689&oh=00_AQOKQN9PMSOoeeRDqijhozH7VKzCSrewywfPe-c4c_hINg&oe=6AD315A4",
+      "derivatives": [
+        {
+          "file": "instagram-02-square.jpg",
+          "sha256": "051d85c68009833d72d814ebe1c69ab96450fad1782afd3a9cd42d6bb6700e65",
+          "dimensions": [
+            480,
+            480
+          ],
+          "operations": [
+            {
+              "operation": "central_square_crop",
+              "box": [
+                0,
+                80,
+                480,
+                560
+              ],
+              "upscale": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "instagram-03",
+      "original_file": "originals/instagram-03.jpg",
+      "original_source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage/research/assets/instagram-03.jpg",
+      "original_sha256": "49cddaee3eb14c370ec2b341730db3f8dc855e6b484566ba9220a3d23ab770cd",
+      "original_dimensions": [
+        480,
+        640
+      ],
+      "source_url": "https://www.instagram.com/p/DdwGJ97lGmZ/",
+      "image_url": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/825324865_17915161545465366_4765396623706525944_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mlVyX62vhNQQ7kNvwGbrIk7&_nc_oc=Ado_1S56tJ9GYDaseUVvmTbXbmg7CGOF8d9wjzegASTQlYsudytEu23dZLsN8q0bSZBVfywxt4OmlX8IvHKhyQck&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZiulaHWAILzmZA8XZfsQPg&_nc_ss=7b689&oh=00_AQMMws5_DiwH7JkfcHxWubHEXDOTRpqRH8ttdthpz_0kzQ&oe=6AD30E7A",
+      "derivatives": [
+        {
+          "file": "instagram-03-square.jpg",
+          "sha256": "7bbde7ac8dd35a9f3d1ef8e55790363de5a15e03b694b91ce44310a6502e41f2",
+          "dimensions": [
+            480,
+            480
+          ],
+          "operations": [
+            {
+              "operation": "central_square_crop",
+              "box": [
+                0,
+                80,
+                480,
+                560
+              ],
+              "upscale": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "instagram-04",
+      "original_file": "originals/instagram-04.jpg",
+      "original_source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage/research/assets/instagram-04.jpg",
+      "original_sha256": "812b977fb38268468d53efcc1385a8f6a5f01b103c0a6d1d45d36af79e693e69",
+      "original_dimensions": [
+        480,
+        640
+      ],
+      "source_url": "https://www.instagram.com/p/Ddc8r0lzO7y/",
+      "image_url": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/814852511_17914079088465366_1884577113262015234_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=itRSfeGggcIQ7kNvwFCElr1&_nc_oc=Adq3V5eVHifOAB-EBj_GGbQQoVy0chcHNNsozGhGXJDLUrTWdhjed9UBc6DAmhGOZOzqQ_G93MVghAxCxFHJ4mFK&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZiulaHWAILzmZA8XZfsQPg&_nc_ss=7b689&oh=00_AQO3nTscLnpVamhtMnr5lpkXo-2bisfc59ojc-E1974VOg&oe=6AD302DC",
+      "derivatives": [
+        {
+          "file": "instagram-04-square.jpg",
+          "sha256": "73a5ce094b0806eec64f96c39f113655a7ca2b62393b8ad7d00e641e6967ce67",
+          "dimensions": [
+            480,
+            480
+          ],
+          "operations": [
+            {
+              "operation": "central_square_crop",
+              "box": [
+                0,
+                80,
+                480,
+                560
+              ],
+              "upscale": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "instagram-05",
+      "original_file": "originals/instagram-05.jpg",
+      "original_source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage/research/assets/instagram-05.jpg",
+      "original_sha256": "f2fe80d3d801ac50042f249259fd18b4e807973b4cb9a07cf2f580c8c3e85450",
+      "original_dimensions": [
+        480,
+        640
+      ],
+      "source_url": "https://www.instagram.com/p/DccRYA4k57T/",
+      "image_url": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/785281254_17910520770465366_5101810143042905715_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=B395xFMDK1QQ7kNvwGq-A2w&_nc_oc=AdrMVW07ROhSSVU8Sev2ZshAFu5aYAt3I_7ivIss9rgjOFH2MAuGbK1K9JJCaKhCoU9s0S40LjuZlPfrRE5jvfvF&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZiulaHWAILzmZA8XZfsQPg&_nc_ss=7b689&oh=00_AQPCxepwcAjavpCdFuNa_HKeb9gbTRtPXdamG4NXSAY31g&oe=6AD2FBC9",
+      "derivatives": [
+        {
+          "file": "instagram-05-square.jpg",
+          "sha256": "c6e098a7a5a22a01f296026bcf80cb80af51e6a1a061128255fbf8c917297e4b",
+          "dimensions": [
+            480,
+            480
+          ],
+          "operations": [
+            {
+              "operation": "central_square_crop",
+              "box": [
+                0,
+                80,
+                480,
+                560
+              ],
+              "upscale": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "instagram-06",
+      "original_file": "originals/instagram-06.jpg",
+      "original_source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage/research/assets/instagram-06.jpg",
+      "original_sha256": "1cae3eaf6058b3a7e91de12d183a036b0f1788035596f579dc4b1045ffeb4efb",
+      "original_dimensions": [
+        480,
+        640
+      ],
+      "source_url": "https://www.instagram.com/p/DcQlQLJk4-V/",
+      "image_url": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/780909614_17909905437465366_6417049716640052540_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=1iZVj31e_hcQ7kNvwGQkXEZ&_nc_oc=Adq6-lUtzVwTlCiPu7jJdNBPA6K3NyNEYvY0OF-Asq2PssOAscZqIHhz4Mv6TG_00-OvD5x4F935xcuSCNp4Tr_J&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZiulaHWAILzmZA8XZfsQPg&_nc_ss=7b689&oh=00_AQMcPfL7Oohax47e3UBZYBSYXX0C7pCVhx5kwblx2-0aRQ&oe=6AD2EEF2",
+      "derivatives": [
+        {
+          "file": "instagram-06-square.jpg",
+          "sha256": "19626b5a564cb6a0bcd5d1da7847eee0561308d8c3c66ccf3eade608c6b02654",
+          "dimensions": [
+            480,
+            480
+          ],
+          "operations": [
+            {
+              "operation": "central_square_crop",
+              "box": [
+                0,
+                80,
+                480,
+                560
+              ],
+              "upscale": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "instagram-08",
+      "original_file": "originals/instagram-08.jpg",
+      "original_source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage/research/assets/instagram-08.jpg",
+      "original_sha256": "b80af066401e2e8137294bb048a7b880e019c94e8dcc8d8678a61b393d53d60d",
+      "original_dimensions": [
+        480,
+        640
+      ],
+      "source_url": "https://www.instagram.com/p/DapazgTE91I/",
+      "image_url": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/744597748_17903468538465366_5565982163712284877_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=RGypApKOQDoQ7kNvwFHInKc&_nc_oc=AdquKIz-DvYBr5bI6sEaYte8LkVnyrhBQliQtWR-z-kChXNWE2lnUUEaSFL18YIN_OgNDpKePr1FIzigxj4wsVix&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZiulaHWAILzmZA8XZfsQPg&_nc_ss=7b689&oh=00_AQNOhHF64N104VPAT-E9C9qYGwMLSl-k7G6bHAE0p5deCA&oe=6AD31FE7",
+      "derivatives": [
+        {
+          "file": "instagram-08-square.jpg",
+          "sha256": "18c510ed149c52d6a570f141f293a1ecbc698979b1636d0dcbae88f65a0b802d",
+          "dimensions": [
+            480,
+            480
+          ],
+          "operations": [
+            {
+              "operation": "central_square_crop",
+              "box": [
+                0,
+                80,
+                480,
+                560
+              ],
+              "upscale": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "instagram-09",
+      "original_file": "originals/instagram-09.jpg",
+      "original_source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage/research/assets/instagram-09.jpg",
+      "original_sha256": "1292ebf4b5cc9c41308eb6f2c847887265d986f59d7a55db7321a92f4fb74f00",
+      "original_dimensions": [
+        360,
+        640
+      ],
+      "source_url": "https://www.instagram.com/reel/DakA5nczj7J/",
+      "image_url": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/743081782_17903152839465366_5547158198401392529_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=LvH9Vc9D050Q7kNvwG2Ccqo&_nc_oc=Ado85x5Xqey8kuAQff4ycMgk0YCVHpY8cCrurPY6LOORuQZg55luUTQZ9uQLXLhXss9lPt-TpRTVfbOd9v4Uum9C&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZiulaHWAILzmZA8XZfsQPg&_nc_ss=7b689&oh=00_AQOv_HMOOjJCPzdBXJC5nx_QqpmVIlNKUkPJXqYpJo-CGA&oe=6AD2F722",
+      "derivatives": [
+        {
+          "file": "instagram-09-square.jpg",
+          "sha256": "8e4fe57aaf9737c077784a2779ac0fd2ac9ddea9f09fc3abb91ee3b42b914e6b",
+          "dimensions": [
+            360,
+            360
+          ],
+          "operations": [
+            {
+              "operation": "central_square_crop",
+              "box": [
+                0,
+                140,
+                360,
+                500
+              ],
+              "upscale": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "instagram-10",
+      "original_file": "originals/instagram-10.jpg",
+      "original_source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage/research/assets/instagram-10.jpg",
+      "original_sha256": "6d1671914b8a290a28edf5995a33a7d12ba8d2fee6ba953d1f48fec7b80b715c",
+      "original_dimensions": [
+        480,
+        640
+      ],
+      "source_url": "https://www.instagram.com/p/DZzbjO0k7YW/",
+      "image_url": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/724685140_17900143491465366_3280844719788777198_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=HERaMdZpBJEQ7kNvwG1lJtQ&_nc_oc=AdpZhlYU-Kc7FR5yfALo_web5KZpDOo53d7kCA0_c9lPojZp2lO_IZw0PMeHtWliuK2ighivtymAvLu7swqMH7mq&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZiulaHWAILzmZA8XZfsQPg&_nc_ss=7b689&oh=00_AQOOD5YGaHo6zhe8Umy0YGsAHIu8yKfiMK-IWyzmsASDDQ&oe=6AD2F5F1",
+      "derivatives": [
+        {
+          "file": "instagram-10-square.jpg",
+          "sha256": "3f2eb297884403e3601475f5279a9774680ad5fb13379321cb8e4c1c90d49fdc",
+          "dimensions": [
+            480,
+            480
+          ],
+          "operations": [
+            {
+              "operation": "central_square_crop",
+              "box": [
+                0,
+                80,
+                480,
+                560
+              ],
+              "upscale": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "instagram-11",
+      "original_file": "originals/instagram-11.jpg",
+      "original_source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage/research/assets/instagram-11.jpg",
+      "original_sha256": "18b7f6577b6b7004fa8609fd26472c2a10323f3e451c2a4b1d42d99e523e644a",
+      "original_dimensions": [
+        480,
+        640
+      ],
+      "source_url": "https://www.instagram.com/p/DZhQbh7k7xU/",
+      "image_url": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/723100002_17899117986465366_840520494414103_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=HBcrrLzK150Q7kNvwFmlZwC&_nc_oc=AdosJmnD_RvjIrEJcUl19MVc6CGm3Zb4qKuBbkDkP9U_Am6kAppAHvD7qALneUxAa_Sn1-Yp2babAsZHFb2R9kHe&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZiulaHWAILzmZA8XZfsQPg&_nc_ss=7b689&oh=00_AQM6nFskmb-FcANUZMNG7SG2Jg9umckb-KclVf0XH522yg&oe=6AD31856",
+      "derivatives": [
+        {
+          "file": "instagram-11-square.jpg",
+          "sha256": "69001a8e7ceb132a766784c02514c6726ace0996e9dcc64d3fd95725731d93eb",
+          "dimensions": [
+            480,
+            480
+          ],
+          "operations": [
+            {
+              "operation": "central_square_crop",
+              "box": [
+                0,
+                80,
+                480,
+                560
+              ],
+              "upscale": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "instagram-12",
+      "original_file": "originals/instagram-12.jpg",
+      "original_source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage/research/assets/instagram-12.jpg",
+      "original_sha256": "4409de7468eb3e8ce5b150c79609b4a0884921322e802b49ea082bcec544a890",
+      "original_dimensions": [
+        481,
+        640
+      ],
+      "source_url": "https://www.instagram.com/p/DZPYkNNE-xt/",
+      "image_url": "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/716330419_17898083541465366_906035885816747621_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=bAIGcO946aIQ7kNvwFFeNGn&_nc_oc=AdrzhIJ4id8yZfqHJUwIkSyNt9ICAJclQXnTSi9-5-vKMXQWIkIWkbx40HKYOVi88KNaTzQTQdex8XwiZvb8sCDw&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZiulaHWAILzmZA8XZfsQPg&_nc_ss=7b689&oh=00_AQNDXNfl_MoZ8rQ2vftiOGa7iBRHzplsA4mqI7S-7bYU7Q&oe=6AD2F355",
+      "derivatives": [
+        {
+          "file": "instagram-12-square.jpg",
+          "sha256": "f7902d1ea2e73126099db5217d1b392bd7b35a0cf43a5f7226a854f4c87c21c7",
+          "dimensions": [
+            481,
+            481
+          ],
+          "operations": [
+            {
+              "operation": "central_square_crop",
+              "box": [
+                0,
+                79,
+                481,
+                560
+              ],
+              "upscale": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "asset_afc29d7bc194a76a",
+      "original_file": "originals/bb5bff7ac09acccd7d1cf4cabc92ab6b5b452005b3309bbd122157a6035913ad.jpg",
+      "original_source_file": "/Volumes/WORK_SSD/local-site-leads-cx-app/workspace/runs/eastgarage-2026-10-12/dossiers/lead_9788e2fb69d19dbc/assets/看板/bb5bff7ac09acccd7d1cf4cabc92ab6b5b452005b3309bbd122157a6035913ad.jpg",
+      "original_sha256": "bb5bff7ac09acccd7d1cf4cabc92ab6b5b452005b3309bbd122157a6035913ad",
+      "original_dimensions": [
+        901,
+        676
+      ],
+      "source_url": "https://www.google.com/maps/place/East+Garage/@34.7593631,137.3956976,17z/data=!3m1!4b1!4m6!3m5!1s0x6004d377f73b5463:0xb95e1beb7770267d!8m2!3d34.7593631!4d137.3956976!16s%2Fg%2F11sp87n4ts?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TgIutHItAduvK4iulqYoluG-OgctFFpMN6jzKP7k5KeEDZvTnCT2uKgfS_fSj3BFlFB0uDVnC2mdQiTNiQUhVYPe2rCLVldAIJCNXBu5YjGNKM2FHx7OargzSJz6kRwdbLn520=s901-k-no",
+      "derivatives": [
+        {
+          "file": "sign-board.png",
+          "sha256": "259a3406b8830e4e02f6e23f6a0406e6ef41ea2e80b7f8512daaf031dff2e682",
+          "dimensions": [
+            660,
+            440
+          ],
+          "operations": [
+            {
+              "operation": "approved_design_perspective_crop",
+              "source_quadrilateral": [
+                [
+                  112,
+                  212
+                ],
+                [
+                  748,
+                  116
+                ],
+                [
+                  755,
+                  453
+                ],
+                [
+                  62,
+                  508
+                ]
+              ],
+              "output_size": [
+                660,
+                440
+              ]
+            },
+            {
+              "operation": "unchanged_copy_of_approved_design_crop",
+              "input_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/crops/sign-board.png"
+            }
+          ]
+        }
+      ],
+      "provenance_note": "Claude design/crops/make_crops.py uses this previously collected original; not present in replay research/assets.json. Original dossier and source URLs retained."
+    },
+    {
+      "id": "asset_75368fb3eab07bee",
+      "original_file": "originals/ec9d9e1d076bff18602173a7a30c05503c71f1752a966da0c875a4b0b3ef24f8.jpg",
+      "original_source_file": "/Volumes/WORK_SSD/local-site-leads-cx-app/workspace/runs/eastgarage-2026-10-12/dossiers/lead_9788e2fb69d19dbc/assets/外観/ec9d9e1d076bff18602173a7a30c05503c71f1752a966da0c875a4b0b3ef24f8.jpg",
+      "original_sha256": "ec9d9e1d076bff18602173a7a30c05503c71f1752a966da0c875a4b0b3ef24f8",
+      "original_dimensions": [
+        2048,
+        1536
+      ],
+      "source_url": "https://www.google.com/maps/place/East+Garage/@34.7593631,137.3956976,17z/data=!3m1!4b1!4m6!3m5!1s0x6004d377f73b5463:0xb95e1beb7770267d!8m2!3d34.7593631!4d137.3956976!16s%2Fg%2F11sp87n4ts?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SwxQcOFn0ImwSlOumqd3fIxVxVcgrV2Uc5-lBSIUI320heRONgiEXvNeMoxzf0SJ7WY06waRsbiJTnwyBurAekQFrRB5WCCRkYniFabfgpkhE536A4TfUOKhAZfq4kp96msZUTi9u0v2Cq=s2048-v1",
+      "derivatives": [
+        {
+          "file": "door-crop-blurred.png",
+          "sha256": "f76d9c6a23c102ea318713d136bb0a3b9b87e010fffa1e2773bc89bfa3289954",
+          "dimensions": [
+            1208,
+            1256
+          ],
+          "operations": [
+            {
+              "operation": "crop_original",
+              "box": [
+                840,
+                280,
+                2048,
+                1536
+              ]
+            },
+            {
+              "operation": "approved_design_gaussian_blur",
+              "box_in_crop": [
+                269,
+                789,
+                354,
+                843
+              ],
+              "radius": 12
+            },
+            {
+              "operation": "unchanged_copy_of_approved_design_crop",
+              "input_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/crops/door-crop-blurred.png"
+            }
+          ]
+        }
+      ],
+      "provenance_note": "Claude design/crops/make_crops.py uses this previously collected original; not present in replay research/assets.json. Original dossier and source URLs retained."
+    },
+    {
+      "id": "asset_75368fb3eab07bee",
+      "original_file": "originals/ec9d9e1d076bff18602173a7a30c05503c71f1752a966da0c875a4b0b3ef24f8.jpg",
+      "original_source_file": "/Volumes/WORK_SSD/local-site-leads-cx-app/workspace/runs/eastgarage-2026-10-12/dossiers/lead_9788e2fb69d19dbc/assets/外観/ec9d9e1d076bff18602173a7a30c05503c71f1752a966da0c875a4b0b3ef24f8.jpg",
+      "original_sha256": "ec9d9e1d076bff18602173a7a30c05503c71f1752a966da0c875a4b0b3ef24f8",
+      "original_dimensions": [
+        2048,
+        1536
+      ],
+      "source_url": "https://www.google.com/maps/place/East+Garage/@34.7593631,137.3956976,17z/data=!3m1!4b1!4m6!3m5!1s0x6004d377f73b5463:0xb95e1beb7770267d!8m2!3d34.7593631!4d137.3956976!16s%2Fg%2F11sp87n4ts?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+      "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SwxQcOFn0ImwSlOumqd3fIxVxVcgrV2Uc5-lBSIUI320heRONgiEXvNeMoxzf0SJ7WY06waRsbiJTnwyBurAekQFrRB5WCCRkYniFabfgpkhE536A4TfUOKhAZfq4kp96msZUTi9u0v2Cq=s2048-v1",
+      "derivatives": [
+        {
+          "file": "sticker-wall.png",
+          "sha256": "7d4aed5f32d9b7ec025ad1aef8ecf8e9262c6fb384dd8edaa6abbfd9d476df23",
+          "dimensions": [
+            770,
+            600
+          ],
+          "operations": [
+            {
+              "operation": "approved_design_crop",
+              "box": [
+                70,
+                760,
+                840,
+                1360
+              ]
+            },
+            {
+              "operation": "unchanged_copy_of_approved_design_crop",
+              "input_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/crops/sticker-wall.png"
+            }
+          ]
+        },
+        {
+          "file": "sticker-band.png",
+          "sha256": "9713c74e75cc290aa91780f3b692ef23cb1b756d524f95a82a048aa83acd7931",
+          "dimensions": [
+            770,
+            120
+          ],
+          "operations": [
+            {
+              "operation": "approved_design_crop",
+              "box": [
+                70,
+                760,
+                840,
+                1360
+              ]
+            },
+            {
+              "operation": "strip_crop_from_sticker_wall",
+              "box": [
+                0,
+                320,
+                770,
+                440
+              ]
+            }
+          ]
+        }
+      ],
+      "provenance_note": "Claude design/crops/make_crops.py uses this previously collected original; not present in replay research/assets.json. Original dossier and source URLs retained."
+    },
+    {
+      "id": "work-06-01",
+      "original_file": "originals/work-06-01.jpg",
+      "original_source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage/research/assets/work-06-01.jpg",
+      "original_sha256": "8da17f69fce428eb949681d372dc7b819a2cb9a06fe47ebe0c9111e70b890345",
+      "original_dimensions": [
+        640,
+        480
+      ],
+      "source_url": "https://www.goo-net.com/pit/shop/0171919/blog/473631",
+      "image_url": "https://picture1.goo-net.com/shop/017/0171919/M/0171919_20221124103803_713_P_Pit_Blog_00.jpg",
+      "derivatives": [
+        {
+          "file": "work-06-01.jpg",
+          "sha256": "9c0d51aa8d379ce2b7249880fd3cb79a46492c393c8c502732af114b3c411e43",
+          "dimensions": [
+            384,
+            480
+          ],
+          "operations": [
+            {
+              "operation": "remove_observed_white_side_margins",
+              "box": [
+                128,
+                0,
+                512,
+                480
+              ],
+              "upscale": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goopit-07",
+      "original_file": "originals/goopit-07.jpg",
+      "original_source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage/research/assets/goopit-07.jpg",
+      "original_sha256": "a2743caf07b6f7e121aadee468f3880482b2b7f6a7e52ef4809c91ba86caff76",
+      "original_dimensions": [
+        640,
+        480
+      ],
+      "source_url": "https://www.goo-net.com/pit/shop/0171919/top",
+      "image_url": "https://picture1.goo-net.com/shop/017/0171919/L/0171919_Pit_Shp_07.jpg",
+      "derivatives": [
+        {
+          "file": "goopit-07.jpg",
+          "sha256": "a2743caf07b6f7e121aadee468f3880482b2b7f6a7e52ef4809c91ba86caff76",
+          "dimensions": [
+            640,
+            480
+          ],
+          "operations": [
+            {
+              "operation": "unchanged_copy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

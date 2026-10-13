@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<symbol id="tire" viewBox="0 0 64 64"><circle cx="32" cy="32" r="27"/><circle cx="32" cy="32" r="12"/><path d="M32 5v15m0 24v15M5 32h15m24 0h15M13 13l10 10m18 18 10 10M13 51l10-10m18-18 10-10"/></symbol>
+<symbol id="wrench" viewBox="0 0 64 64"><path d="M57 9 44 21l-9-1-1-9L46 2a18 18 0 0 0-23 23L7 43a9 9 0 0 0 13 13l18-17A18 18 0 0 0 57 9Z"/><path d="m12 50 3-3"/></symbol>
+<symbol id="yen" viewBox="0 0 64 64"><circle cx="32" cy="32" r="27"/><path d="m22 18 10 15 10-15M32 33v16M22 34h20M22 42h20"/></symbol>
+<symbol id="phone" viewBox="0 0 64 64"><path d="m13 6 11 14-7 8c5 10 10 15 20 20l8-7 13 11c-4 10-12 8-20 4C23 49 14 39 7 25 3 16 4 10 13 6Z"/></symbol>
+<symbol id="pin" viewBox="0 0 64 64"><path d="M51 25c0 14-19 33-19 33S13 39 13 25a19 19 0 1 1 38 0Z"/><circle cx="32" cy="25" r="7"/></symbol>
+<symbol id="clock" viewBox="0 0 64 64"><circle cx="32" cy="32" r="27"/><path d="M32 14v20l12 6"/></symbol>
+<symbol id="instagram" viewBox="0 0 64 64"><rect x="7" y="7" width="50" height="50" rx="14"/><circle cx="32" cy="32" r="12"/><path d="M47 17h.1"/></symbol>
+</svg>

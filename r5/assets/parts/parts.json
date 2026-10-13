@@ -1,0 +1,188 @@
+{
+  "coordinate_convention": "left,top,right,bottom; right/bottom exclusive",
+  "parts": [
+    {
+      "file": "p1-mascot-stand.png",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/parts/p1-mascot-stand.png",
+      "source_sha256": "5c8aaef88b497d2a07a87f50be0163d27ee1a6eb3762d5522d5b5926cd473510",
+      "sha256": "5c8aaef88b497d2a07a87f50be0163d27ee1a6eb3762d5522d5b5926cd473510",
+      "operations": "unchanged_copy"
+    },
+    {
+      "file": "p2-mascot-tire.png",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/parts/p2-mascot-tire.png",
+      "source_sha256": "4ea4d5a381bbcc41d038c5f096ebabf32470d867ce5f571e2d0e07465c4e14a3",
+      "sha256": "4ea4d5a381bbcc41d038c5f096ebabf32470d867ce5f571e2d0e07465c4e14a3",
+      "operations": "unchanged_copy"
+    },
+    {
+      "file": "p4-osb.png",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/parts/p4-osb.png",
+      "source_sha256": "dc395c5a50674e3ba670c8db4e0a43b93ccbad44bc229ce066091af46181b8b2",
+      "sha256": "dc395c5a50674e3ba670c8db4e0a43b93ccbad44bc229ce066091af46181b8b2",
+      "operations": "unchanged_copy"
+    },
+    {
+      "file": "p5-cream.png",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/parts/p5-cream.png",
+      "source_sha256": "41e0cce9b2d79f307b9debf5afc91688d0c7f91021a85ee63b283a1feedb1a0f",
+      "sha256": "41e0cce9b2d79f307b9debf5afc91688d0c7f91021a85ee63b283a1feedb1a0f",
+      "operations": "unchanged_copy"
+    },
+    {
+      "file": "p6-tape.png",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/parts/p6-tape.png",
+      "source_sha256": "5eef98ca5bbd0a6d94c8bc71f098daec8a6e4613305d0972529b91e03688a90b",
+      "sha256": "5eef98ca5bbd0a6d94c8bc71f098daec8a6e4613305d0972529b91e03688a90b",
+      "operations": "unchanged_copy"
+    },
+    {
+      "file": "p3-round-badge.png",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/parts/p3-badges.png",
+      "source_sha256": "1b0c328643a20804b8ee1779a3435b570e0df92d8ca7b056939495768b9e0020",
+      "sha256": "7370434241748a025385d25c594610be5bb69baf6d9486702b8aaa89756001e7",
+      "crop_box": [
+        38,
+        28,
+        677,
+        643
+      ],
+      "alpha": "values >200 rounded to255; others retained",
+      "separation_line": [
+        [
+          0,
+          630
+        ],
+        [
+          160,
+          630
+        ],
+        [
+          245,
+          640
+        ],
+        [
+          370,
+          645
+        ],
+        [
+          490,
+          639
+        ],
+        [
+          585,
+          627
+        ],
+        [
+          680,
+          613
+        ],
+        [
+          930,
+          590
+        ]
+      ]
+    },
+    {
+      "file": "p3-service-pit.png",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/parts/p3-badges.png",
+      "source_sha256": "1b0c328643a20804b8ee1779a3435b570e0df92d8ca7b056939495768b9e0020",
+      "sha256": "155ceeda16b47714d666ea61b3b2ce523f6b16bd1a7911426736be9b568311d5",
+      "crop_box": [
+        696,
+        143,
+        1512,
+        590
+      ],
+      "alpha": "values >200 rounded to255; others retained",
+      "separation_line": null
+    },
+    {
+      "file": "p3-new-used.png",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/parts/p3-badges.png",
+      "source_sha256": "1b0c328643a20804b8ee1779a3435b570e0df92d8ca7b056939495768b9e0020",
+      "sha256": "9219c9e65a371f1bf0a3e7f07295a9faee470e38e955c30bc46be3a0ab556487",
+      "crop_box": [
+        34,
+        614,
+        923,
+        971
+      ],
+      "alpha": "values >200 rounded to255; others retained",
+      "separation_line": [
+        [
+          0,
+          630
+        ],
+        [
+          160,
+          630
+        ],
+        [
+          245,
+          640
+        ],
+        [
+          370,
+          645
+        ],
+        [
+          490,
+          639
+        ],
+        [
+          585,
+          627
+        ],
+        [
+          680,
+          613
+        ],
+        [
+          930,
+          590
+        ]
+      ]
+    },
+    {
+      "file": "p3-arrow.png",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/parts/p3-badges.png",
+      "source_sha256": "1b0c328643a20804b8ee1779a3435b570e0df92d8ca7b056939495768b9e0020",
+      "sha256": "817205f662c922caed526e5ec091ef37d963af5e54d96a815474f611774c9153",
+      "crop_box": [
+        927,
+        591,
+        1510,
+        973
+      ],
+      "alpha": "values >200 rounded to255; others retained",
+      "separation_line": null
+    },
+    {
+      "file": "p4-osb-mirrored.png",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-r5/design/parts/p4-osb.png",
+      "source_sha256": "dc395c5a50674e3ba670c8db4e0a43b93ccbad44bc229ce066091af46181b8b2",
+      "operations": "2x2 original/horizontal-mirror/vertical-mirror/both-mirror; use CSS background-size:1254px to display each original tile at627px",
+      "sha256": "fb1d0a5c0dd88f0b63f3086dc76467c4fb86d294864b95d741c3d4072bd465a5"
+    }
+  ],
+  "p5_cream": {
+    "source_mean_rgb": [
+      244.18551099003128,
+      237.11941182156494,
+      218.98992251907134
+    ],
+    "base_rgb": [
+      245,
+      239,
+      220
+    ],
+    "opacity": 0.35,
+    "expected_composited_mean_rgb": [
+      244.71492884651093,
+      238.3417941375477,
+      219.64647288167498
+    ],
+    "browser_pixels_still_required": true
+  }
+}
