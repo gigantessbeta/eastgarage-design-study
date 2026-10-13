@@ -1,0 +1,13 @@
+{
+  "method": "Current HTML text versus actively linked local @font-face unicode-range declarations; not binary cmap inspection",
+  "stage": "after R4 Japanese supplement activation",
+  "active_css": [
+    "fonts-jp.css",
+    "fonts-jp-r4.css"
+  ],
+  "missing_characters": [],
+  "codepoints": [],
+  "html_sha256": "60697a5e18211dabe584c41a4dceb975a9f1ceb53b4d33c05ad24b590fa8c38c",
+  "previous_audit": "../../../design/process/font-metadata-original/r4-font-audit.json",
+  "binary_file_integrity_evidence": "../../../design/process/font-file-integrity-01.json"
+}

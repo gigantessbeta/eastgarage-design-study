@@ -1,0 +1,43 @@
+{
+  "request_url": "https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New%3Awght%40400%3B500%3B700%3B900&display=swap&text=%E2%80%BB%E6%89%81%E6%A6%82%E7%A8%8B%E7%AE%97%E7%B8%BE%E9%81%94%E9%A0%86",
+  "text": "※扁概程算績達順",
+  "new_css_not_yet_activated": false,
+  "sources": [
+    {
+      "weight": 400,
+      "source": "https://fonts.gstatic.com/l/font?kit=gNMYW2drQpDw0GjzrVNFf_valaDBcznOkj56UYZ484fEUDhdxwE8amxDUJ0cpsqDngzh5w&skey=7b7f935ef05e996a&v=v19",
+      "file": "zen-kaku-gothic-new-400-r4.woff2",
+      "bytes": 2320,
+      "sha256": "701f30be867ebbcc5bd16422e7f43a59fe8af184bf3c19946efd2e56d6d3b6db"
+    },
+    {
+      "weight": 500,
+      "source": "https://fonts.gstatic.com/l/font?kit=gNMVW2drQpDw0GjzrVNFf_valaDBcznOqs9LaWHKUIPNajhyxAAyY2xFTJ0Kj8S6tAzA9QTrXA&skey=6e7fe20f45eed400&v=v19",
+      "file": "zen-kaku-gothic-new-500-r4.woff2",
+      "bytes": 2328,
+      "sha256": "3f381893de06b566346314fb79852e2fe7bdbc073e68e2bd446ac25633f21d0a"
+    },
+    {
+      "weight": 700,
+      "source": "https://fonts.gstatic.com/l/font?kit=gNMVW2drQpDw0GjzrVNFf_valaDBcznOqodNaWHKUIPNajhyxAAyY2xFTJ0Kj8S6tAzA9QTrXA&skey=82994e245a1cc281&v=v19",
+      "file": "zen-kaku-gothic-new-700-r4.woff2",
+      "bytes": 2316,
+      "sha256": "1f41358ef1bddc77d9df1602544e7a65b7d73be0f33c5e0a99b590b088316e61"
+    },
+    {
+      "weight": 900,
+      "source": "https://fonts.gstatic.com/l/font?kit=gNMVW2drQpDw0GjzrVNFf_valaDBcznOqr9PaWHKUIPNajhyxAAyY2xFTJ0Kj8S6tAzA9QTrXA&skey=fd6b21b70f3e7e63&v=v19",
+      "file": "zen-kaku-gothic-new-900-r4.woff2",
+      "bytes": 2256,
+      "sha256": "f8c2ec1edcec09cf988733ec484335734859f93b0c1ef9d5b7a635719b742990"
+    }
+  ],
+  "activation": {
+    "status": "linked in site/index.html",
+    "stylesheet": "assets/fonts/fonts-jp-r4.css",
+    "verified_at": "2026-10-13T10:47:28.458761+00:00",
+    "evidence": "../../../design/fidelity/captures/round-04/sp-geometry.json",
+    "original_acquisition_record": "../../../design/process/font-metadata-original/r4-font-supplement-sources.json",
+    "original_css": "google-fonts-jp-supplement-r4-original.css"
+  }
+}

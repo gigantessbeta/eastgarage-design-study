@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Zen Kaku Gothic New';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(zen-kaku-gothic-new-400-r4.woff2) format('woff2');
+  unicode-range: U+203b, U+6241, U+6982, U+7a0b, U+7b97, U+7e3e, U+9054, U+9806;
+}
+@font-face {
+  font-family: 'Zen Kaku Gothic New';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(zen-kaku-gothic-new-500-r4.woff2) format('woff2');
+  unicode-range: U+203b, U+6241, U+6982, U+7a0b, U+7b97, U+7e3e, U+9054, U+9806;
+}
+@font-face {
+  font-family: 'Zen Kaku Gothic New';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(zen-kaku-gothic-new-700-r4.woff2) format('woff2');
+  unicode-range: U+203b, U+6241, U+6982, U+7a0b, U+7b97, U+7e3e, U+9054, U+9806;
+}
+@font-face {
+  font-family: 'Zen Kaku Gothic New';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(zen-kaku-gothic-new-900-r4.woff2) format('woff2');
+  unicode-range: U+203b, U+6241, U+6982, U+7a0b, U+7b97, U+7e3e, U+9054, U+9806;
+}

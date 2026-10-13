@@ -1,0 +1,120 @@
+{
+  "prepared_at": "2026-10-12T19:43:27.191645+00:00",
+  "api_url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700;800&family=Bowlby+One+SC&display=swap",
+  "api_documentation": "https://developers.google.com/fonts/docs/css2",
+  "css": "fonts.css",
+  "original_css": "google-fonts-original.css",
+  "fonts": [
+    {
+      "file": "barlow-condensed-700-vietnamese.woff2",
+      "family": "Barlow Condensed",
+      "weight": 700,
+      "subset": "vietnamese",
+      "source_url": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2z3nWuZEC.woff2",
+      "bytes": 7636,
+      "sha256": "6c554f2decc277ef760244c5ee6b5a85840862966e2ad4d02a1bdcdfefb9afa2",
+      "license": "SIL Open Font License 1.1",
+      "license_file": "OFL-Barlow-Condensed.txt",
+      "processing": "none; official CSS2 API delivery bytes"
+    },
+    {
+      "file": "barlow-condensed-700-latin-ext.woff2",
+      "family": "Barlow Condensed",
+      "weight": 700,
+      "subset": "latin-ext",
+      "source_url": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2z3jWuZEC.woff2",
+      "bytes": 14640,
+      "sha256": "9d351bd9222bfab90f943850f8039aa73cdb40e0a6cfe4127308a48bef59d5f5",
+      "license": "SIL Open Font License 1.1",
+      "license_file": "OFL-Barlow-Condensed.txt",
+      "processing": "none; official CSS2 API delivery bytes"
+    },
+    {
+      "file": "barlow-condensed-700-latin.woff2",
+      "family": "Barlow Condensed",
+      "weight": 700,
+      "subset": "latin",
+      "source_url": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2z3bWuQ.woff2",
+      "bytes": 22444,
+      "sha256": "3787a5a419171630e6890cfa47c4da067474d005cd0ff8dc11ec090fdc3ee2b8",
+      "license": "SIL Open Font License 1.1",
+      "license_file": "OFL-Barlow-Condensed.txt",
+      "processing": "none; official CSS2 API delivery bytes"
+    },
+    {
+      "file": "barlow-condensed-800-vietnamese.woff2",
+      "family": "Barlow Condensed",
+      "weight": 800,
+      "subset": "vietnamese",
+      "source_url": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1z3nWuZEC.woff2",
+      "bytes": 7808,
+      "sha256": "87b35049bcb491c02a45d740cb88abd709e73cda023fbe5e28eefbff6649cdfe",
+      "license": "SIL Open Font License 1.1",
+      "license_file": "OFL-Barlow-Condensed.txt",
+      "processing": "none; official CSS2 API delivery bytes"
+    },
+    {
+      "file": "barlow-condensed-800-latin-ext.woff2",
+      "family": "Barlow Condensed",
+      "weight": 800,
+      "subset": "latin-ext",
+      "source_url": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1z3jWuZEC.woff2",
+      "bytes": 14548,
+      "sha256": "22539b785b3cbcee08e0722ff37fa16a18e71e4482d9078f7da79da1258e7614",
+      "license": "SIL Open Font License 1.1",
+      "license_file": "OFL-Barlow-Condensed.txt",
+      "processing": "none; official CSS2 API delivery bytes"
+    },
+    {
+      "file": "barlow-condensed-800-latin.woff2",
+      "family": "Barlow Condensed",
+      "weight": 800,
+      "subset": "latin",
+      "source_url": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1z3bWuQ.woff2",
+      "bytes": 22464,
+      "sha256": "2515494e8cc2ca07c86ea78766cfa104b796aa6ed5d66821c01d51dbb0b52bce",
+      "license": "SIL Open Font License 1.1",
+      "license_file": "OFL-Barlow-Condensed.txt",
+      "processing": "none; official CSS2 API delivery bytes"
+    },
+    {
+      "file": "bowlby-one-sc-400-latin-ext.woff2",
+      "family": "Bowlby One SC",
+      "weight": 400,
+      "subset": "latin-ext",
+      "source_url": "https://fonts.gstatic.com/s/bowlbyonesc/v27/DtVlJxerQqQm37tzN3wMug9P_gH2ojhN.woff2",
+      "bytes": 10396,
+      "sha256": "2064771ded2f06feb27ffa97ec63fd51d2dcb8f611e474e7bff1b92e90780c96",
+      "license": "SIL Open Font License 1.1",
+      "license_file": "OFL-Bowlby-One-SC.txt",
+      "processing": "none; official CSS2 API delivery bytes"
+    },
+    {
+      "file": "bowlby-one-sc-400-latin.woff2",
+      "family": "Bowlby One SC",
+      "weight": 400,
+      "subset": "latin",
+      "source_url": "https://fonts.gstatic.com/s/bowlbyonesc/v27/DtVlJxerQqQm37tzN3wMug9P_g_2og.woff2",
+      "bytes": 23708,
+      "sha256": "c6860ffe6f98701c1b0cddad6f6cf7d57ec1b1226647c9f7ba45a3bf5ce1261a",
+      "license": "SIL Open Font License 1.1",
+      "license_file": "OFL-Bowlby-One-SC.txt",
+      "processing": "none; official CSS2 API delivery bytes"
+    }
+  ],
+  "licenses": [
+    {
+      "family": "Barlow Condensed",
+      "file": "OFL-Barlow-Condensed.txt",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlowcondensed/OFL.txt",
+      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f"
+    },
+    {
+      "family": "Bowlby One SC",
+      "file": "OFL-Bowlby-One-SC.txt",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/bowlbyonesc/OFL.txt",
+      "sha256": "f3ee3eb20a9d565bee2bbc0d616de382a113327d7506565b2f3d3bee5f489375"
+    }
+  ],
+  "japanese_font": "Prepared separately; see fonts-jp.css and source-map-jp.json. Coverage applies to the recorded source versions and common UI character set."
+}
