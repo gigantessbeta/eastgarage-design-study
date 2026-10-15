@@ -1,0 +1,14 @@
+{
+  "parts": [
+    {
+      "id": "P1",
+      "file": "p1-approved.png",
+      "source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-argon/design/parts/p1-approved.png",
+      "source_sha256": "6b727186ed9d31d50c7732c8e95839e003a17dadfc07fad1a210b361c31fbab8",
+      "sha256": "6b727186ed9d31d50c7732c8e95839e003a17dadfc07fad1a210b361c31fbab8",
+      "approval": "design/calls/06-sheet-review/response.txt — 部品の置き場所"
+    }
+  ],
+  "P2": "Inline SVG per 06-sheet-review",
+  "P3": "CSS per 06-sheet-review"
+}

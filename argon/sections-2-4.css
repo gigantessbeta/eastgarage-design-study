@@ -1,0 +1,173 @@
+/* Chapters 02–04: dimensions from build_comps.py, final copy and component overrides from 06-sheet-review. */
+#service,#works,#showcase{color:#121519;font-style:normal}
+#service :is(h2,h3,p,figure),#works :is(h2,h3,p,figure),#showcase :is(h2,h3,p,figure){margin:0}
+#service :is(h2,h3),#works :is(h2,h3),#showcase :is(h2,h3){font-family:'Zen Kaku Gothic New',sans-serif}
+#service h2,#works h2,#showcase h2{font-weight:900}
+#service h3,#works h3,#showcase h3{font-weight:700}
+#service p,#works p,#showcase p{font-family:'Noto Sans JP',sans-serif}
+#service img,#works img,#showcase img{display:block;width:100%;height:100%;object-fit:cover}
+#service :is(.service-photo,.equipment-photo),#works :is(.feature-main,.feature-sub,.work-photo),#showcase :is(.showcase-photo,.showcase-inset){position:absolute;display:block;overflow:hidden;border:1px solid #121519}
+#service a:focus-visible,#works a:focus-visible,#showcase a:focus-visible{outline:4px solid #F2B705;outline-offset:3px;z-index:8}
+#service .pinstripe,#works .pinstripe{position:absolute;display:block}
+#works .sp-label,#showcase .sp-label{display:none}
+#service{background:#121519;background-image:linear-gradient(#1E232B 1px,transparent 1px),linear-gradient(90deg,#1E232B 1px,transparent 1px);background-size:60px 60px;color:#F7F8F4}
+#service .service-scene{height:860px}
+#service .service-heading{position:absolute;left:330px;top:48px;width:780px;height:110px;border:2px solid #F7F8F4;border-radius:2px;background:#1E232B;text-align:center}
+#service .service-heading .pinstripe{left:298px;top:4px;width:180px;height:24px}
+#service .service-heading .eyebrow{position:absolute;top:32px;width:100%;font-family:'Chakra Petch',sans-serif;font-size:14px;font-weight:700;line-height:20px;color:#F2B705}
+#service .service-heading h2{position:absolute;top:56px;width:100%;font-size:36px;line-height:1.25;letter-spacing:-.01em}
+#service .double-stripe{position:absolute;left:0;right:0;bottom:0;height:8px;background:linear-gradient(to bottom,#0D56D9 0 4px,#F7F8F4 4px 6px,#0D56D9 6px 8px)}
+#service .screw{position:absolute;width:8px;height:8px}
+#service .screw:nth-of-type(2){left:2px;top:2px}
+#service .screw:nth-of-type(3){right:2px;top:2px}
+#service .screw:nth-of-type(4){left:2px;bottom:2px}
+#service .screw:nth-of-type(5){right:2px;bottom:2px}
+#service .service-card{position:absolute;left:100px;top:190px;width:396px;height:468px;border:2px solid #323A46;border-radius:2px;background:#1E232B}
+#service .service-card::before{content:'';position:absolute;left:-2px;right:-2px;top:-2px;height:6px;background:var(--accent);z-index:2}
+#service .service-card-2{left:522px}
+#service .service-card-3{left:944px}
+#service .service-photo{left:0;top:4px;width:392px;height:192px}
+#service .service-card-1 img{object-position:center 20%}
+#service .service-card-3 img{object-position:center 45%}
+#service .service-badge{position:absolute;left:16px;top:208px;height:22px;padding:2px 10px;background:var(--accent);border-radius:2px;color:var(--badge-ink);font-family:'Chakra Petch',sans-serif;font-size:12px;font-weight:700;line-height:18px;white-space:nowrap}
+#service .service-card h3{position:absolute;left:16px;top:238px;font-size:22px;line-height:1.35;white-space:nowrap}
+#service .service-body{position:absolute;left:16px;top:270px;width:360px;font-size:14.5px;font-weight:400;line-height:1.58;color:#B8C2CC;overflow-wrap:break-word}
+#service .service-note{position:absolute;left:12px;top:392px;width:368px;height:62px;padding:5px 7px;border:1px solid #323A46;border-radius:2px;background:#121519;color:#F7F8F4;font-size:11.5px;line-height:1.45}
+#service .service-card-1 .service-note{border-color:#D92323}
+#service .equipment-strip{position:absolute;left:100px;top:682px;width:1240px;height:116px;display:grid;grid-template-columns:repeat(4,1fr);border:1px solid #323A46;background:#1E232B;border-radius:2px}
+#service .equipment-strip figure{position:relative}
+#service .equipment-strip figure+figure::before{content:'';position:absolute;left:-1px;top:11px;width:1px;height:92px;background:#323A46}
+#service .equipment-photo{left:13px;top:15px;width:110px;height:84px}
+#service .equipment-strip figcaption{position:absolute;left:133px;top:23px;width:164px;font:700 14px/1.48 'Zen Kaku Gothic New',sans-serif;overflow-wrap:normal}
+#works{background:#0D56D9}
+#works .works-scene{height:1280px}
+#works .lift-band{position:absolute;left:0;right:0;top:0;height:24px;background:#121519;overflow:hidden}
+#works .lift-band-bottom{top:auto;bottom:0;transform:scaleY(-1)}
+#works .works-heading .archive-badge{position:absolute;left:100px;top:48px;width:456px;height:26px;padding:2px 10px;border:2px solid #121519;border-radius:2px;background:#F2B705;font:700 14px/18px 'Chakra Petch',sans-serif;white-space:nowrap}
+#works .works-heading .pinstripe{left:576px;top:48px;width:160px;height:22px}
+#works .works-heading h2{position:absolute;left:100px;top:89px;color:#F7F8F4;font-size:38px;line-height:1.25;letter-spacing:-.01em}
+#works .works-lead{position:absolute;left:860px;top:52px;width:480px;color:#F7F8F4;font-size:14px;font-weight:500;line-height:1.55}
+#works .work-feature{position:absolute;left:100px;top:168px;width:606px;height:410px;background:#F7F8F4;border:3px solid #121519;border-radius:2px;box-shadow:6px 6px 0 #121519}
+#works .work-feature-2{left:734px}
+#works .work-feature-2 .feature-sub img{object-position:center 52%}
+#works .work-card-1 .work-photo img{object-position:center 40%}
+#works .work-card-6 .work-photo-left img{object-position:center 18%}
+#works .feature-main{left:13px;top:21px;width:270px;height:360px;border-width:2px}
+#works .feature-sub{left:293px;top:21px;width:294px;height:190px;border-width:2px}
+#works .spec-tag,#showcase .spec-tag{position:absolute;border:2px solid #121519;background:#F7F8F4;box-shadow:3px 3px 0 #121519}
+#works .spec-tag::before,#works .spec-tag::after,#showcase .spec-tag::before,#showcase .spec-tag::after{content:'';position:absolute;top:-5px;width:18px;height:6px;border:1px solid #121519;background:#F2B705;z-index:3}
+#works .spec-tag::before,#showcase .spec-tag::before{left:-5px}
+#works .spec-tag::after,#showcase .spec-tag::after{right:-5px}
+#works .feature-tag{left:293px;top:223px;width:296px;height:154px;outline:1px solid #121519;outline-offset:-5px}
+#works .tag-band,#showcase .tag-band{position:relative;margin:0;background:var(--accent);color:#F7F8F4;font:700 11px/20px 'Chakra Petch',sans-serif;white-space:nowrap}
+#works .tag-band{height:24px;padding:2px 6px}
+#works .feature-tag h3{position:absolute;left:8px;top:28px;font-size:17px;line-height:1.35;white-space:nowrap}
+#works .feature-spec{position:absolute;left:8px;top:53px;width:274px;font-family:'Barlow Condensed','Zen Kaku Gothic New',sans-serif;font-size:14px;font-weight:700;line-height:1.2;color:#0E5A45;white-space:nowrap}
+#works .feature-body{position:absolute;left:8px;top:78px;width:274px;font-size:12.5px;line-height:1.48}
+#works .work-feature-2 .feature-tag h3{font-size:15px}
+#works .work-feature-2 .feature-spec{font-size:11.5px;color:#D92323}
+#works .work-card{position:absolute;left:100px;top:602px;width:396px;height:296px;border:2px solid #121519;background:#F7F8F4;border-radius:2px;box-shadow:4px 4px 0 #121519}
+#works .work-card-2,#works .work-card-5{left:522px}
+#works .work-card-3,#works .work-card-6{left:944px}
+#works .work-card-4,#works .work-card-5,#works .work-card-6{top:920px}
+#works .work-photo{top:0;height:172px}
+#works .work-photo-wide{left:0;width:392px}
+#works .work-photo-left{left:0;width:212px}
+#works .work-photo-right{left:216px;width:176px}
+#works .work-spec{position:absolute;left:12px;top:178px;font:700 15px/1.2 'Barlow Condensed','Zen Kaku Gothic New',sans-serif;color:var(--spec-ink);white-space:nowrap}
+#works .work-card h3{position:absolute;left:12px;top:201px;font-size:16.5px;line-height:1.35;white-space:nowrap}
+#works .work-desc{position:absolute;left:12px;top:226px;width:368px;font-size:13px;line-height:1.48}
+#showcase{background:#F7F8F4}
+#showcase .showcase-scene{height:740px}
+#showcase .showcase-heading .eyebrow{position:absolute;left:100px;top:46px;color:#0E5A45;font:700 14px/1.4 'Chakra Petch',sans-serif}
+#showcase .showcase-heading h2{position:absolute;left:100px;top:86px;font-size:36px;line-height:1.25;letter-spacing:-.01em}
+#showcase .stock-note{position:absolute;left:912px;top:38px;width:428px;height:38px;border:2px solid #121519;border-radius:2px;box-shadow:3px 3px 0 #121519;background:#121519;color:#F2B705;text-align:center;font:700 12.5px/34px 'Zen Kaku Gothic New',sans-serif;white-space:nowrap}
+#showcase .showcase-card{position:absolute;left:100px;top:172px;width:292px;height:490px;border:2px solid #121519;border-radius:2px;box-shadow:4px 4px 0 #121519;background:#FFF}
+#showcase .showcase-card-2{left:416px}
+#showcase .showcase-card-3{left:732px}
+#showcase .showcase-card-4{left:1048px}
+#showcase .showcase-photo{left:0;top:0;width:288px;height:288px}
+#showcase .showcase-inset{left:198px;top:198px;width:84px;height:84px;border:2px solid #F7F8F4}
+#showcase .showcase-card-4 .showcase-inset{left:186px;top:210px;width:96px;height:72px}
+#showcase .showcase-tag{left:6px;top:6px;width:216px;height:54px;outline:1px solid #121519;outline-offset:-5px}
+#showcase .tag-band{height:22px;padding:1px 6px}
+#showcase .showcase-spec{height:28px;padding:3px 6px;font:700 15px/20px 'Barlow Condensed','Zen Kaku Gothic New',sans-serif;white-space:nowrap}
+#showcase .showcase-copy{position:absolute;left:12px;top:296px;width:264px}
+#showcase .showcase-copy h3{font-size:18.5px;line-height:1.32}
+#showcase .showcase-copy>p{margin-top:8px;color:#4A525D;font-size:13.5px;line-height:1.55}
+@media(max-width:700px){
+ #service{background-size:40px 40px}
+ #service .service-scene{height:1760px}
+ #service .service-heading{left:20px;top:32px;width:350px;height:96px}
+ #service .service-heading .pinstripe{left:103px;top:4px;width:140px;height:20px}
+ #service .service-heading .eyebrow{top:26px;font-size:11px;line-height:16px}
+ #service .service-heading h2{top:46px;font-size:18px;line-height:1.3}
+ #service .service-card{left:20px;top:148px;width:350px;height:466px}
+ #service .service-card-2{top:632px;height:394px}
+ #service .service-card-3{top:1044px}
+ #service .service-photo{width:346px;height:180px}
+ #service .service-badge{left:12px;top:194px;width:210px;height:20px;padding:2px 4px;text-align:center;font-size:11px;line-height:16px}
+ #service .service-card h3{left:12px;top:222px;font-size:18px;line-height:1.35}
+ #service .service-body{left:12px;top:248px;width:322px;font-size:13.5px;line-height:1.55}
+ #service .service-note{left:8px;top:396px;width:330px;height:58px;padding:4px 5px;font-size:11px;line-height:1.4}
+ #service .equipment-strip{left:20px;top:1528px;width:350px;height:216px;grid-template-columns:repeat(2,1fr);grid-template-rows:100px 100px;padding:13px 7px}
+ #service .equipment-strip figure+figure::before{display:none}
+ #service .equipment-photo{left:0;top:0;width:70px;height:74px}
+ #service .equipment-strip figcaption{left:76px;top:4px;width:88px;font-size:11px;line-height:1.32}
+ #works .works-scene{height:2520px}
+ #works .works-heading .archive-badge{left:20px;top:38px;width:350px;height:22px;border-width:1px;padding:2px 0;text-align:center;font-size:10.5px;line-height:16px}
+ #works .works-heading .pinstripe{left:125px;top:66px;width:140px;height:20px}
+ #works .works-heading h2{left:20px;top:92px;font-size:24px;line-height:1.3;letter-spacing:-.01em}
+ #works .works-lead{left:20px;top:124px;width:350px;font-size:11.5px;line-height:1.45}
+ #works .work-feature{left:20px;top:200px;width:350px;height:286px;border-width:2px;box-shadow:4px 4px 0 #121519;display:grid;grid-template-columns:156px 166px;grid-template-rows:100px 160px;gap:8px 12px;padding:8px 6px 6px}
+ #works .work-feature-2{top:504px}
+ #works .feature-main{position:static;grid-column:1;grid-row:1 / 3;width:156px;height:100%;min-height:268px;align-self:stretch}
+ #works .feature-sub{position:static;grid-column:2;grid-row:1;width:166px;height:100px}
+ #works .feature-tag{position:relative;left:auto;top:auto;grid-column:2;grid-row:2;width:166px;height:160px}
+ #works .tag-band{height:22px;padding:2px 4px;font-size:8.5px;line-height:18px}
+ #works .feature-tag h3,#works .work-feature-2 .feature-tag h3{left:4px;top:26px;width:154px;font-size:11.5px;line-height:1.22;white-space:normal}
+ #works .feature-spec,#works .work-feature-2 .feature-spec{left:4px;top:58px;width:154px;font-size:10px;line-height:1.2;white-space:normal;overflow-wrap:normal}
+ #works .feature-body{left:4px;top:88px;width:154px;font-size:10.5px;line-height:1.42}
+ #works .work-card{left:20px;top:808px;width:350px;height:268px}
+ #works .work-card-2{top:1090px}
+ #works .work-card-3{top:1372px}
+ #works .work-card-4{top:1654px}
+ #works .work-card-5{top:1936px}
+ #works .work-card-6{top:2218px}
+ #works .work-photo{height:152px}
+ #works .work-photo-wide{width:346px}
+ #works .work-photo-left{width:188px}
+ #works .work-photo-right{left:192px;width:154px}
+ #works .work-spec{left:8px;top:158px;font-size:13.5px;line-height:1.2}
+ #works .work-card h3{left:8px;top:179px;font-size:14.5px;line-height:1.35}
+ #works .work-desc{left:8px;top:202px;width:330px;font-size:12.5px;line-height:1.42}
+ #works .pc-label,#showcase .pc-label{display:none}
+ #works .sp-label,#showcase .sp-label{display:inline}
+ #showcase .showcase-scene{height:1120px}
+ #showcase .showcase-heading .eyebrow{left:20px;top:36px;font-size:10.5px;line-height:1.4;white-space:nowrap}
+ #showcase .showcase-heading h2{left:20px;top:56px;width:350px;font-size:23px;line-height:1.28;letter-spacing:-.01em}
+ #showcase .stock-note{left:20px;top:120px;width:350px;height:34px;font-size:10.5px;line-height:30px;box-shadow:none}
+ #showcase .showcase-card{left:20px;top:170px;width:169px;height:436px;box-shadow:3px 3px 0 #121519}
+ #showcase .showcase-card-2,#showcase .showcase-card-4{left:201px}
+ #showcase .showcase-card-3,#showcase .showcase-card-4{top:622px}
+ #showcase .showcase-photo{left:0;top:48px;width:165px;height:165px}
+ #showcase .showcase-tag{left:0;top:0;width:165px;height:48px;box-shadow:none}
+ #showcase .tag-band{height:22px;padding:1px 4px;font-size:11px}
+ #showcase .showcase-spec{height:22px;padding:1px 3px;font-size:11px;line-height:20px}
+ #showcase .spec-tag::before{left:-2px}
+ #showcase .spec-tag::after{right:-2px}
+ #showcase .showcase-inset,#showcase .showcase-card-4 .showcase-inset{left:111px;top:165px;width:50px;height:44px;border-width:1px}
+ #showcase .showcase-copy{left:6px;top:220px;width:153px}
+ #showcase .showcase-copy h3{font-size:13.5px;line-height:1.3}
+ #showcase .showcase-copy>p{margin-top:6px;font-size:11.5px;line-height:1.45}
+}
+
+/* Round 24: designer-specified photo visibility, equipment dimensions and tape. */
+#showcase .showcase-card-1 .showcase-tag::before{content:none}
+#showcase .tag-tape-left{position:absolute;display:block;left:-5px;top:-5px;width:18px;height:6px;background:#F2B705;border:1px solid #121519;z-index:3}
+@media(min-width:701px){#showcase .showcase-card-3 .showcase-photo img{object-position:center 65%}}
+@media(max-width:700px){
+ #service .equipment-strip figure:nth-child(n+3) .equipment-photo{width:110px;height:84px}
+ #service .equipment-strip figure:nth-child(n+3) figcaption{left:116px;width:48px;overflow-wrap:anywhere}
+ #showcase .tag-tape-left{left:-2px}
+}

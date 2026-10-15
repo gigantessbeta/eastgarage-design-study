@@ -1,0 +1,155 @@
+/* Geometry: build_comps.py. Later rulings: calls/06-sheet-review/response.txt. */
+#price { background: #E4E8EE; color: #121519; }
+.price-scene { height: 820px; background-image: linear-gradient(#D5DBE3 1px, transparent 1px), linear-gradient(90deg, #D5DBE3 1px, transparent 1px); background-size: 40px 40px; }
+#price p, #price h2, #price h3, #price dl, #price dd { margin: 0; }
+.price-eyebrow { position: absolute; top: 48px; left: 100px; font: 700 14px/1.5 'Chakra Petch', sans-serif; color: #D92323; }
+#price-title { position: absolute; top: 77px; left: 100px; font: 900 38px/1.25 'Zen Kaku Gothic New', sans-serif; letter-spacing: -.01em; }
+.price-board, .dent-board { position: absolute; top: 156px; height: 604px; border-radius: 2px; }
+.price-board { left: 100px; width: 728px; background: #F7F8F4; box-shadow: inset 0 0 0 3px #121519, 6px 6px 0 #121519; }
+.price-board-header { position: absolute; top: 0; left: 0; width: 100%; height: 54px; color: #F7F8F4; background: #121519; }
+.price-board-header h3 { position: absolute; top: 15px; left: 24px; font: 700 18px/1.35 'Zen Kaku Gothic New', sans-serif; }
+.price-board-header span { position: absolute; top: 12px; left: 478px; width: 226px; height: 30px; display: flex; align-items: center; justify-content: center; background: #F2B705; border-radius: 2px; color: #121519; font: 700 12px/1.35 'Zen Kaku Gothic New', sans-serif; }
+.price-cells { position: absolute; top: 74px; left: 24px; width: 680px; display: grid; grid-template-columns: repeat(12, 1fr); gap: 12px; }
+.price-cells > div { grid-column: span 3; height: 92px; border: 2px solid #121519; border-radius: 2px; background: #FFF; }
+.price-cells > div:nth-child(n+5) { grid-column: span 4; }
+.price-cells dt { height: 28px; background: #E4E8EE; text-align: center; padding-top: 3px; font: 700 14.5px/1.4 'Zen Kaku Gothic New', sans-serif; }
+.price-cells dd { display: flex; align-items: baseline; padding: 6px 12px 0; gap: 4px; white-space: nowrap; }
+.price-cells > div:nth-child(n+5) dd { padding-left: 24px; }
+.price-cells strong { font: 800 34px/1.3 'Barlow Condensed', sans-serif; }
+.price-cells small { font: 700 11.5px/1.6 'Noto Sans JP', sans-serif; color: #4A525D; }
+.price-cells .price-extra-cell { display: none; }
+.price-payment { position: absolute; top: 286px; left: 24px; width: 680px; height: 50px; display: flex; align-items: center; border: 2px solid #121519; border-radius: 2px; background: #FFF; }
+.price-payment p { padding: 0 8px; font: 700 12px/1.4 'Noto Sans JP', sans-serif; color: #D92323; white-space: nowrap; }
+.price-payment .price-extra { width: 388px; min-width: 388px; color: #121519; border-right: 2px solid #E4E8EE; line-height: 34px; }
+.price-limitations { position: absolute; top: 350px; left: 24px; width: 680px; font: 400 12px/1.55 'Noto Sans JP', sans-serif; }
+.price-limitations a { color: inherit; text-decoration: none; white-space: nowrap; }
+.dent-board { left: 856px; width: 484px; background: #121519; color: #F7F8F4; box-shadow: inset 0 0 0 3px #121519, 6px 6px 0 #0D56D9; }
+.dent-board-header { position: absolute; top: 0; left: 0; width: 100%; height: 54px; color: #121519; background: #F2B705; }
+.dent-board-header h3 { position: absolute; top: 16px; left: 18px; font: 700 17px/1.35 'Zen Kaku Gothic New', sans-serif; }
+.dent-board-header span { position: absolute; top: 12px; left: 324px; width: 142px; height: 30px; display: flex; align-items: center; justify-content: center; border-radius: 2px; background: #121519; color: #F2B705; font: 700 11.5px/1.3 'Chakra Petch', 'Zen Kaku Gothic New', sans-serif; }
+.dent-photo { position: absolute; top: 74px; width: 210px; height: 200px; }
+.dent-before { left: 24px; }
+.dent-after { left: 250px; }
+.dent-photo img { width: 100%; height: 100%; display: block; object-fit: cover; border: 2px solid #F7F8F4; }
+.dent-photo span { position: absolute; top: 0; left: 0; display: flex; align-items: center; justify-content: center; width: 64px; height: 24px; background: #D92323; color: #F7F8F4; font: 700 12px/1 'Chakra Petch', sans-serif; }
+.dent-after span { background: #0D56D9; }
+.dent-price { position: absolute; top: 294px; left: 24px; width: 436px; color: #F2B705; font: 900 24px/1.35 'Zen Kaku Gothic New', sans-serif; }
+.dent-description { position: absolute; top: 332px; left: 24px; width: 436px; font: 400 15px/1.68 'Noto Sans JP', sans-serif; }
+.dent-limitation { position: absolute; top: 416px; left: 24px; width: 436px; color: #B8C2CC; font: 400 12px/1.55 'Noto Sans JP', sans-serif; }
+.dent-dm { position: absolute; top: 532px; left: 24px; width: 436px; height: 52px; display: flex; align-items: center; justify-content: center; border: 2px solid #F7F8F4; border-radius: 2px; background: #0D56D9; color: #F7F8F4; text-decoration: none; font: 700 14.5px/1.35 'Zen Kaku Gothic New', sans-serif; }
+#access { background: #F7F8F4; color: #121519; }
+.access-scene { height: 840px; }
+#access h2, #access p, #access dl, #access dd, #access figure { margin: 0; }
+.access-strip { position: absolute; top: 48px; height: 250px; }
+.access-exterior { left: 100px; width: 440px; }
+.access-counter { left: 564px; width: 416px; }
+.access-sign { left: 1004px; width: 336px; }
+.access-strip img { display: block; width: 100%; height: 210px; object-fit: cover; border: 2px solid #121519; }
+.access-strip figcaption { display: flex; align-items: center; height: 40px; padding: 2px 10px; background: #121519; color: #F7F8F4; font: 700 11.5px/1.25 'Noto Sans JP', sans-serif; }
+.access-board { position: absolute; top: 330px; left: 100px; width: 1240px; height: 460px; background: #FFF; border-radius: 2px; box-shadow: inset 0 0 0 3px #121519, 8px 8px 0 #121519; }
+.access-double-stripe { position: absolute; top: 3px; left: 3px; right: 3px; height: 8px; background: linear-gradient(to bottom, #0D56D9 0 4px, #F7F8F4 4px 6px, #0D56D9 6px 8px); }
+.access-screw { position: absolute; width: 8px; height: 8px; }
+.access-screw.screw-tl { top: 4px; left: 4px; }
+.access-screw.screw-tr { top: 4px; right: 4px; }
+.access-screw.screw-bl { bottom: 4px; left: 4px; }
+.access-screw.screw-br { bottom: 4px; right: 4px; }
+#access-title { position: absolute; top: 30px; left: 32px; font: 900 32px/1.25 'Zen Kaku Gothic New', sans-serif; white-space: nowrap; }
+.access-subtitle { position: absolute; top: 66px; left: 32px; font: 700 14px/1.4 'Zen Kaku Gothic New', sans-serif; color: #0E5A45; }
+.access-details { position: absolute; top: 98px; left: 32px; width: 564px; }
+.access-details > div { display: grid; grid-template-columns: 116px 448px; padding-bottom: 5px; margin-bottom: 8px; border-bottom: 1px solid #E4E8EE; }
+.access-details dt { font: 700 14px/1.45 'Noto Sans JP', sans-serif; color: #4A525D; }
+.access-details dd { font: 700 14px/1.45 'Noto Sans JP', sans-serif; }
+.access-details small { display: block; margin-top: 2px; font: 400 12px/1.4 'Noto Sans JP', sans-serif; color: #4A525D; }
+.access-value-chunk { white-space: nowrap; }
+.access-details a { color: inherit; text-decoration: none; }
+.access-pit { position: absolute; left: 632px; top: 32px; width: 576px; height: 310px; object-fit: cover; border: 2px solid #121519; }
+.access-actions { position: absolute; top: 366px; left: 632px; display: flex; gap: 16px; }
+.access-actions a { width: 280px; height: 58px; display: flex; align-items: center; justify-content: center; border: 2px solid #121519; border-radius: 2px; background: #0D56D9; color: #F7F8F4; text-decoration: none; box-shadow: 4px 4px 0 #121519; font: 700 15px/1.35 'Zen Kaku Gothic New', sans-serif; }
+.access-actions .access-instagram { background: #121519; box-shadow: 4px 4px 0 #D92323; font-size: 14.5px; }
+#footer { background: #121519; color: #F7F8F4; }
+.footer-scene { height: 420px; }
+.footer-scene::before { content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 14px; background: linear-gradient(to bottom, #0D56D9 0 6px, #F2B705 6px 10px, #D92323 10px 14px); }
+#footer p { margin: 0; }
+.footer-call-board { position: absolute; left: 310px; top: 52px; width: 820px; height: 180px; background: #F7F8F4; box-shadow: inset 0 0 0 3px #121519, 6px 6px 0 #F2B705; border-radius: 2px; }
+.footer-sign-panel { position: absolute; top: 0; left: 0; width: 360px; height: 180px; }
+.footer-mascot { position: absolute; top: 20px; left: 16px; width: 84px; height: 84px; object-fit: contain; }
+.footer-sign-photo { position: absolute; top: 20px; left: 104px; width: 220px; height: 84px; object-fit: cover; object-position: center 80%; border: 2px solid #121519; }
+.footer-sign-panel p { position: absolute; left: 0; top: 124px; width: 360px; text-align: center; color: #0E5A45; font: 700 16px/1.4 'Chakra Petch', sans-serif; }
+.footer-call { position: absolute; left: 360px; top: 3px; width: 457px; height: 174px; background: #121519; color: #F7F8F4; text-decoration: none; }
+.footer-call-caption { position: absolute; top: 21px; left: 24px; color: #F2B705; font: 700 14px/1.4 'Zen Kaku Gothic New', sans-serif; white-space: nowrap; }
+.footer-call strong { position: absolute; top: 51px; left: 24px; font: 800 52px/1.2 'Barlow Condensed', sans-serif; letter-spacing: .02em; }
+.footer-call-hours { position: absolute; top: 125px; left: 24px; font: 400 13px/1.4 'Noto Sans JP', sans-serif; color: #B8C2CC; white-space: nowrap; }
+.footer-public-links { position: absolute; top: 274px; left: 0; width: 1440px; display: flex; gap: 24px; justify-content: center; font: 700 14px/1.6 'Noto Sans JP', sans-serif; }
+.footer-public-links a { color: #F7F8F4; text-decoration: underline; text-decoration-color: #0D56D9; text-underline-offset: 4px; }
+.footer-copyright { position: absolute; top: 322px; left: 100px; width: 1240px; text-align: center; font: 400 12px/1.6 'Noto Sans JP', sans-serif; color: #B8C2CC; }
+@media (max-width: 700px) {
+  .price-scene { height: 1480px; background-size: 30px 30px; }
+  .price-eyebrow { top: 36px; left: 20px; font-size: 12px; }
+  #price-title { top: 58px; left: 20px; width: 350px; font-size: 23px; line-height: 1.28; }
+  .price-board { top: 128px; left: 20px; width: 350px; height: 780px; box-shadow: inset 0 0 0 2px #121519, 4px 4px 0 #121519; }
+  .price-board-header { height: 56px; }
+  .price-board-header h3 { top: 8px; left: 12px; font-size: 14.5px; }
+  .price-board-header span { top: 31px; left: 12px; width: 200px; height: 19px; font-size: 10px; }
+  .price-cells { top: 68px; left: 12px; width: 326px; grid-template-columns: repeat(2, 157px); gap: 10px 12px; }
+  .price-cells > div, .price-cells > div:nth-child(n+5) { grid-column: auto; height: 72px; }
+  .price-cells dt { height: 22px; padding-top: 2px; font-size: 12px; }
+  .price-cells dd, .price-cells > div:nth-child(n+5) dd { padding: 3px 10px 0; }
+  .price-cells strong { font-size: 26px; }
+  .price-cells small { font-size: 10.5px; }
+  .price-cells .price-extra-cell { display: block; }
+  .price-extra-cell dt { font-size: 11.5px; }
+  .price-cells .price-extra-cell dd { display: block; padding: 2px 6px; font: 700 11px/19px 'Noto Sans JP', sans-serif; }
+  .price-payment { top: 400px; left: 12px; width: 326px; height: 40px; justify-content: center; }
+  .price-payment .price-extra { display: none; }
+  .price-payment p { padding: 0; font-size: 12.5px; }
+  .price-limitations { top: 450px; left: 12px; width: 326px; font-size: 11px; line-height: 1.45; }
+  .dent-board { top: 932px; left: 20px; width: 350px; height: 520px; box-shadow: inset 0 0 0 2px #121519, 4px 4px 0 #0D56D9; }
+  .dent-board-header { height: 52px; }
+  .dent-board-header h3 { top: 8px; left: 12px; font-size: 15px; }
+  .dent-board-header span { top: 30px; left: 12px; width: 140px; height: 18px; font-size: 9.5px; }
+  .dent-photo { top: 64px; width: 156px; height: 150px; }
+  .dent-before { left: 12px; }
+  .dent-after { left: 182px; }
+  .dent-price { top: 228px; left: 12px; width: 326px; font-size: 20px; }
+  .dent-description { top: 258px; left: 12px; width: 326px; font-size: 13.5px; line-height: 1.55; }
+  .dent-limitation { top: 332px; left: 12px; width: 326px; font-size: 11px; line-height: 1.45; }
+  .dent-dm { top: 458px; left: 12px; width: 326px; height: 48px; font-size: 11.5px; }
+  .access-scene { height: 1280px; }
+  .access-exterior { top: 32px; left: 20px; width: 350px; height: 214px; }
+  .access-exterior img { height: 180px; }
+  .access-exterior figcaption { height: 34px; padding: 2px 4px; justify-content: center; font-size: 10.5px; white-space: nowrap; }
+  .access-counter { top: 258px; left: 20px; width: 169px; height: 160px; }
+  .access-sign { top: 258px; left: 201px; width: 169px; height: 160px; }
+  .access-counter img, .access-sign img { height: 116px; }
+  .access-counter figcaption, .access-sign figcaption { height: 44px; padding: 4px 6px; align-items: flex-start; font-size: 9.5px; line-height: 1.35; }
+  .access-board { top: 434px; left: 20px; width: 350px; height: 836px; box-shadow: inset 0 0 0 3px #121519, 6px 6px 0 #121519; }
+  #access-title { top: 26px; left: 16px; font-size: 21px; }
+  .access-subtitle { top: 52px; left: 16px; font-size: 12px; }
+  .access-details { top: 80px; left: 16px; width: 318px; }
+  .access-details > div { grid-template-columns: 90px 228px; }
+  .access-details dt { font-size: 12.5px; }
+  .access-details dd { font-size: 13px; }
+  .access-details small { font-size: 10.5px; line-height: 1.38; }
+  .access-pit { top: 401.61px; left: 16px; width: 318px; height: 168px; }
+  .access-actions { top: 583.61px; left: 16px; flex-direction: column; gap: 12px; }
+  .access-actions a, .access-actions .access-instagram { width: 318px; height: 50px; font-size: 14px; }
+  .footer-scene { height: 520px; }
+  .footer-call-board { top: 32px; left: 20px; width: 350px; height: 248px; box-shadow: inset 0 0 0 2px #121519, 6px 6px 0 #F2B705; }
+  .footer-sign-panel { width: 350px; height: 114px; }
+  .footer-mascot { top: 12px; left: 6px; width: 80px; height: 80px; }
+  .footer-sign-photo { top: 12px; left: 90px; width: 248px; height: 66px; border-width: 1px; }
+  .footer-sign-panel p { top: 86px; width: 350px; font-size: 14px; }
+  .footer-call { top: 114px; left: 2px; width: 346px; height: 132px; }
+  .footer-call-caption { top: 12px; left: 0; width: 346px; text-align: center; font-size: 12px; }
+  .footer-call strong { top: 36px; left: 0; width: 346px; text-align: center; font-size: 38px; }
+  .footer-call-hours { top: 92px; left: 0; width: 346px; text-align: center; font-size: 10.5px; }
+  .footer-public-links { top: 308px; left: 20px; width: 350px; display: grid; grid-template-columns: 166px 166px; gap: 12.8px 18px; font-size: 9.5px; line-height: 1.6; }
+  .footer-public-links a { white-space: nowrap; }
+  .footer-public-links a::before { content: '・'; }
+  .footer-copyright { top: 404px; left: 20px; width: 350px; font-size: 10.5px; line-height: 1.45; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  #price .plate-button, #access .plate-button { transition: transform .15s ease-out, box-shadow .15s ease-out; }
+  #price .plate-button:hover, #price .plate-button:active,
+  #access .plate-button:hover, #access .plate-button:active { transform: translate(2px, 2px); box-shadow: 2px 2px 0 #121519; }
+}

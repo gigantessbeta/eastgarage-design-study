@@ -1,0 +1,218 @@
+{
+  "fonts": [
+    {
+      "source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-argon/design/fonts/BarlowCondensed-Black.ttf",
+      "source_sha256": "e74b750df582c608f35db467b711b2b60d2217618e85e60b72b42dfd00446cab",
+      "file": "BarlowCondensed-Black.woff2",
+      "sha256": "9ef9f1580949054c629c33003affb5327ab784d66058cd9dd6917cf668c08a16",
+      "bytes": 38820,
+      "family": "Barlow Condensed",
+      "style": "Black",
+      "weight": 900,
+      "cmap_verified": true,
+      "subset": false,
+      "glyphs": 694
+    },
+    {
+      "source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-argon/design/fonts/BarlowCondensed-Bold.ttf",
+      "source_sha256": "e476562ec9c1e16cf16475895b511f08c804f438cc9a9f80a44ea50a0eeb5b65",
+      "file": "BarlowCondensed-Bold.woff2",
+      "sha256": "2e41b146e59a32f84f32301aa7891e0e07323d08d4d6991af06b0ee347d943b0",
+      "bytes": 39432,
+      "family": "Barlow Condensed",
+      "style": "Bold",
+      "weight": 700,
+      "cmap_verified": true,
+      "subset": false,
+      "glyphs": 694
+    },
+    {
+      "source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-argon/design/fonts/BarlowCondensed-ExtraBold.ttf",
+      "source_sha256": "724c9c25952d5f4a2d87185d9767aa006144c5f0d944dc05bf7d5d603551c260",
+      "file": "BarlowCondensed-ExtraBold.woff2",
+      "sha256": "ffe330bdf2dc59a4aa36e4b1442552cb133049512ecca78c84c93af6f4317f19",
+      "bytes": 39456,
+      "family": "Barlow Condensed",
+      "style": "ExtraBold",
+      "weight": 800,
+      "cmap_verified": true,
+      "subset": false,
+      "glyphs": 694
+    },
+    {
+      "source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-argon/design/fonts/BarlowCondensed-Medium.ttf",
+      "source_sha256": "262bd143292ce479ee0cd09a42b47ab173fca8e9c6eb5ed0b5c8a845bc371d17",
+      "file": "BarlowCondensed-Medium.woff2",
+      "sha256": "4ebe10517fd10c7368eeedc42b9dc801ff062dc1699c77db31b5b2e528d3882d",
+      "bytes": 37880,
+      "family": "Barlow Condensed",
+      "style": "Medium",
+      "weight": 500,
+      "cmap_verified": true,
+      "subset": false,
+      "glyphs": 694
+    },
+    {
+      "source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-argon/design/fonts/BarlowCondensed-Regular.ttf",
+      "source_sha256": "583cec5da3b84bc4dc7c9c72e2a565c94d34e431518b19d7e250b7830ad5f996",
+      "file": "BarlowCondensed-Regular.woff2",
+      "sha256": "3fd2fd8a9b16e71129b4702cd4b98b283571081ee753617aadaace27ead31caf",
+      "bytes": 37292,
+      "family": "Barlow Condensed",
+      "style": "Regular",
+      "weight": 400,
+      "cmap_verified": true,
+      "subset": false,
+      "glyphs": 694
+    },
+    {
+      "source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-argon/design/fonts/BarlowCondensed-SemiBold.ttf",
+      "source_sha256": "7b619d14bc2327509a9ef32b0890f709626f7ecc9ff61191c2a4314c5499d2d9",
+      "file": "BarlowCondensed-SemiBold.woff2",
+      "sha256": "fa9dce30a032594dc73eabdee132dd851120e606fd35452e3cb870006bd54475",
+      "bytes": 39264,
+      "family": "Barlow Condensed",
+      "style": "SemiBold",
+      "weight": 600,
+      "cmap_verified": true,
+      "subset": false,
+      "glyphs": 694
+    },
+    {
+      "source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-argon/design/fonts/ChakraPetch-Bold.ttf",
+      "source_sha256": "65fbf76d95651697275e19db4d717c0e95a789ddd3476478b05292104db278a0",
+      "file": "ChakraPetch-Bold.woff2",
+      "sha256": "445ab9d5715c5a5284c4707cede9bde791b4676de1a8f2eb61056d5b376a394c",
+      "bytes": 25992,
+      "family": "Chakra Petch",
+      "style": "Bold",
+      "weight": 700,
+      "cmap_verified": true,
+      "subset": false,
+      "glyphs": 773
+    },
+    {
+      "source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-argon/design/fonts/ChakraPetch-Medium.ttf",
+      "source_sha256": "d480f4f97405fac3600652e2e14fd0b14339031c0af4da11582994878f04d919",
+      "file": "ChakraPetch-Medium.woff2",
+      "sha256": "2b74c5607c69afb80a3cbb48c4aaec1e9a5b0cb4f7db3701cebfce1aa830e2ff",
+      "bytes": 26400,
+      "family": "Chakra Petch",
+      "style": "Medium",
+      "weight": 500,
+      "cmap_verified": true,
+      "subset": false,
+      "glyphs": 773
+    },
+    {
+      "source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-argon/design/fonts/ChakraPetch-Regular.ttf",
+      "source_sha256": "98fcd638baa5c81ff0316b7538ce330ee3b23b1302726de3526d5933a8ecf986",
+      "file": "ChakraPetch-Regular.woff2",
+      "sha256": "27e26de9aa67106b2be9bb0025c6b79e4cce2ff844c9a7552ab41599fa7d3da4",
+      "bytes": 25448,
+      "family": "Chakra Petch",
+      "style": "Regular",
+      "weight": 400,
+      "cmap_verified": true,
+      "subset": false,
+      "glyphs": 773
+    },
+    {
+      "source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-argon/design/fonts/ChakraPetch-SemiBold.ttf",
+      "source_sha256": "45264de3204ddbd5fb3e14a2402acd5c630d16650ae5fc221d2c52da46a6734b",
+      "file": "ChakraPetch-SemiBold.woff2",
+      "sha256": "85e8b10aa6ed19c70b6a10be7b37fbbab9d41462661243ed74e8a97a77d71441",
+      "bytes": 26568,
+      "family": "Chakra Petch",
+      "style": "SemiBold",
+      "weight": 600,
+      "cmap_verified": true,
+      "subset": false,
+      "glyphs": 773
+    },
+    {
+      "source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-argon/design/fonts/NotoSansJP[wght].ttf",
+      "source_sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+      "file": "NotoSansJP.woff2",
+      "sha256": "6fd94964d1990baa2a392cea7a036683d2b80b9dfd590cb3918e8dab98d8e188",
+      "bytes": 4350080,
+      "family": "Noto Sans JP Thin",
+      "style": "Regular",
+      "weight": 100,
+      "cmap_verified": true,
+      "subset": false,
+      "glyphs": 17936,
+      "axes": [
+        {
+          "tag": "wght",
+          "min": 100.0,
+          "default": 100.0,
+          "max": 900.0
+        }
+      ]
+    },
+    {
+      "source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-argon/design/fonts/ZenKakuGothicNew-Black.ttf",
+      "source_sha256": "795819a979184981842994d8f4eb9e14ce443d687bd5e731d6ca67ded8f92261",
+      "file": "ZenKakuGothicNew-Black.woff2",
+      "sha256": "73cc1976f4d51a0809b2f5e78e762acefedada92db3db92bf0d147752e75df1e",
+      "bytes": 1047268,
+      "family": "Zen Kaku Gothic New Black",
+      "style": "Regular",
+      "weight": 900,
+      "cmap_verified": true,
+      "subset": false,
+      "glyphs": 7792
+    },
+    {
+      "source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-argon/design/fonts/ZenKakuGothicNew-Bold.ttf",
+      "source_sha256": "0081cedabc4921982fcd061f845a005664ac7fb642af2dd34b4007bc63ccd235",
+      "file": "ZenKakuGothicNew-Bold.woff2",
+      "sha256": "751171e0c0e30d0b51c2f51ddc54362f082fcb49d6f0d144b9ae119a4ec3a978",
+      "bytes": 1083376,
+      "family": "Zen Kaku Gothic New",
+      "style": "Bold",
+      "weight": 700,
+      "cmap_verified": true,
+      "subset": false,
+      "glyphs": 7792
+    },
+    {
+      "source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-argon/design/fonts/ZenKakuGothicNew-Medium.ttf",
+      "source_sha256": "651a3f7280b7f36262601ee76d8388a8dc4372dcc67aff025a608939a562b525",
+      "file": "ZenKakuGothicNew-Medium.woff2",
+      "sha256": "5074a35728c6a3b2c67faff1823c18eb7cc9aa8a041ebc360b4d2b7258e7dcc6",
+      "bytes": 1065444,
+      "family": "Zen Kaku Gothic New Medium",
+      "style": "Regular",
+      "weight": 500,
+      "cmap_verified": true,
+      "subset": false,
+      "glyphs": 7792
+    },
+    {
+      "source_file": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-13-eastgarage-replay/project/projects/eastgarage-argon/design/fonts/ZenKakuGothicNew-Regular.ttf",
+      "source_sha256": "b840cd07a67d89cacca44249ae49aa99ee7640eb5ce623be8d8983d6aabac801",
+      "file": "ZenKakuGothicNew-Regular.woff2",
+      "sha256": "82947c8de422edf4804a2976163f03cfb8a283fb3e1262c89c1bebe1364d1c2b",
+      "bytes": 1052404,
+      "family": "Zen Kaku Gothic New",
+      "style": "Regular",
+      "weight": 400,
+      "cmap_verified": true,
+      "subset": false,
+      "glyphs": 7792
+    }
+  ],
+  "conversion": "fontTools.ttLib.woff2.compress; no subsetting or design-source changes",
+  "official_docs": [
+    "https://fonttools.readthedocs.io/en/latest/ttLib/woff2.html",
+    "https://fonttools.readthedocs.io/en/latest/ttLib/ttFont.html"
+  ],
+  "packages": {
+    "fonttools": "4.66.1",
+    "brotli": "1.2.0",
+    "Pillow": "12.3.0"
+  },
+  "packages_installed_this_task": []
+}
