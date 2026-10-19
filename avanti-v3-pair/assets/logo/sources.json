@@ -1,0 +1,16 @@
+[
+  {
+    "output": "assets/logo/sawa-seal.svg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti-base/design/logo/horizontal-ink.svg",
+    "source_sha256": "481a1e36aab63f3d7b020b0dafa8c79af8fdadcd146c96175f974ae1ef31550c",
+    "viewBox": "102 56 103 102",
+    "method": "Keep original red and white trace paths; crop disk with viewBox; replace red with design #D2232A."
+  },
+  {
+    "output": "assets/logo/sumi-seal.svg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti-base/design/logo/takesumi-ink.svg",
+    "source_sha256": "ecb305453a9fffd485cf7268b9078fe8aec6a6e8dfaf3ff0a9a54c6730810826",
+    "viewBox": "170 6 106 106",
+    "method": "Keep original red and white trace paths; crop disk with viewBox; replace red with design #D2232A."
+  }
+]

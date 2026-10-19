@@ -1,0 +1,1825 @@
+{
+  "coordinate_system": "EXIF補正後の原寸。左・上・右・下、右下は含まない。",
+  "photos": [
+    {
+      "file": "assets/photos/gate-zeitaku-pc.jpg",
+      "label": "外観/e62bd32e",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/外観/e62bd32e4adae014ec2acbcee4bd87926a92d19aa7ae34371dc8d4d26ad24134.jpg",
+      "source_sha256": "e62bd32e4adae014ec2acbcee4bd87926a92d19aa7ae34371dc8d4d26ad24134",
+      "source_size": [
+        2048,
+        1152
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        2048,
+        1152
+      ],
+      "crop_box_after_exif": [
+        451,
+        0,
+        1372,
+        1152
+      ],
+      "output_size": [
+        720,
+        900
+      ],
+      "scale_from_crop": 0.7817589576547231,
+      "output_sha256": "0abf0f89c6f6fe10badb3c78ac96e98918f4b0c44c306973c971ff4f99bc72f8"
+    },
+    {
+      "file": "assets/photos/gate-zeitaku-sp.jpg",
+      "label": "外観/e62bd32e",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/外観/e62bd32e4adae014ec2acbcee4bd87926a92d19aa7ae34371dc8d4d26ad24134.jpg",
+      "source_sha256": "e62bd32e4adae014ec2acbcee4bd87926a92d19aa7ae34371dc8d4d26ad24134",
+      "source_size": [
+        2048,
+        1152
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        2048,
+        1152
+      ],
+      "crop_box_after_exif": [
+        320,
+        0,
+        1503,
+        1152
+      ],
+      "output_size": [
+        390,
+        380
+      ],
+      "scale_from_crop": 0.3298611111111111,
+      "output_sha256": "a6d801484e6be0ca5eb09e9e9993a6cc20b88810512f8086ecfacdc16efe827d"
+    },
+    {
+      "file": "assets/photos/gate-takesumi-pc.jpg",
+      "label": "黒:外観/b819f30c",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/外観/b819f30ca74e2f578950afb6e1fedd2fa7e10bdd850c90d3f9737512d9117f03.jpg",
+      "source_sha256": "b819f30ca74e2f578950afb6e1fedd2fa7e10bdd850c90d3f9737512d9117f03",
+      "source_size": [
+        4032,
+        3024
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        4032,
+        3024
+      ],
+      "crop_box_after_exif": [
+        524,
+        0,
+        2943,
+        3024
+      ],
+      "output_size": [
+        720,
+        900
+      ],
+      "scale_from_crop": 0.29764365440264573,
+      "output_sha256": "1891f2380b2a3068c5a91b151afa3640d0defca7b5db4fb3fd975e6205be6a45"
+    },
+    {
+      "file": "assets/photos/gate-takesumi-sp.jpg",
+      "label": "黒:外観/b819f30c",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/外観/b819f30ca74e2f578950afb6e1fedd2fa7e10bdd850c90d3f9737512d9117f03.jpg",
+      "source_sha256": "b819f30ca74e2f578950afb6e1fedd2fa7e10bdd850c90d3f9737512d9117f03",
+      "source_size": [
+        4032,
+        3024
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        4032,
+        3024
+      ],
+      "crop_box_after_exif": [
+        182,
+        0,
+        3286,
+        3024
+      ],
+      "output_size": [
+        390,
+        380
+      ],
+      "scale_from_crop": 0.12566137566137567,
+      "output_sha256": "8790352072cd964475adad4453013f3236b03c4346f6c468b59bafe9bac94c77"
+    },
+    {
+      "file": "assets/photos/zeitaku-hero-pc.jpg",
+      "label": "外観/e62bd32e",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/外観/e62bd32e4adae014ec2acbcee4bd87926a92d19aa7ae34371dc8d4d26ad24134.jpg",
+      "source_sha256": "e62bd32e4adae014ec2acbcee4bd87926a92d19aa7ae34371dc8d4d26ad24134",
+      "source_size": [
+        2048,
+        1152
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        2048,
+        1152
+      ],
+      "crop_box_after_exif": [
+        108,
+        0,
+        1715,
+        1152
+      ],
+      "output_size": [
+        1256,
+        900
+      ],
+      "scale_from_crop": 0.7815805849408837,
+      "output_sha256": "07b5a56b4746dd47e11f051d7e0217eff159b675eee896fa0c7c045fec86f0f9"
+    },
+    {
+      "file": "assets/photos/zeitaku-hero-sp.jpg",
+      "label": "外観/e62bd32e",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/外観/e62bd32e4adae014ec2acbcee4bd87926a92d19aa7ae34371dc8d4d26ad24134.jpg",
+      "source_sha256": "e62bd32e4adae014ec2acbcee4bd87926a92d19aa7ae34371dc8d4d26ad24134",
+      "source_size": [
+        2048,
+        1152
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        2048,
+        1152
+      ],
+      "crop_box_after_exif": [
+        560,
+        0,
+        1262,
+        1152
+      ],
+      "output_size": [
+        390,
+        640
+      ],
+      "scale_from_crop": 0.5555555555555556,
+      "output_sha256": "4440e46f793e2187cc3bd2befd0955d3608a5c1c2dcfb49a2141d24aaefffe12"
+    },
+    {
+      "file": "assets/photos/takesumi-hero-pc.jpg",
+      "label": "黒:外観/0713ca96",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/外観/0713ca96549cff3c782eb837472e4ade31fc3894f0a972d373c24084b813fb4b.jpg",
+      "source_sha256": "0713ca96549cff3c782eb837472e4ade31fc3894f0a972d373c24084b813fb4b",
+      "source_size": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        5712,
+        4284
+      ],
+      "crop_box_after_exif": [
+        0,
+        191,
+        5712,
+        4284
+      ],
+      "output_size": [
+        1256,
+        900
+      ],
+      "scale_from_crop": 0.21988795518207283,
+      "output_sha256": "2474d8d77b1fd55028757a71258edbea6456e96ae1a018e525ba0b209b8c56ac"
+    },
+    {
+      "file": "assets/photos/takesumi-hero-sp.jpg",
+      "label": "黒:外観/0713ca96",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/外観/0713ca96549cff3c782eb837472e4ade31fc3894f0a972d373c24084b813fb4b.jpg",
+      "source_sha256": "0713ca96549cff3c782eb837472e4ade31fc3894f0a972d373c24084b813fb4b",
+      "source_size": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        5712,
+        4284
+      ],
+      "crop_box_after_exif": [
+        1436,
+        0,
+        4047,
+        4284
+      ],
+      "output_size": [
+        390,
+        640
+      ],
+      "scale_from_crop": 0.14939309056956115,
+      "output_sha256": "f7d616139012112cee620d531d36841d13258930319b5404b891a2a79274425d"
+    },
+    {
+      "file": "assets/photos/zeitaku-menu-a-1-pc.jpg",
+      "label": "商品/f3bdc9b4",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/f3bdc9b42b1f308f3aa94bf84bd767eb9f8b6908f823f532988c3aa00d9d316a.jpg",
+      "source_sha256": "f3bdc9b42b1f308f3aa94bf84bd767eb9f8b6908f823f532988c3aa00d9d316a",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1920,
+        1080
+      ],
+      "crop_box_after_exif": [
+        709,
+        0,
+        1211,
+        1080
+      ],
+      "output_size": [
+        419,
+        900
+      ],
+      "scale_from_crop": 0.8346613545816733,
+      "output_sha256": "5e71205ca8d3bbc1a3a3081aa5815a5192103228379358989bbc4db7f229ede5"
+    },
+    {
+      "file": "assets/photos/zeitaku-menu-a-1-sp.jpg",
+      "label": "商品/f3bdc9b4",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/f3bdc9b42b1f308f3aa94bf84bd767eb9f8b6908f823f532988c3aa00d9d316a.jpg",
+      "source_sha256": "f3bdc9b42b1f308f3aa94bf84bd767eb9f8b6908f823f532988c3aa00d9d316a",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1920,
+        1080
+      ],
+      "crop_box_after_exif": [
+        690,
+        0,
+        1230,
+        1080
+      ],
+      "output_size": [
+        130,
+        260
+      ],
+      "scale_from_crop": 0.24074074074074073,
+      "output_sha256": "762ada29236bbf97febf2e14f5a0dc981a9f292ecdefa8d08d426131587f3a64"
+    },
+    {
+      "file": "assets/photos/zeitaku-menu-a-2-pc.jpg",
+      "label": "商品/0ffffa81",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/0ffffa81e7e89f8c23fc29cbec7730c6faedf34ae0327610bf7ccdfb50957206.jpg",
+      "source_sha256": "0ffffa81e7e89f8c23fc29cbec7730c6faedf34ae0327610bf7ccdfb50957206",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1920,
+        1080
+      ],
+      "crop_box_after_exif": [
+        709,
+        0,
+        1211,
+        1080
+      ],
+      "output_size": [
+        419,
+        900
+      ],
+      "scale_from_crop": 0.8346613545816733,
+      "output_sha256": "51872012f1ddf5a2d8e9d9d6d89221f7c1ec6e3725481f8337652b7843a4483e"
+    },
+    {
+      "file": "assets/photos/zeitaku-menu-a-2-sp.jpg",
+      "label": "商品/0ffffa81",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/0ffffa81e7e89f8c23fc29cbec7730c6faedf34ae0327610bf7ccdfb50957206.jpg",
+      "source_sha256": "0ffffa81e7e89f8c23fc29cbec7730c6faedf34ae0327610bf7ccdfb50957206",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1920,
+        1080
+      ],
+      "crop_box_after_exif": [
+        690,
+        0,
+        1230,
+        1080
+      ],
+      "output_size": [
+        130,
+        260
+      ],
+      "scale_from_crop": 0.24074074074074073,
+      "output_sha256": "2e220d23f4eb62ba99e4f6841ca2a2c365eb1f681df092ffb8ae52833f651287"
+    },
+    {
+      "file": "assets/photos/zeitaku-menu-a-3-pc.jpg",
+      "label": "商品/04a514fa",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/04a514fa6e255c1a4c9c151bfaa5677ba6a9f7fdb2d6a86bf99f3cf860eb0bb6.jpg",
+      "source_sha256": "04a514fa6e255c1a4c9c151bfaa5677ba6a9f7fdb2d6a86bf99f3cf860eb0bb6",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1920,
+        1080
+      ],
+      "crop_box_after_exif": [
+        709,
+        0,
+        1211,
+        1080
+      ],
+      "output_size": [
+        419,
+        900
+      ],
+      "scale_from_crop": 0.8346613545816733,
+      "output_sha256": "c04d24b38ff40d28a5fe35362e842edd5d006f7cbb7bd367ce5e1a5beb914e33"
+    },
+    {
+      "file": "assets/photos/zeitaku-menu-a-3-sp.jpg",
+      "label": "商品/04a514fa",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/04a514fa6e255c1a4c9c151bfaa5677ba6a9f7fdb2d6a86bf99f3cf860eb0bb6.jpg",
+      "source_sha256": "04a514fa6e255c1a4c9c151bfaa5677ba6a9f7fdb2d6a86bf99f3cf860eb0bb6",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1920,
+        1080
+      ],
+      "crop_box_after_exif": [
+        690,
+        0,
+        1230,
+        1080
+      ],
+      "output_size": [
+        130,
+        260
+      ],
+      "scale_from_crop": 0.24074074074074073,
+      "output_sha256": "fcdab75870950f155dde019e86e5c33ab50c23d2abe65e5946a7a6488284c3bd"
+    },
+    {
+      "file": "assets/photos/takesumi-menu-a-1-pc.jpg",
+      "label": "黒:黒いとんかつの断面/3b5f29d0",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/黒いとんかつの断面/3b5f29d03eb080006cc456648422d4ae1c0086bbdbd698786a4b910051a63164.jpg",
+      "source_sha256": "3b5f29d03eb080006cc456648422d4ae1c0086bbdbd698786a4b910051a63164",
+      "source_size": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        5712,
+        4284
+      ],
+      "crop_box_after_exif": [
+        1859,
+        0,
+        3853,
+        4284
+      ],
+      "output_size": [
+        419,
+        900
+      ],
+      "scale_from_crop": 0.21013039117352056,
+      "output_sha256": "6d03d1a43f9bed671ca6fb57879e840e4c1e9e90fedefa4a7f718bf21ee8891f"
+    },
+    {
+      "file": "assets/photos/takesumi-menu-a-1-sp.jpg",
+      "label": "黒:黒いとんかつの断面/3b5f29d0",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/黒いとんかつの断面/3b5f29d03eb080006cc456648422d4ae1c0086bbdbd698786a4b910051a63164.jpg",
+      "source_sha256": "3b5f29d03eb080006cc456648422d4ae1c0086bbdbd698786a4b910051a63164",
+      "source_size": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        5712,
+        4284
+      ],
+      "crop_box_after_exif": [
+        1785,
+        0,
+        3927,
+        4284
+      ],
+      "output_size": [
+        130,
+        260
+      ],
+      "scale_from_crop": 0.06069094304388422,
+      "output_sha256": "ae1f410329c5ae590ef4203a871d70063817b0b059415400d1ae462069147ffb"
+    },
+    {
+      "file": "assets/photos/takesumi-menu-a-2-pc.jpg",
+      "label": "黒:黒いとんかつの断面/a9853f03",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/黒いとんかつの断面/a9853f03a72495896c7347a54326dc4d2a1a610a3a9b1b20cc89cfa3a18f12ff.jpg",
+      "source_sha256": "a9853f03a72495896c7347a54326dc4d2a1a610a3a9b1b20cc89cfa3a18f12ff",
+      "source_size": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        5712,
+        4284
+      ],
+      "crop_box_after_exif": [
+        1859,
+        0,
+        3853,
+        4284
+      ],
+      "output_size": [
+        419,
+        900
+      ],
+      "scale_from_crop": 0.21013039117352056,
+      "output_sha256": "908d1f5c913f24880b7e3522459037f053e72ea75749385824f2400872d88d0d"
+    },
+    {
+      "file": "assets/photos/takesumi-menu-a-2-sp.jpg",
+      "label": "黒:黒いとんかつの断面/a9853f03",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/黒いとんかつの断面/a9853f03a72495896c7347a54326dc4d2a1a610a3a9b1b20cc89cfa3a18f12ff.jpg",
+      "source_sha256": "a9853f03a72495896c7347a54326dc4d2a1a610a3a9b1b20cc89cfa3a18f12ff",
+      "source_size": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        5712,
+        4284
+      ],
+      "crop_box_after_exif": [
+        1785,
+        0,
+        3927,
+        4284
+      ],
+      "output_size": [
+        130,
+        260
+      ],
+      "scale_from_crop": 0.06069094304388422,
+      "output_sha256": "f232efd0129d13d892443f603004e41a3c90a9c173257b2ca98cea76a2873da7"
+    },
+    {
+      "file": "assets/photos/takesumi-menu-a-3-pc.jpg",
+      "label": "黒:白いとんかつの断面/ec722591",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/白いとんかつの断面/ec7225912c1516f490cd4fe9a310dea9b172374b745b669346dccf70b738cf94.jpg",
+      "source_sha256": "ec7225912c1516f490cd4fe9a310dea9b172374b745b669346dccf70b738cf94",
+      "source_size": [
+        4032,
+        3024
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        4032,
+        3024
+      ],
+      "crop_box_after_exif": [
+        1312,
+        0,
+        2720,
+        3024
+      ],
+      "output_size": [
+        419,
+        900
+      ],
+      "scale_from_crop": 0.2976190476190476,
+      "output_sha256": "f184ca09eb47645e867ed3a51f47ec7eade4eda1ddf1fe34799504dbdec1f811"
+    },
+    {
+      "file": "assets/photos/takesumi-menu-a-3-sp.jpg",
+      "label": "黒:白いとんかつの断面/ec722591",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/白いとんかつの断面/ec7225912c1516f490cd4fe9a310dea9b172374b745b669346dccf70b738cf94.jpg",
+      "source_sha256": "ec7225912c1516f490cd4fe9a310dea9b172374b745b669346dccf70b738cf94",
+      "source_size": [
+        4032,
+        3024
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        4032,
+        3024
+      ],
+      "crop_box_after_exif": [
+        1260,
+        0,
+        2772,
+        3024
+      ],
+      "output_size": [
+        130,
+        260
+      ],
+      "scale_from_crop": 0.08597883597883597,
+      "output_sha256": "185fa19e5790286205a0c5ac020a22614da4d51d75da6ac6dbc5860713793154"
+    },
+    {
+      "file": "assets/photos/zeitaku-menu-b-pc.jpg",
+      "label": "商品/c3be87ca",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/c3be87ca827f41d12067dd6d74e6c0cbdea97573d294a48d5b268573c05d7beb.jpg",
+      "source_sha256": "c3be87ca827f41d12067dd6d74e6c0cbdea97573d294a48d5b268573c05d7beb",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1920,
+        1080
+      ],
+      "crop_box_after_exif": [
+        206,
+        0,
+        1714,
+        1080
+      ],
+      "output_size": [
+        1256,
+        900
+      ],
+      "scale_from_crop": 0.8333333333333334,
+      "output_sha256": "d9484bd9ebd7deaa989c8f58bfecb4afd97633c2bc953f194b818d3ddfa6851f"
+    },
+    {
+      "file": "assets/photos/zeitaku-menu-b-sp.jpg",
+      "label": "商品/c3be87ca",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/c3be87ca827f41d12067dd6d74e6c0cbdea97573d294a48d5b268573c05d7beb.jpg",
+      "source_sha256": "c3be87ca827f41d12067dd6d74e6c0cbdea97573d294a48d5b268573c05d7beb",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1920,
+        1080
+      ],
+      "crop_box_after_exif": [
+        150,
+        0,
+        1770,
+        1080
+      ],
+      "output_size": [
+        390,
+        260
+      ],
+      "scale_from_crop": 0.24074074074074073,
+      "output_sha256": "97c7f6595636f4f9b3b8e6260ca94582d5b2d546731f8b7e5cc1b93aac5543d5"
+    },
+    {
+      "file": "assets/photos/takesumi-menu-b-pc.jpg",
+      "label": "黒:定食/29f7a372",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/定食/29f7a3722df77264003a755521c259f7796475b7a9b0f9e05a9ed459f81e3bd0.jpg",
+      "source_sha256": "29f7a3722df77264003a755521c259f7796475b7a9b0f9e05a9ed459f81e3bd0",
+      "source_size": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        5712,
+        4284
+      ],
+      "crop_box_after_exif": [
+        0,
+        96,
+        5712,
+        4188
+      ],
+      "output_size": [
+        1256,
+        900
+      ],
+      "scale_from_crop": 0.21994134897360704,
+      "output_sha256": "3e3d72bb727e1e888ff381e09cc13947bc4045f88b13c4a7cd21cedbb627f7e4"
+    },
+    {
+      "file": "assets/photos/takesumi-menu-b-sp.jpg",
+      "label": "黒:定食/29f7a372",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/定食/29f7a3722df77264003a755521c259f7796475b7a9b0f9e05a9ed459f81e3bd0.jpg",
+      "source_sha256": "29f7a3722df77264003a755521c259f7796475b7a9b0f9e05a9ed459f81e3bd0",
+      "source_size": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        5712,
+        4284
+      ],
+      "crop_box_after_exif": [
+        0,
+        238,
+        5712,
+        4046
+      ],
+      "output_size": [
+        390,
+        260
+      ],
+      "scale_from_crop": 0.06827731092436974,
+      "output_sha256": "d668fcf3e9b267b5039031ccb33750ae58d308b8a7357c559499d4762b017bfd"
+    },
+    {
+      "file": "assets/photos/zeitaku-story-1-pc.jpg",
+      "label": "作業/9002d198",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/作業/9002d19893a47f6b2025cbf15acd7e16ddb286402748679d069d2ae454d9d524.jpg",
+      "source_sha256": "9002d19893a47f6b2025cbf15acd7e16ddb286402748679d069d2ae454d9d524",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1920,
+        1080
+      ],
+      "crop_box_after_exif": [
+        557,
+        0,
+        1363,
+        1080
+      ],
+      "output_size": [
+        671,
+        900
+      ],
+      "scale_from_crop": 0.8333333333333334,
+      "output_sha256": "0295eab2b73abebf288c8e002b12c81ea2190cf4871a614767c76cc9c83aebce"
+    },
+    {
+      "file": "assets/photos/zeitaku-story-1-sp.jpg",
+      "label": "作業/9002d198",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/作業/9002d19893a47f6b2025cbf15acd7e16ddb286402748679d069d2ae454d9d524.jpg",
+      "source_sha256": "9002d19893a47f6b2025cbf15acd7e16ddb286402748679d069d2ae454d9d524",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1920,
+        1080
+      ],
+      "crop_box_after_exif": [
+        555,
+        0,
+        1365,
+        1080
+      ],
+      "output_size": [
+        195,
+        260
+      ],
+      "scale_from_crop": 0.24074074074074073,
+      "output_sha256": "f63810e07a42bfe4758d131befb178ce072f6d7812ab5d91391584a1fd94b64b"
+    },
+    {
+      "file": "assets/photos/zeitaku-story-2-pc.jpg",
+      "label": "商品/d7d91950",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/d7d919509befe93ad6c8e3966bbdd802e1746308b07c33ee7f521cef748401a3.jpg",
+      "source_sha256": "d7d919509befe93ad6c8e3966bbdd802e1746308b07c33ee7f521cef748401a3",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1920,
+        1080
+      ],
+      "crop_box_after_exif": [
+        609,
+        0,
+        1311,
+        1080
+      ],
+      "output_size": [
+        585,
+        900
+      ],
+      "scale_from_crop": 0.8333333333333334,
+      "output_sha256": "44fee2a1aa6976decc5e9bf7e67b9f6af5daada9108cf025a5d1567ef914a8a9"
+    },
+    {
+      "file": "assets/photos/zeitaku-story-2-sp.jpg",
+      "label": "商品/d7d91950",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/d7d919509befe93ad6c8e3966bbdd802e1746308b07c33ee7f521cef748401a3.jpg",
+      "source_sha256": "d7d919509befe93ad6c8e3966bbdd802e1746308b07c33ee7f521cef748401a3",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1920,
+        1080
+      ],
+      "crop_box_after_exif": [
+        555,
+        0,
+        1365,
+        1080
+      ],
+      "output_size": [
+        195,
+        260
+      ],
+      "scale_from_crop": 0.24074074074074073,
+      "output_sha256": "b92f918c6e28527f80b87c1fdf7cacc22da6f2cb9c64e1dc85ce29dd15d5ecf5"
+    },
+    {
+      "file": "assets/photos/takesumi-story-1-pc.jpg",
+      "label": "黒:カレー/e6e12a3c",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/カレー/e6e12a3c39a7956a5c828d723983670d0255e2388c043b5b7992a0efc727fa3e.jpg",
+      "source_sha256": "e6e12a3c39a7956a5c828d723983670d0255e2388c043b5b7992a0efc727fa3e",
+      "source_size": [
+        4032,
+        3024
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        4032,
+        3024
+      ],
+      "crop_box_after_exif": [
+        889,
+        0,
+        3143,
+        3024
+      ],
+      "output_size": [
+        671,
+        900
+      ],
+      "scale_from_crop": 0.2976929902395741,
+      "output_sha256": "afac1c1864225edae704898e319452d8df5fd4a7950f1edd6dca7b6d12a8d54c"
+    },
+    {
+      "file": "assets/photos/takesumi-story-1-sp.jpg",
+      "label": "黒:カレー/e6e12a3c",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/カレー/e6e12a3c39a7956a5c828d723983670d0255e2388c043b5b7992a0efc727fa3e.jpg",
+      "source_sha256": "e6e12a3c39a7956a5c828d723983670d0255e2388c043b5b7992a0efc727fa3e",
+      "source_size": [
+        4032,
+        3024
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        4032,
+        3024
+      ],
+      "crop_box_after_exif": [
+        882,
+        0,
+        3150,
+        3024
+      ],
+      "output_size": [
+        195,
+        260
+      ],
+      "scale_from_crop": 0.08597883597883597,
+      "output_sha256": "0940e7a07d7d1064d1c39ff287ed9e065de6b132b3b3723eb8baf7e84b9a2265"
+    },
+    {
+      "file": "assets/photos/takesumi-story-2-pc.jpg",
+      "label": "黒:人物と調理/0fefd282",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/人物と調理/0fefd28214912aae854eb3b59b61a23a26e4773fa4d90c089a665cb68df44c56.png",
+      "source_sha256": "0fefd28214912aae854eb3b59b61a23a26e4773fa4d90c089a665cb68df44c56",
+      "source_size": [
+        2160,
+        1648
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        2160,
+        1648
+      ],
+      "crop_box_after_exif": [
+        544,
+        0,
+        1616,
+        1648
+      ],
+      "output_size": [
+        585,
+        900
+      ],
+      "scale_from_crop": 0.5461165048543689,
+      "output_sha256": "5d07917f25a692e93ab86f553db8fdd45f4048c266f4a9e05efada622e57af3d"
+    },
+    {
+      "file": "assets/photos/takesumi-story-2-sp.jpg",
+      "label": "黒:人物と調理/0fefd282",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/人物と調理/0fefd28214912aae854eb3b59b61a23a26e4773fa4d90c089a665cb68df44c56.png",
+      "source_sha256": "0fefd28214912aae854eb3b59b61a23a26e4773fa4d90c089a665cb68df44c56",
+      "source_size": [
+        2160,
+        1648
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        2160,
+        1648
+      ],
+      "crop_box_after_exif": [
+        462,
+        0,
+        1698,
+        1648
+      ],
+      "output_size": [
+        195,
+        260
+      ],
+      "scale_from_crop": 0.15776699029126215,
+      "output_sha256": "3c1f3a14e0d42f7b1dd914970b5f961cef4179bf380e8335e5b2f270c1f2ee7d"
+    },
+    {
+      "file": "assets/photos/zeitaku-gallery-initial-pc.jpg",
+      "label": "内装/ec14cd9c",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/ec14cd9c22de3e2cd205573b78ce08fbfb8467686ef77789d6ae43972c79ec9a.jpg",
+      "source_sha256": "ec14cd9c22de3e2cd205573b78ce08fbfb8467686ef77789d6ae43972c79ec9a",
+      "source_size": [
+        1562,
+        878
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1562,
+        878
+      ],
+      "crop_box_after_exif": [
+        212,
+        0,
+        1350,
+        878
+      ],
+      "output_size": [
+        1167,
+        900
+      ],
+      "scale_from_crop": 1.0254833040421794,
+      "output_sha256": "5149be4a962d84d61299027d0a04d13b4669d4524928cd8ef026590ac1c7cdbe"
+    },
+    {
+      "file": "assets/photos/zeitaku-gallery-initial-sp.jpg",
+      "label": "内装/ec14cd9c",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/ec14cd9c22de3e2cd205573b78ce08fbfb8467686ef77789d6ae43972c79ec9a.jpg",
+      "source_sha256": "ec14cd9c22de3e2cd205573b78ce08fbfb8467686ef77789d6ae43972c79ec9a",
+      "source_size": [
+        1562,
+        878
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1562,
+        878
+      ],
+      "crop_box_after_exif": [
+        191,
+        0,
+        1371,
+        878
+      ],
+      "output_size": [
+        390,
+        290
+      ],
+      "scale_from_crop": 0.3305084745762712,
+      "output_sha256": "5025311e4eb54455a4f2dd44a8fafa13e61292da95df40cb0db0e80431cb71a5"
+    },
+    {
+      "file": "assets/photos/zeitaku-gallery-thumb-1.jpg",
+      "label": "内装/76b7b1e2",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/76b7b1e2f881871c8dac665960a9d06d086af1ef6d4037d1f0bd2750a503b354.jpg",
+      "source_sha256": "76b7b1e2f881871c8dac665960a9d06d086af1ef6d4037d1f0bd2750a503b354",
+      "source_size": [
+        1215,
+        911
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1215,
+        911
+      ],
+      "crop_box_after_exif": [
+        0,
+        39,
+        1215,
+        872
+      ],
+      "output_size": [
+        368,
+        252
+      ],
+      "scale_from_crop": 0.302880658436214,
+      "output_sha256": "14ff220ac98837c4cbb1684eaf436b90b486cee539133daa676b59c2ad2186b6"
+    },
+    {
+      "file": "assets/photos/zeitaku-gallery-1-pc.jpg",
+      "label": "内装/76b7b1e2",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/76b7b1e2f881871c8dac665960a9d06d086af1ef6d4037d1f0bd2750a503b354.jpg",
+      "source_sha256": "76b7b1e2f881871c8dac665960a9d06d086af1ef6d4037d1f0bd2750a503b354",
+      "source_size": [
+        1215,
+        911
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1215,
+        911
+      ],
+      "crop_box_after_exif": [
+        17,
+        0,
+        1198,
+        911
+      ],
+      "output_size": [
+        1167,
+        900
+      ],
+      "scale_from_crop": 0.9881456392887383,
+      "output_sha256": "b8011734ad4c61d7ce920ca604ec49d603e7d8a43dc636233a8b03488048b7e8"
+    },
+    {
+      "file": "assets/photos/zeitaku-gallery-1-sp.jpg",
+      "label": "内装/76b7b1e2",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/76b7b1e2f881871c8dac665960a9d06d086af1ef6d4037d1f0bd2750a503b354.jpg",
+      "source_sha256": "76b7b1e2f881871c8dac665960a9d06d086af1ef6d4037d1f0bd2750a503b354",
+      "source_size": [
+        1215,
+        911
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1215,
+        911
+      ],
+      "crop_box_after_exif": [
+        0,
+        4,
+        1215,
+        907
+      ],
+      "output_size": [
+        390,
+        290
+      ],
+      "scale_from_crop": 0.3211517165005537,
+      "output_sha256": "d92cab33437cb6edc7a2b1155047d4f55b2a3011cef00b7e4755be7fccc65408"
+    },
+    {
+      "file": "assets/photos/zeitaku-gallery-thumb-2.jpg",
+      "label": "内装/3d7c4caf",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/3d7c4caff7998d2298be6e0f240b22b46bd341ca7df5169571494d2f5f0370af.jpg",
+      "source_sha256": "3d7c4caff7998d2298be6e0f240b22b46bd341ca7df5169571494d2f5f0370af",
+      "source_size": [
+        700,
+        525
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        700,
+        525
+      ],
+      "crop_box_after_exif": [
+        0,
+        23,
+        700,
+        502
+      ],
+      "output_size": [
+        368,
+        252
+      ],
+      "scale_from_crop": 0.5260960334029228,
+      "output_sha256": "157b38e2e2e614c20cff2b7cd5ffea9247f09ccdd06dcb487b8c9e2e0cf25423"
+    },
+    {
+      "file": "assets/photos/zeitaku-gallery-thumb-3.jpg",
+      "label": "内装/611df2c8",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/611df2c8c3ff7ba8d9b5e072e325e2fd980af98a7aeaf6aa8e96f2c32d27a453.jpg",
+      "source_sha256": "611df2c8c3ff7ba8d9b5e072e325e2fd980af98a7aeaf6aa8e96f2c32d27a453",
+      "source_size": [
+        1080,
+        810
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1080,
+        810
+      ],
+      "crop_box_after_exif": [
+        0,
+        35,
+        1080,
+        775
+      ],
+      "output_size": [
+        368,
+        252
+      ],
+      "scale_from_crop": 0.34074074074074073,
+      "output_sha256": "d7ea360b908ee89b80e94f3bad795e4eaa2ecbe15e49be1d429b7660ef663774"
+    },
+    {
+      "file": "assets/photos/zeitaku-gallery-thumb-4.jpg",
+      "label": "外観/ce404fe1",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/外観/ce404fe1d531b7636bf389cbd2564aa232f41106f6075c94e8409548d024272c.jpg",
+      "source_sha256": "ce404fe1d531b7636bf389cbd2564aa232f41106f6075c94e8409548d024272c",
+      "source_size": [
+        1215,
+        911
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1215,
+        911
+      ],
+      "crop_box_after_exif": [
+        0,
+        39,
+        1215,
+        872
+      ],
+      "output_size": [
+        368,
+        252
+      ],
+      "scale_from_crop": 0.302880658436214,
+      "output_sha256": "e16f061eba88240d68369ceefc118430f9a4e66a88b6cd7103e494fa76aa68b8"
+    },
+    {
+      "file": "assets/photos/zeitaku-gallery-4-pc.jpg",
+      "label": "外観/ce404fe1",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/外観/ce404fe1d531b7636bf389cbd2564aa232f41106f6075c94e8409548d024272c.jpg",
+      "source_sha256": "ce404fe1d531b7636bf389cbd2564aa232f41106f6075c94e8409548d024272c",
+      "source_size": [
+        1215,
+        911
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1215,
+        911
+      ],
+      "crop_box_after_exif": [
+        17,
+        0,
+        1198,
+        911
+      ],
+      "output_size": [
+        1167,
+        900
+      ],
+      "scale_from_crop": 0.9881456392887383,
+      "output_sha256": "526715f899ee0aabd30aed73a7c920f21220cf735b2089544eb9fb8d79ba3792"
+    },
+    {
+      "file": "assets/photos/zeitaku-gallery-4-sp.jpg",
+      "label": "外観/ce404fe1",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/外観/ce404fe1d531b7636bf389cbd2564aa232f41106f6075c94e8409548d024272c.jpg",
+      "source_sha256": "ce404fe1d531b7636bf389cbd2564aa232f41106f6075c94e8409548d024272c",
+      "source_size": [
+        1215,
+        911
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1215,
+        911
+      ],
+      "crop_box_after_exif": [
+        0,
+        4,
+        1215,
+        907
+      ],
+      "output_size": [
+        390,
+        290
+      ],
+      "scale_from_crop": 0.3211517165005537,
+      "output_sha256": "e68c21c01654b9cb25a166c6218884e21a55c20609067e014b6d472d5c459912"
+    },
+    {
+      "file": "assets/photos/zeitaku-gallery-thumb-5.jpg",
+      "label": "商品/8bfdf6a9",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/8bfdf6a918489fef0441ad823d8606b2174a64965c71f13a56af68c5c3aaa82f.jpg",
+      "source_sha256": "8bfdf6a918489fef0441ad823d8606b2174a64965c71f13a56af68c5c3aaa82f",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1920,
+        1080
+      ],
+      "crop_box_after_exif": [
+        171,
+        0,
+        1749,
+        1080
+      ],
+      "output_size": [
+        368,
+        252
+      ],
+      "scale_from_crop": 0.23333333333333334,
+      "output_sha256": "a8d07769052a5df31db918cdfced7633ea28a76cca66b749ed951d05ce86a9e8"
+    },
+    {
+      "file": "assets/photos/zeitaku-gallery-5-pc.jpg",
+      "label": "商品/8bfdf6a9",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/8bfdf6a918489fef0441ad823d8606b2174a64965c71f13a56af68c5c3aaa82f.jpg",
+      "source_sha256": "8bfdf6a918489fef0441ad823d8606b2174a64965c71f13a56af68c5c3aaa82f",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1920,
+        1080
+      ],
+      "crop_box_after_exif": [
+        260,
+        0,
+        1660,
+        1080
+      ],
+      "output_size": [
+        1167,
+        900
+      ],
+      "scale_from_crop": 0.8335714285714285,
+      "output_sha256": "b6ceb1df7d8b44e64a133d8965c6fb7f86b05e72517c931540f845651a1d972b"
+    },
+    {
+      "file": "assets/photos/zeitaku-gallery-5-sp.jpg",
+      "label": "商品/8bfdf6a9",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/8bfdf6a918489fef0441ad823d8606b2174a64965c71f13a56af68c5c3aaa82f.jpg",
+      "source_sha256": "8bfdf6a918489fef0441ad823d8606b2174a64965c71f13a56af68c5c3aaa82f",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1920,
+        1080
+      ],
+      "crop_box_after_exif": [
+        234,
+        0,
+        1686,
+        1080
+      ],
+      "output_size": [
+        390,
+        290
+      ],
+      "scale_from_crop": 0.26859504132231404,
+      "output_sha256": "a4242d63ea56babfe7aa6d711d874154d7104843779d921488c4e9058c1cbc83"
+    },
+    {
+      "file": "assets/photos/zeitaku-gallery-thumb-6.jpg",
+      "label": "作業/7665cbea",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/作業/7665cbea73fde1758b4087326a48a95849ccead1c28d3b5a1e782ebbf6c14599.jpg",
+      "source_sha256": "7665cbea73fde1758b4087326a48a95849ccead1c28d3b5a1e782ebbf6c14599",
+      "source_size": [
+        700,
+        525
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        700,
+        525
+      ],
+      "crop_box_after_exif": [
+        0,
+        23,
+        700,
+        502
+      ],
+      "output_size": [
+        368,
+        252
+      ],
+      "scale_from_crop": 0.5260960334029228,
+      "output_sha256": "f4c2a51279d0b60bae68856b07a6dac288a5faa831ad08c1adfc75cb11b4831f"
+    },
+    {
+      "file": "assets/photos/takesumi-gallery-initial-pc.jpg",
+      "label": "黒:内装/37117db9",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/内装/37117db9d8e66dfed8ce0bfc326fd488b54f078882de039e261b4942eeeaebce.jpg",
+      "source_sha256": "37117db9d8e66dfed8ce0bfc326fd488b54f078882de039e261b4942eeeaebce",
+      "source_size": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        5712,
+        4284
+      ],
+      "crop_box_after_exif": [
+        79,
+        0,
+        5633,
+        4284
+      ],
+      "output_size": [
+        1167,
+        900
+      ],
+      "scale_from_crop": 0.21011883327331654,
+      "output_sha256": "bacc5a4b8b9bc7c4360c4c9709dbe4b16e5cd0632818cdce4e985e8c9dfda184"
+    },
+    {
+      "file": "assets/photos/takesumi-gallery-initial-sp.jpg",
+      "label": "黒:内装/37117db9",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/内装/37117db9d8e66dfed8ce0bfc326fd488b54f078882de039e261b4942eeeaebce.jpg",
+      "source_sha256": "37117db9d8e66dfed8ce0bfc326fd488b54f078882de039e261b4942eeeaebce",
+      "source_size": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        5712,
+        4284
+      ],
+      "crop_box_after_exif": [
+        0,
+        18,
+        5712,
+        4266
+      ],
+      "output_size": [
+        390,
+        290
+      ],
+      "scale_from_crop": 0.06827731092436974,
+      "output_sha256": "0dba9a06b286e6f68937672761875465d37f6b342402c46529014c0bfc0ec5f7"
+    },
+    {
+      "file": "assets/photos/takesumi-gallery-thumb-1.jpg",
+      "label": "黒:黒いとんかつの断面/712f0956",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/黒いとんかつの断面/712f0956cda04d92519afa5706a1f727af92ab4e9b1681db0b47fc22f2644852.jpg",
+      "source_sha256": "712f0956cda04d92519afa5706a1f727af92ab4e9b1681db0b47fc22f2644852",
+      "source_size": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        5712,
+        4284
+      ],
+      "crop_box_after_exif": [
+        0,
+        186,
+        5712,
+        4098
+      ],
+      "output_size": [
+        368,
+        252
+      ],
+      "scale_from_crop": 0.06442577030812324,
+      "output_sha256": "fc48c8c3be962ebccc2d4f69600643c116bea9b8e93a9aecea3c708b7a9b0156"
+    },
+    {
+      "file": "assets/photos/takesumi-gallery-1-pc.jpg",
+      "label": "黒:黒いとんかつの断面/712f0956",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/黒いとんかつの断面/712f0956cda04d92519afa5706a1f727af92ab4e9b1681db0b47fc22f2644852.jpg",
+      "source_sha256": "712f0956cda04d92519afa5706a1f727af92ab4e9b1681db0b47fc22f2644852",
+      "source_size": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        5712,
+        4284
+      ],
+      "crop_box_after_exif": [
+        79,
+        0,
+        5633,
+        4284
+      ],
+      "output_size": [
+        1167,
+        900
+      ],
+      "scale_from_crop": 0.21011883327331654,
+      "output_sha256": "88df3787bf702df961008cedc2bbd22876154acf530a8c316ea46d7e7104f3ad"
+    },
+    {
+      "file": "assets/photos/takesumi-gallery-1-sp.jpg",
+      "label": "黒:黒いとんかつの断面/712f0956",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/黒いとんかつの断面/712f0956cda04d92519afa5706a1f727af92ab4e9b1681db0b47fc22f2644852.jpg",
+      "source_sha256": "712f0956cda04d92519afa5706a1f727af92ab4e9b1681db0b47fc22f2644852",
+      "source_size": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        5712,
+        4284
+      ],
+      "crop_box_after_exif": [
+        0,
+        18,
+        5712,
+        4266
+      ],
+      "output_size": [
+        390,
+        290
+      ],
+      "scale_from_crop": 0.06827731092436974,
+      "output_sha256": "6ede17fb6962ccfab7140a4d7fd2d12f5c8a1663203681d386a5cbf52ea4cb39"
+    },
+    {
+      "file": "assets/photos/takesumi-gallery-thumb-2.jpg",
+      "label": "黒:白いとんかつの断面/abd4ef83",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/白いとんかつの断面/abd4ef838327b2324a556e44b1054625316c82620049beb15b4f4ada4c450e99.jpg",
+      "source_sha256": "abd4ef838327b2324a556e44b1054625316c82620049beb15b4f4ada4c450e99",
+      "source_size": [
+        4284,
+        5712
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        4284,
+        5712
+      ],
+      "crop_box_after_exif": [
+        0,
+        1389,
+        4284,
+        4323
+      ],
+      "output_size": [
+        368,
+        252
+      ],
+      "scale_from_crop": 0.08590102707749767,
+      "output_sha256": "9d2f77987d9e3c1c83cc9096ba83085502a66c1f3eb04e8d8649b732f4e92ea6"
+    },
+    {
+      "file": "assets/photos/takesumi-gallery-2-pc.jpg",
+      "label": "黒:白いとんかつの断面/abd4ef83",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/白いとんかつの断面/abd4ef838327b2324a556e44b1054625316c82620049beb15b4f4ada4c450e99.jpg",
+      "source_sha256": "abd4ef838327b2324a556e44b1054625316c82620049beb15b4f4ada4c450e99",
+      "source_size": [
+        4284,
+        5712
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        4284,
+        5712
+      ],
+      "crop_box_after_exif": [
+        0,
+        1204,
+        4284,
+        4508
+      ],
+      "output_size": [
+        1167,
+        900
+      ],
+      "scale_from_crop": 0.27240896358543415,
+      "output_sha256": "547040ae9a90ae2b765bcceaa59014947264fa8e28cf60eb32a7c4973c57e20f"
+    },
+    {
+      "file": "assets/photos/takesumi-gallery-2-sp.jpg",
+      "label": "黒:白いとんかつの断面/abd4ef83",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/白いとんかつの断面/abd4ef838327b2324a556e44b1054625316c82620049beb15b4f4ada4c450e99.jpg",
+      "source_sha256": "abd4ef838327b2324a556e44b1054625316c82620049beb15b4f4ada4c450e99",
+      "source_size": [
+        4284,
+        5712
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        4284,
+        5712
+      ],
+      "crop_box_after_exif": [
+        0,
+        1263,
+        4284,
+        4449
+      ],
+      "output_size": [
+        390,
+        290
+      ],
+      "scale_from_crop": 0.09103641456582633,
+      "output_sha256": "17754f522172f53f915ae0035f31de8db4bb0719d31c975b7ebe5e94333206b7"
+    },
+    {
+      "file": "assets/photos/takesumi-gallery-thumb-3.jpg",
+      "label": "黒:定食/03991e47",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/定食/03991e47e8cc3a209e4c6e9ea0114c4ec4419900fce973eb6b46a9e769324e21.jpg",
+      "source_sha256": "03991e47e8cc3a209e4c6e9ea0114c4ec4419900fce973eb6b46a9e769324e21",
+      "source_size": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        5712,
+        4284
+      ],
+      "crop_box_after_exif": [
+        0,
+        186,
+        5712,
+        4098
+      ],
+      "output_size": [
+        368,
+        252
+      ],
+      "scale_from_crop": 0.06442577030812324,
+      "output_sha256": "2e70b8e8869d12e5e9150cb0e9d8264cb7a9b7bc71524cc7de5ecf15fc1d4504"
+    },
+    {
+      "file": "assets/photos/takesumi-gallery-3-pc.jpg",
+      "label": "黒:定食/03991e47",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/定食/03991e47e8cc3a209e4c6e9ea0114c4ec4419900fce973eb6b46a9e769324e21.jpg",
+      "source_sha256": "03991e47e8cc3a209e4c6e9ea0114c4ec4419900fce973eb6b46a9e769324e21",
+      "source_size": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        5712,
+        4284
+      ],
+      "crop_box_after_exif": [
+        79,
+        0,
+        5633,
+        4284
+      ],
+      "output_size": [
+        1167,
+        900
+      ],
+      "scale_from_crop": 0.21011883327331654,
+      "output_sha256": "5a1ba39c89c36de2590d56ef29ea29ee7fa09f7349d8ae0753ed8c1a100a4464"
+    },
+    {
+      "file": "assets/photos/takesumi-gallery-3-sp.jpg",
+      "label": "黒:定食/03991e47",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/定食/03991e47e8cc3a209e4c6e9ea0114c4ec4419900fce973eb6b46a9e769324e21.jpg",
+      "source_sha256": "03991e47e8cc3a209e4c6e9ea0114c4ec4419900fce973eb6b46a9e769324e21",
+      "source_size": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        5712,
+        4284
+      ],
+      "crop_box_after_exif": [
+        0,
+        18,
+        5712,
+        4266
+      ],
+      "output_size": [
+        390,
+        290
+      ],
+      "scale_from_crop": 0.06827731092436974,
+      "output_sha256": "b9ee5363630eeead8a2de268c9f6ad8257ba5d50fcb28d7017bdac7877aa27ab"
+    },
+    {
+      "file": "assets/photos/takesumi-gallery-thumb-4.jpg",
+      "label": "黒:看板とロゴ/d28d4af6",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/看板とロゴ/d28d4af611cb2ae229725251844f3fecfe3c9d3d6ddbb4418c497eede959a7eb.jpg",
+      "source_sha256": "d28d4af611cb2ae229725251844f3fecfe3c9d3d6ddbb4418c497eede959a7eb",
+      "source_size": [
+        640,
+        481
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        640,
+        481
+      ],
+      "crop_box_after_exif": [
+        0,
+        21,
+        640,
+        460
+      ],
+      "output_size": [
+        368,
+        252
+      ],
+      "scale_from_crop": 0.575,
+      "output_sha256": "ae22c0069efc5712221b10d716c7b9fe1abb8027e801da9f734a1f1041d95a25"
+    },
+    {
+      "file": "assets/photos/takesumi-gallery-thumb-5.jpg",
+      "label": "黒:人物と調理/3056dff2",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/人物と調理/3056dff2c27b89d71bede7d44d22e7e7c74e51d8879d9a235373ae8ba56f6242.png",
+      "source_sha256": "3056dff2c27b89d71bede7d44d22e7e7c74e51d8879d9a235373ae8ba56f6242",
+      "source_size": [
+        2160,
+        2128
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        2160,
+        2128
+      ],
+      "crop_box_after_exif": [
+        0,
+        324,
+        2160,
+        1804
+      ],
+      "output_size": [
+        368,
+        252
+      ],
+      "scale_from_crop": 0.17037037037037037,
+      "output_sha256": "aa5ff623cf1b75d31015cb155166fa229847193fe5b786d954e4ebd29f684e2e"
+    },
+    {
+      "file": "assets/photos/takesumi-gallery-5-pc.jpg",
+      "label": "黒:人物と調理/3056dff2",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/人物と調理/3056dff2c27b89d71bede7d44d22e7e7c74e51d8879d9a235373ae8ba56f6242.png",
+      "source_sha256": "3056dff2c27b89d71bede7d44d22e7e7c74e51d8879d9a235373ae8ba56f6242",
+      "source_size": [
+        2160,
+        2128
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        2160,
+        2128
+      ],
+      "crop_box_after_exif": [
+        0,
+        231,
+        2160,
+        1897
+      ],
+      "output_size": [
+        1167,
+        900
+      ],
+      "scale_from_crop": 0.5402777777777777,
+      "output_sha256": "80e1c3e37a3c28be02559819f0d448159357514b88ac6678035ef22eaf2dee2b"
+    },
+    {
+      "file": "assets/photos/takesumi-gallery-5-sp.jpg",
+      "label": "黒:人物と調理/3056dff2",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/人物と調理/3056dff2c27b89d71bede7d44d22e7e7c74e51d8879d9a235373ae8ba56f6242.png",
+      "source_sha256": "3056dff2c27b89d71bede7d44d22e7e7c74e51d8879d9a235373ae8ba56f6242",
+      "source_size": [
+        2160,
+        2128
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        2160,
+        2128
+      ],
+      "crop_box_after_exif": [
+        0,
+        261,
+        2160,
+        1867
+      ],
+      "output_size": [
+        390,
+        290
+      ],
+      "scale_from_crop": 0.18057285180572852,
+      "output_sha256": "19432f821458729ad850c1bf23de8aa97609d8ca724a56e2a5c563cc79d2efe0"
+    },
+    {
+      "file": "assets/photos/zeitaku-access-pc.jpg",
+      "label": "外観/457901f2",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/外観/457901f2bb36577c0eae991430455b5a4b0a96804baf351aa838c195f15f73b1.jpg",
+      "source_sha256": "457901f2bb36577c0eae991430455b5a4b0a96804baf351aa838c195f15f73b1",
+      "source_size": [
+        1215,
+        911
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1215,
+        911
+      ],
+      "crop_box_after_exif": [
+        0,
+        20,
+        1215,
+        891
+      ],
+      "output_size": [
+        1256,
+        900
+      ],
+      "scale_from_crop": 1.033744855967078,
+      "output_sha256": "ced4c8250b5cdbe8d045c934fa9cd58479dc82ef56da752c71f0110e0976401a"
+    },
+    {
+      "file": "assets/photos/zeitaku-access-sp.jpg",
+      "label": "外観/457901f2",
+      "store": "京町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/外観/457901f2bb36577c0eae991430455b5a4b0a96804baf351aa838c195f15f73b1.jpg",
+      "source_sha256": "457901f2bb36577c0eae991430455b5a4b0a96804baf351aa838c195f15f73b1",
+      "source_size": [
+        1215,
+        911
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        1215,
+        911
+      ],
+      "crop_box_after_exif": [
+        0,
+        50,
+        1215,
+        860
+      ],
+      "output_size": [
+        390,
+        260
+      ],
+      "scale_from_crop": 0.32098765432098764,
+      "output_sha256": "61b039219e292aa2a0fffafd8dc4389377f45dd8982b1306e2d9c57b40f49a50"
+    },
+    {
+      "file": "assets/photos/takesumi-access-pc.jpg",
+      "label": "黒:外観/b819f30c",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/外観/b819f30ca74e2f578950afb6e1fedd2fa7e10bdd850c90d3f9737512d9117f03.jpg",
+      "source_sha256": "b819f30ca74e2f578950afb6e1fedd2fa7e10bdd850c90d3f9737512d9117f03",
+      "source_size": [
+        4032,
+        3024
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        4032,
+        3024
+      ],
+      "crop_box_after_exif": [
+        0,
+        67,
+        4032,
+        2957
+      ],
+      "output_size": [
+        1256,
+        900
+      ],
+      "scale_from_crop": 0.3115079365079365,
+      "output_sha256": "682776e522395ed15a6d10036ef9b89cee49556a8fbcafd6ed6708907a976e2c"
+    },
+    {
+      "file": "assets/photos/takesumi-access-sp.jpg",
+      "label": "黒:外観/b819f30c",
+      "store": "中道町",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/外観/b819f30ca74e2f578950afb6e1fedd2fa7e10bdd850c90d3f9737512d9117f03.jpg",
+      "source_sha256": "b819f30ca74e2f578950afb6e1fedd2fa7e10bdd850c90d3f9737512d9117f03",
+      "source_size": [
+        4032,
+        3024
+      ],
+      "exif_orientation": 1,
+      "oriented_size": [
+        4032,
+        3024
+      ],
+      "crop_box_after_exif": [
+        0,
+        168,
+        4032,
+        2856
+      ],
+      "output_size": [
+        390,
+        260
+      ],
+      "scale_from_crop": 0.09672619047619048,
+      "output_sha256": "2ae38a69ee172578751e0c12a46e310d6d17da0b3ffc967c13ba787f86549ca0"
+    }
+  ]
+}

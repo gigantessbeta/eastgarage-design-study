@@ -1,0 +1,706 @@
+{
+  "max_upscale": 1.5,
+  "photos": [
+    {
+      "id": "kitchen-pc",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/作業/9002d19893a47f6b2025cbf15acd7e16ddb286402748679d069d2ae454d9d524.jpg",
+      "source_sha256": "9002d19893a47f6b2025cbf15acd7e16ddb286402748679d069d2ae454d9d524",
+      "store": "京町",
+      "exif_orientation": 1,
+      "exif_transpose_applied": true,
+      "oriented_source_size": [
+        1920,
+        1080
+      ],
+      "crop_xyxy": [
+        0,
+        30,
+        1920,
+        930
+      ],
+      "crop_coordinate_space": "EXIF corrected pixels, right/bottom exclusive",
+      "output": "assets/photos/kitchen-pc.jpg",
+      "output_size": [
+        1440,
+        675
+      ],
+      "output_sha256": "73083f90162e5345b696364b5b12f5ad61f7df5289b3cc92be73169fe78a1b5c",
+      "css_frame_at_target_viewport": [
+        1440,
+        675
+      ],
+      "photo_display_size": [
+        1440,
+        675
+      ],
+      "resample_scale": 0.75,
+      "display_scale_from_original": 0.75
+    },
+    {
+      "id": "kitchen-sp",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/作業/9002d19893a47f6b2025cbf15acd7e16ddb286402748679d069d2ae454d9d524.jpg",
+      "source_sha256": "9002d19893a47f6b2025cbf15acd7e16ddb286402748679d069d2ae454d9d524",
+      "store": "京町",
+      "exif_orientation": 1,
+      "exif_transpose_applied": true,
+      "oriented_source_size": [
+        1920,
+        1080
+      ],
+      "crop_xyxy": [
+        0,
+        30,
+        1920,
+        931
+      ],
+      "crop_coordinate_space": "EXIF corrected pixels, right/bottom exclusive",
+      "output": "assets/photos/kitchen-sp.jpg",
+      "output_size": [
+        390,
+        183
+      ],
+      "output_sha256": "c9a62150b4137d667dbdf52dd7d13a4b465833533128cd836e442eaeec91496c",
+      "css_frame_at_target_viewport": [
+        390,
+        183
+      ],
+      "photo_display_size": [
+        390,
+        183
+      ],
+      "resample_scale": 0.203125,
+      "display_scale_from_original": 0.203125
+    },
+    {
+      "id": "black-crumbs-pc",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/人物と調理/0fefd28214912aae854eb3b59b61a23a26e4773fa4d90c089a665cb68df44c56.png",
+      "source_sha256": "0fefd28214912aae854eb3b59b61a23a26e4773fa4d90c089a665cb68df44c56",
+      "store": "中道町",
+      "exif_orientation": 1,
+      "exif_transpose_applied": true,
+      "oriented_source_size": [
+        2160,
+        1648
+      ],
+      "crop_xyxy": [
+        0,
+        360,
+        2160,
+        1373
+      ],
+      "crop_coordinate_space": "EXIF corrected pixels, right/bottom exclusive",
+      "output": "assets/photos/black-crumbs-pc.jpg",
+      "output_size": [
+        1440,
+        675
+      ],
+      "output_sha256": "c855247b34d0784dfc21b49c4a778018accc79c26eb805a680be128bbf238c09",
+      "css_frame_at_target_viewport": [
+        1440,
+        675
+      ],
+      "photo_display_size": [
+        1440,
+        675
+      ],
+      "resample_scale": 0.6666666666666666,
+      "display_scale_from_original": 0.6666666666666666
+    },
+    {
+      "id": "black-crumbs-sp",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/人物と調理/0fefd28214912aae854eb3b59b61a23a26e4773fa4d90c089a665cb68df44c56.png",
+      "source_sha256": "0fefd28214912aae854eb3b59b61a23a26e4773fa4d90c089a665cb68df44c56",
+      "store": "中道町",
+      "exif_orientation": 1,
+      "exif_transpose_applied": true,
+      "oriented_source_size": [
+        2160,
+        1648
+      ],
+      "crop_xyxy": [
+        0,
+        360,
+        2160,
+        1374
+      ],
+      "crop_coordinate_space": "EXIF corrected pixels, right/bottom exclusive",
+      "output": "assets/photos/black-crumbs-sp.jpg",
+      "output_size": [
+        390,
+        183
+      ],
+      "output_sha256": "ea896fdd164c0464e76c4e3e4ad3cb15b5118265aaac8e6c36046dd8f62a1943",
+      "css_frame_at_target_viewport": [
+        390,
+        183
+      ],
+      "photo_display_size": [
+        390,
+        183
+      ],
+      "resample_scale": 0.18055555555555555,
+      "display_scale_from_original": 0.18055555555555555
+    },
+    {
+      "id": "coating-pc",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/人物と調理/d479687881f855b03ca525d80a92dc11bb598ece674e16a3a60afd2e358087d7.png",
+      "source_sha256": "d479687881f855b03ca525d80a92dc11bb598ece674e16a3a60afd2e358087d7",
+      "store": "中道町",
+      "exif_orientation": 1,
+      "exif_transpose_applied": true,
+      "oriented_source_size": [
+        2160,
+        2511
+      ],
+      "crop_xyxy": [
+        0,
+        1450,
+        2160,
+        2463
+      ],
+      "crop_coordinate_space": "EXIF corrected pixels, right/bottom exclusive",
+      "output": "assets/photos/coating-pc.jpg",
+      "output_size": [
+        1440,
+        675
+      ],
+      "output_sha256": "f3d39bd2780b3a21ef3643a9cb1ac63daee064533095dc9a238b82787a1ed1b6",
+      "css_frame_at_target_viewport": [
+        1440,
+        675
+      ],
+      "photo_display_size": [
+        1440,
+        675
+      ],
+      "resample_scale": 0.6666666666666666,
+      "display_scale_from_original": 0.6666666666666666
+    },
+    {
+      "id": "coating-sp",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/人物と調理/d479687881f855b03ca525d80a92dc11bb598ece674e16a3a60afd2e358087d7.png",
+      "source_sha256": "d479687881f855b03ca525d80a92dc11bb598ece674e16a3a60afd2e358087d7",
+      "store": "中道町",
+      "exif_orientation": 1,
+      "exif_transpose_applied": true,
+      "oriented_source_size": [
+        2160,
+        2511
+      ],
+      "crop_xyxy": [
+        0,
+        1450,
+        2160,
+        2464
+      ],
+      "crop_coordinate_space": "EXIF corrected pixels, right/bottom exclusive",
+      "output": "assets/photos/coating-sp.jpg",
+      "output_size": [
+        390,
+        183
+      ],
+      "output_sha256": "05a4d07b1ca2ca73b455d6f692feaf53d678519e0935d421d417290cc5d26e42",
+      "css_frame_at_target_viewport": [
+        390,
+        183
+      ],
+      "photo_display_size": [
+        390,
+        183
+      ],
+      "resample_scale": 0.18055555555555555,
+      "display_scale_from_original": 0.18055555555555555
+    },
+    {
+      "id": "white-crumbs-pc",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/作業/7665cbea73fde1758b4087326a48a95849ccead1c28d3b5a1e782ebbf6c14599.jpg",
+      "source_sha256": "7665cbea73fde1758b4087326a48a95849ccead1c28d3b5a1e782ebbf6c14599",
+      "store": "京町",
+      "exif_orientation": 1,
+      "exif_transpose_applied": true,
+      "oriented_source_size": [
+        700,
+        525
+      ],
+      "crop_xyxy": [
+        0,
+        145,
+        700,
+        473
+      ],
+      "crop_coordinate_space": "EXIF corrected pixels, right/bottom exclusive",
+      "output": "assets/photos/white-crumbs-pc.jpg",
+      "output_size": [
+        1050,
+        492
+      ],
+      "output_sha256": "c8a211f55b5df850c8a3bde118069ff94f7c66773ec728f1c0235e97950d2e82",
+      "css_frame_at_target_viewport": [
+        1440,
+        675
+      ],
+      "photo_display_size": [
+        1050,
+        492
+      ],
+      "resample_scale": 1.5,
+      "display_scale_from_original": 1.5
+    },
+    {
+      "id": "white-crumbs-sp",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/作業/7665cbea73fde1758b4087326a48a95849ccead1c28d3b5a1e782ebbf6c14599.jpg",
+      "source_sha256": "7665cbea73fde1758b4087326a48a95849ccead1c28d3b5a1e782ebbf6c14599",
+      "store": "京町",
+      "exif_orientation": 1,
+      "exif_transpose_applied": true,
+      "oriented_source_size": [
+        700,
+        525
+      ],
+      "crop_xyxy": [
+        0,
+        145,
+        700,
+        474
+      ],
+      "crop_coordinate_space": "EXIF corrected pixels, right/bottom exclusive",
+      "output": "assets/photos/white-crumbs-sp.jpg",
+      "output_size": [
+        390,
+        183
+      ],
+      "output_sha256": "12fb8a02da2a625999090fc19576e782b06bf670f18bc03fa426916f2bb2ad98",
+      "css_frame_at_target_viewport": [
+        390,
+        183
+      ],
+      "photo_display_size": [
+        390,
+        183
+      ],
+      "resample_scale": 0.5571428571428572,
+      "display_scale_from_original": 0.5571428571428572
+    },
+    {
+      "id": "black-cut-pc",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/黒いとんかつの断面/3b5f29d03eb080006cc456648422d4ae1c0086bbdbd698786a4b910051a63164.jpg",
+      "source_sha256": "3b5f29d03eb080006cc456648422d4ae1c0086bbdbd698786a4b910051a63164",
+      "store": "中道町",
+      "exif_orientation": 1,
+      "exif_transpose_applied": true,
+      "oriented_source_size": [
+        5712,
+        4284
+      ],
+      "crop_xyxy": [
+        0,
+        300,
+        5712,
+        3870
+      ],
+      "crop_coordinate_space": "EXIF corrected pixels, right/bottom exclusive",
+      "output": "assets/photos/black-cut-pc.jpg",
+      "output_size": [
+        1440,
+        900
+      ],
+      "output_sha256": "3d1535caa5a944fea4234a7a2f329c0255da6eeaea495e63a9a244d1765f129b",
+      "css_frame_at_target_viewport": [
+        1440,
+        900
+      ],
+      "photo_display_size": [
+        1440,
+        900
+      ],
+      "resample_scale": 0.25210084033613445,
+      "display_scale_from_original": 0.25210084033613445
+    },
+    {
+      "id": "black-cut-sp",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/黒いとんかつの断面/3b5f29d03eb080006cc456648422d4ae1c0086bbdbd698786a4b910051a63164.jpg",
+      "source_sha256": "3b5f29d03eb080006cc456648422d4ae1c0086bbdbd698786a4b910051a63164",
+      "store": "中道町",
+      "exif_orientation": 1,
+      "exif_transpose_applied": true,
+      "oriented_source_size": [
+        5712,
+        4284
+      ],
+      "crop_xyxy": [
+        0,
+        290,
+        5712,
+        3995
+      ],
+      "crop_coordinate_space": "EXIF corrected pixels, right/bottom exclusive",
+      "output": "assets/photos/black-cut-sp.jpg",
+      "output_size": [
+        780,
+        506
+      ],
+      "output_sha256": "7d2bea613a4b39160aa0ce28235f45905379727f8e9713a643324e42df73a983",
+      "css_frame_at_target_viewport": [
+        390,
+        253
+      ],
+      "photo_display_size": [
+        390,
+        253
+      ],
+      "resample_scale": 0.13657219973009446,
+      "display_scale_from_original": 0.06828609986504723
+    },
+    {
+      "id": "kyomachi-door-pc",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/外観/e62bd32e4adae014ec2acbcee4bd87926a92d19aa7ae34371dc8d4d26ad24134.jpg",
+      "source_sha256": "e62bd32e4adae014ec2acbcee4bd87926a92d19aa7ae34371dc8d4d26ad24134",
+      "store": "京町",
+      "exif_orientation": 1,
+      "exif_transpose_applied": true,
+      "oriented_source_size": [
+        2048,
+        1152
+      ],
+      "crop_xyxy": [
+        280,
+        0,
+        1660,
+        1150
+      ],
+      "crop_coordinate_space": "EXIF corrected pixels, right/bottom exclusive",
+      "output": "assets/photos/kyomachi-door-pc.jpg",
+      "output_size": [
+        720,
+        600
+      ],
+      "output_sha256": "8237fa6f406300e8c2ce852abb149c268d8ef8607b67ff1c91ad1d2cd19a8ae9",
+      "css_frame_at_target_viewport": [
+        720,
+        600
+      ],
+      "photo_display_size": [
+        720,
+        600
+      ],
+      "resample_scale": 0.5217391304347826,
+      "display_scale_from_original": 0.5217391304347826
+    },
+    {
+      "id": "kyomachi-door-sp",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/外観/e62bd32e4adae014ec2acbcee4bd87926a92d19aa7ae34371dc8d4d26ad24134.jpg",
+      "source_sha256": "e62bd32e4adae014ec2acbcee4bd87926a92d19aa7ae34371dc8d4d26ad24134",
+      "store": "京町",
+      "exif_orientation": 1,
+      "exif_transpose_applied": true,
+      "oriented_source_size": [
+        2048,
+        1152
+      ],
+      "crop_xyxy": [
+        230,
+        0,
+        1725,
+        1150
+      ],
+      "crop_coordinate_space": "EXIF corrected pixels, right/bottom exclusive",
+      "output": "assets/photos/kyomachi-door-sp.jpg",
+      "output_size": [
+        780,
+        600
+      ],
+      "output_sha256": "235de1b503dd2457d0922458c561647b86a026f97362225f858e96c1142f8016",
+      "css_frame_at_target_viewport": [
+        390,
+        300
+      ],
+      "photo_display_size": [
+        390,
+        300
+      ],
+      "resample_scale": 0.5217391304347826,
+      "display_scale_from_original": 0.2608695652173913
+    },
+    {
+      "id": "nakamichi-door-pc",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/外観/0713ca96549cff3c782eb837472e4ade31fc3894f0a972d373c24084b813fb4b.jpg",
+      "source_sha256": "0713ca96549cff3c782eb837472e4ade31fc3894f0a972d373c24084b813fb4b",
+      "store": "中道町",
+      "exif_orientation": 1,
+      "exif_transpose_applied": true,
+      "oriented_source_size": [
+        5712,
+        4284
+      ],
+      "crop_xyxy": [
+        700,
+        350,
+        5260,
+        4150
+      ],
+      "crop_coordinate_space": "EXIF corrected pixels, right/bottom exclusive",
+      "output": "assets/photos/nakamichi-door-pc.jpg",
+      "output_size": [
+        720,
+        600
+      ],
+      "output_sha256": "81d56cf3adc9d2e7b15b3003a3d592be87ec7c165bc39ebc475b6146516e2159",
+      "css_frame_at_target_viewport": [
+        720,
+        600
+      ],
+      "photo_display_size": [
+        720,
+        600
+      ],
+      "resample_scale": 0.15789473684210525,
+      "display_scale_from_original": 0.15789473684210525
+    },
+    {
+      "id": "nakamichi-door-sp",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/外観/0713ca96549cff3c782eb837472e4ade31fc3894f0a972d373c24084b813fb4b.jpg",
+      "source_sha256": "0713ca96549cff3c782eb837472e4ade31fc3894f0a972d373c24084b813fb4b",
+      "store": "中道町",
+      "exif_orientation": 1,
+      "exif_transpose_applied": true,
+      "oriented_source_size": [
+        5712,
+        4284
+      ],
+      "crop_xyxy": [
+        300,
+        250,
+        5500,
+        4250
+      ],
+      "crop_coordinate_space": "EXIF corrected pixels, right/bottom exclusive",
+      "output": "assets/photos/nakamichi-door-sp.jpg",
+      "output_size": [
+        780,
+        600
+      ],
+      "output_sha256": "186fcccc0033da39e894ef94bbd464b45b8c30275ade212628954d186591cf82",
+      "css_frame_at_target_viewport": [
+        390,
+        300
+      ],
+      "photo_display_size": [
+        390,
+        300
+      ],
+      "resample_scale": 0.15,
+      "display_scale_from_original": 0.075
+    },
+    {
+      "id": "white-card-pc",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/c3be87ca827f41d12067dd6d74e6c0cbdea97573d294a48d5b268573c05d7beb.jpg",
+      "source_sha256": "c3be87ca827f41d12067dd6d74e6c0cbdea97573d294a48d5b268573c05d7beb",
+      "store": "京町",
+      "exif_orientation": 1,
+      "exif_transpose_applied": true,
+      "oriented_source_size": [
+        1920,
+        1080
+      ],
+      "crop_xyxy": [
+        250,
+        0,
+        1495,
+        1080
+      ],
+      "crop_coordinate_space": "EXIF corrected pixels, right/bottom exclusive",
+      "output": "assets/photos/white-card-pc.jpg",
+      "output_size": [
+        685,
+        594
+      ],
+      "output_sha256": "cd3f2eaf3abe2ffc8c99495d538d4ba684ecd2a6aea89db9977efbeed03111d7",
+      "css_frame_at_target_viewport": [
+        685,
+        594
+      ],
+      "photo_display_size": [
+        685,
+        594
+      ],
+      "resample_scale": 0.5502008032128514,
+      "display_scale_from_original": 0.5502008032128514
+    },
+    {
+      "id": "white-card-sp",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/c3be87ca827f41d12067dd6d74e6c0cbdea97573d294a48d5b268573c05d7beb.jpg",
+      "source_sha256": "c3be87ca827f41d12067dd6d74e6c0cbdea97573d294a48d5b268573c05d7beb",
+      "store": "京町",
+      "exif_orientation": 1,
+      "exif_transpose_applied": true,
+      "oriented_source_size": [
+        1920,
+        1080
+      ],
+      "crop_xyxy": [
+        320,
+        0,
+        1299,
+        1080
+      ],
+      "crop_coordinate_space": "EXIF corrected pixels, right/bottom exclusive",
+      "output": "assets/photos/white-card-sp.jpg",
+      "output_size": [
+        780,
+        860
+      ],
+      "output_sha256": "057b497b51d9d714d392ef92036d3f37f0addc1ec01bd748dbce127735ae1432",
+      "css_frame_at_target_viewport": [
+        390,
+        430
+      ],
+      "photo_display_size": [
+        390,
+        430
+      ],
+      "resample_scale": 0.7967313585291114,
+      "display_scale_from_original": 0.3983656792645557
+    },
+    {
+      "id": "black-card-pc",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/黒いとんかつの断面/3b5f29d03eb080006cc456648422d4ae1c0086bbdbd698786a4b910051a63164.jpg",
+      "source_sha256": "3b5f29d03eb080006cc456648422d4ae1c0086bbdbd698786a4b910051a63164",
+      "store": "中道町",
+      "exif_orientation": 1,
+      "exif_transpose_applied": true,
+      "oriented_source_size": [
+        5712,
+        4284
+      ],
+      "crop_xyxy": [
+        0,
+        0,
+        4939,
+        4284
+      ],
+      "crop_coordinate_space": "EXIF corrected pixels, right/bottom exclusive",
+      "output": "assets/photos/black-card-pc.jpg",
+      "output_size": [
+        1370,
+        1188
+      ],
+      "output_sha256": "c7b13fc2cb8b1af3d84cbe8fea778e65b057be3ff44f58c6786e49ec6c00ad1b",
+      "css_frame_at_target_viewport": [
+        685,
+        594
+      ],
+      "photo_display_size": [
+        685,
+        594
+      ],
+      "resample_scale": 0.27738408584733754,
+      "display_scale_from_original": 0.13869204292366877
+    },
+    {
+      "id": "black-card-sp",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/黒いとんかつの断面/3b5f29d03eb080006cc456648422d4ae1c0086bbdbd698786a4b910051a63164.jpg",
+      "source_sha256": "3b5f29d03eb080006cc456648422d4ae1c0086bbdbd698786a4b910051a63164",
+      "store": "中道町",
+      "exif_orientation": 1,
+      "exif_transpose_applied": true,
+      "oriented_source_size": [
+        5712,
+        4284
+      ],
+      "crop_xyxy": [
+        250,
+        0,
+        4135,
+        4284
+      ],
+      "crop_coordinate_space": "EXIF corrected pixels, right/bottom exclusive",
+      "output": "assets/photos/black-card-sp.jpg",
+      "output_size": [
+        780,
+        860
+      ],
+      "output_sha256": "517668e415720155b862de0eaec488c9a8339e33e274d6e1ad718066b8227b7b",
+      "css_frame_at_target_viewport": [
+        390,
+        430
+      ],
+      "photo_display_size": [
+        390,
+        430
+      ],
+      "resample_scale": 0.20077220077220076,
+      "display_scale_from_original": 0.10038610038610038
+    },
+    {
+      "id": "chopsticks-pc",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/黒いとんかつの断面/712f0956cda04d92519afa5706a1f727af92ab4e9b1681db0b47fc22f2644852.jpg",
+      "source_sha256": "712f0956cda04d92519afa5706a1f727af92ab4e9b1681db0b47fc22f2644852",
+      "store": "中道町",
+      "exif_orientation": 1,
+      "exif_transpose_applied": true,
+      "oriented_source_size": [
+        5712,
+        4284
+      ],
+      "crop_xyxy": [
+        0,
+        250,
+        5712,
+        3820
+      ],
+      "crop_coordinate_space": "EXIF corrected pixels, right/bottom exclusive",
+      "output": "assets/photos/chopsticks-pc.jpg",
+      "output_size": [
+        1440,
+        900
+      ],
+      "output_sha256": "7a01fb3f1c9edc088baef97fc5cef1b211d23f1112cb7ba4306082ef82423dbf",
+      "css_frame_at_target_viewport": [
+        1440,
+        900
+      ],
+      "photo_display_size": [
+        1440,
+        900
+      ],
+      "resample_scale": 0.25210084033613445,
+      "display_scale_from_original": 0.25210084033613445
+    },
+    {
+      "id": "chopsticks-sp",
+      "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/黒いとんかつの断面/712f0956cda04d92519afa5706a1f727af92ab4e9b1681db0b47fc22f2644852.jpg",
+      "source_sha256": "712f0956cda04d92519afa5706a1f727af92ab4e9b1681db0b47fc22f2644852",
+      "store": "中道町",
+      "exif_orientation": 1,
+      "exif_transpose_applied": true,
+      "oriented_source_size": [
+        5712,
+        4284
+      ],
+      "crop_xyxy": [
+        1000,
+        0,
+        5712,
+        4277
+      ],
+      "crop_coordinate_space": "EXIF corrected pixels, right/bottom exclusive",
+      "output": "assets/photos/chopsticks-sp.jpg",
+      "output_size": [
+        780,
+        708
+      ],
+      "output_sha256": "2344b87af7c702483dac888e1d29367d822f55d83aa4654d9959b61599c07348",
+      "css_frame_at_target_viewport": [
+        390,
+        354
+      ],
+      "photo_display_size": [
+        390,
+        354
+      ],
+      "resample_scale": 0.16553659106850596,
+      "display_scale_from_original": 0.08276829553425298
+    }
+  ],
+  "exception": "white-crumbs-pc: preserve 1440×675 frame, center a 1050×492 image to enforce 1.5× limit."
+}

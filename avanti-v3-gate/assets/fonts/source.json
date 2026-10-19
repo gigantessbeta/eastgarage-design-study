@@ -1,0 +1,18 @@
+{
+  "family": "Noto Serif JP",
+  "variable_axis": [
+    200,
+    900
+  ],
+  "copied_from": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti-base/site-v2/assets/fonts/NotoSerifJP-subset.woff2",
+  "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti-base/design/work/NotoSerifJP.ttf",
+  "source_sha256": "2fd527ba12b6a44ec30d796d633360da0aeba6c5d4af1304ce12bb4dc15a7dfc",
+  "method": "fontTools subset; all layout features including vert/vrt2; local brotli",
+  "additional_characters": 360,
+  "license": "OFL.txt",
+  "available_requested_weights": [
+    400,
+    500,
+    700
+  ]
+}

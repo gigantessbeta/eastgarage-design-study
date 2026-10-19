@@ -1,0 +1,198 @@
+:root {
+  font-family: "Noto Serif JP", serif;
+  font-synthesis: none;
+  color: #fff;
+  background: #141414;
+  font-weight: 400;
+  --rail-width: 184px;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body, h1, h2, h3, p, ul, dl, dd { margin: 0; }
+ul { padding: 0; list-style: none; }
+a { color: inherit; text-decoration: none; }
+button { font: inherit; color: inherit; cursor: pointer; }
+img { display: block; max-width: 100%; }
+picture { display: block; }
+a:focus-visible, button:focus-visible { outline: 2px solid currentColor; outline-offset: -5px; }
+button:focus-visible { outline-offset: -4px; }
+h1, h2, h3, strong { font-weight: 500; }
+
+/* The two 720×900 links share the viewport without a divider. */
+.gate-page { overflow: hidden; background: #000; }
+.gate { position: relative; display: grid; grid-template-columns: 1fr 1fr; height: 100svh; min-height: 620px; }
+.gate-door { position: relative; min-width: 0; overflow: hidden; }
+.gate-door picture, .gate-door img, .door-photo { width: 100%; height: 100%; }
+.gate-door img { object-fit: cover; }
+.door-photo { filter: brightness(.25); transition: filter .6s ease; }
+.gate-door:hover .door-photo, .gate-door:focus-visible .door-photo, .gate-door:active .door-photo { filter: brightness(.7); }
+.door-name { position: absolute; top: calc(50% - 22px); display: flex; flex-direction: column; align-items: center; gap: 16px; }
+.gate-zeitaku .door-name { right: 158px; }
+.gate-takesumi .door-name { left: 164px; }
+.door-name strong { writing-mode: vertical-rl; font-size: 16px; letter-spacing: .3em; line-height: 27px; }
+.door-name > span { writing-mode: vertical-rl; font-size: 11px; letter-spacing: .13em; line-height: 18px; }
+.gate-dots { position: absolute; top: calc(50% - 4px); display: flex; gap: 8px; }
+.gate-zeitaku .gate-dots { right: 104px; }
+.gate-takesumi .gate-dots { left: 104px; }
+.gate-dots i { width: 8px; height: 8px; border: 1px solid white; border-radius: 50%; transition: background-color .6s; }
+.gate-dots .filled, .gate-door:hover .gate-dots i, .gate-door:focus-visible .gate-dots i, .gate-door:active .gate-dots i { background: #fff; }
+.gate-center { position: absolute; top: calc(50% - 244px); left: 50%; z-index: 2; width: 114px; transform: translateX(-50%); text-align: center; pointer-events: none; }
+.gate-center h1 { writing-mode: vertical-rl; white-space: nowrap; font-size: 16px; letter-spacing: .3em; line-height: 44px; margin: 0 auto; animation: gate-arrive 1.2s ease both; }
+.gate-center > img { width: 96px; height: auto; margin: 30px auto 0; }
+@keyframes gate-arrive { from { opacity: 0; transform: translateY(-24px); } to { opacity: 1; transform: translateY(0); } }
+
+/* Both stores retain the right rail and six full photographic sections. */
+.shop-main { margin-right: var(--rail-width); }
+.shop-bar { position: fixed; inset: 0 0 0 auto; width: var(--rail-width); height: 100svh; z-index: 10; background: #141414; color: #fff; }
+.zeitaku .shop-bar { background: #f2f1ee; color: #141414; }
+.reservation { position: absolute; top: 43px; left: 36px; width: 112px; height: 57px; border: 1px solid currentColor; display: grid; place-items: center; font-size: 16px; letter-spacing: .18em; }
+.reservation:hover { background: rgb(128 128 128 / .12); }
+.shop-logo { position: absolute; top: 132px; left: 52px; width: 80px; }
+.shop-logo img { width: 80px; height: auto; }
+.shop-navigation nav { position: absolute; top: 252px; left: 0; width: 184px; }
+.shop-navigation nav a { display: block; text-align: center; padding: 12px 7px; font-size: 16px; line-height: 24px; }
+.shop-navigation nav a:hover, .shop-navigation nav a[aria-current="location"] { text-decoration: underline; text-underline-offset: 8px; text-decoration-thickness: 1px; }
+.other-shop { position: absolute; bottom: 40px; left: 46px; width: 92px; display: flex; align-items: center; gap: 12px; }
+.other-shop img { width: 62px; height: auto; }
+.other-shop span { font-size: 13px; }
+.menu-toggle { display: none; }
+.shop-section { position: relative; height: 900px; isolation: isolate; }
+.section-photo { position: absolute; inset: 0; z-index: -2; overflow: hidden; }
+.section-photo picture, .section-photo img { width: 100%; height: 100%; }
+.section-photo img { object-fit: cover; }
+.shop-section::after { position: absolute; inset: 0; z-index: -1; pointer-events: none; content: ""; background: rgb(0 0 0 / .5); }
+.hero-section::after { background: rgb(0 0 0 / .28); }
+.hero-section h1 { position: absolute; top: 409px; left: 0; width: 100%; padding: 0 24px; font-size: 26px; letter-spacing: .3em; line-height: 46px; text-align: center; }
+.advance { position: absolute; top: 778px; left: 50%; transform: translateX(-50%); font-size: 13px; letter-spacing: .2em; text-align: center; padding: 0 24px; }
+.advance span { display: block; width: 1px; height: 48px; margin: 12px auto 0; background: #fff; }
+.triptych { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.menu-content { position: relative; padding-top: 200px; margin: 0 auto; width: min(100% - 48px, 1000px); }
+.shop-section h2 { font-size: 32px; line-height: 46px; letter-spacing: .16em; text-align: center; }
+.section-meta { margin: 18px auto 0; font-size: 14px; line-height: 28px; text-align: center; }
+.menu-columns { display: grid; margin: 24px auto 0; }
+.two-columns { grid-template-columns: repeat(2, 338px); gap: 43px; width: 719px; }
+.menu-column { min-width: 0; }
+.menu-column h3 { font-size: 23px; line-height: 34px; margin-bottom: 20px; }
+.menu-row { display: grid; grid-template-columns: minmax(0, 1fr) 74px; align-content: center; min-height: 64px; border-bottom: 1px solid rgb(255 255 255 / .4); font-size: 16px; line-height: 24px; }
+.menu-row:first-child { border-top: 1px solid rgb(255 255 255 / .4); }
+.menu-row dt { padding-right: 8px; }
+.menu-row > dd:not(.menu-detail) { align-self: start; text-align: right; white-space: nowrap; }
+.menu-row .menu-detail { grid-column: 1 / -1; font-size: 12px; line-height: 16px; }
+.column-note { font-size: 12px; line-height: 22px; margin: -8px 0 14px; }
+.three-columns { grid-template-columns: repeat(3, 200px); width: 720px; gap: 60px; margin-top: 70px; }
+.three-columns .menu-row { display: block; padding: 10px 0; }
+.three-columns .menu-row dt { padding: 0; }
+.three-columns .menu-row > dd:not(.menu-detail) { text-align: right; }
+.menu-footnote { width: 720px; margin: 36px auto 0; font-size: 12px; line-height: 24px; }
+.comparison-copy { font-size: 15px; line-height: 1.9; }
+.diptych { display: grid; grid-template-columns: 53.423567% 46.576433%; }
+.story-section::after { background: linear-gradient(to right, rgb(0 0 0 / .14) 53.423567%, rgb(0 0 0 / .6) 53.423567%); }
+.story-section > h2 { position: absolute; top: 200px; left: 0; width: 100%; }
+.story-copy { position: absolute; top: 342px; left: 53.423567%; width: 46.576433%; padding: 0 64px; }
+.story-copy p { font-size: 16px; line-height: 2; }
+.cutout { width: 220px; height: auto; margin: 24px auto 0; }
+.gallery-section { display: grid; grid-template-columns: minmax(0, 1fr) 184px; }
+.gallery-section::after { display: none; }
+.gallery-main { position: relative; inset: auto; z-index: 0; height: 900px; }
+.gallery-main picture { position: absolute; top: 0; left: 50%; width: max(100%, 1167px); transform: translateX(-50%); }
+.gallery-thumbnails { position: relative; background: #141414; overflow-y: auto; overflow-x: hidden; scrollbar-width: thin; height: 900px; }
+.gallery-thumb { display: block; width: 184px; height: 126px; padding: 0; border: 0; background: transparent; }
+.gallery-thumb img { width: 184px; height: 126px; object-fit: cover; }
+button.gallery-thumb { opacity: .65; }
+button.gallery-thumb:hover, button.gallery-thumb:focus-visible, button.gallery-thumb[aria-pressed="true"] { opacity: 1; }
+.access-section::after { background: rgb(0 0 0 / .62); }
+.access-content { padding: 100px 24px 0; }
+.address { font-size: 16px; line-height: 28px; text-align: center; margin: 18px 0 30px; }
+.access-content iframe { display: block; width: 790px; height: 390px; max-width: 100%; margin: 0 auto; border: 0; background: #ddd; }
+.store-information { width: 790px; max-width: 100%; margin: 24px auto 0; display: grid; grid-template-columns: 1fr 1fr; gap: 32px; font-size: 13px; line-height: 1.8; }
+.store-information dl > div { display: grid; grid-template-columns: 68px minmax(0, 1fr); gap: 10px; margin-bottom: 7px; }
+.store-information dd { overflow-wrap: anywhere; }
+.store-information a { text-decoration: underline; text-underline-offset: 3px; }
+
+/* Hidden only after the observer is installed; the unenhanced document stays readable. */
+.motion-ready .shop-section .section-photo { filter: brightness(.55); transition: filter .8s ease; }
+.motion-ready .shop-section.is-visible .section-photo { filter: brightness(1); }
+.motion-ready .menu-row { opacity: 0; transform: translateY(12px); transition: opacity .6s ease, transform .6s ease; transition-delay: var(--row-delay, 0s); }
+.motion-ready .is-visible .menu-row { opacity: 1; transform: translateY(0); }
+
+@media (min-width: 800px) and (max-width: 1180px) {
+  .two-columns { grid-template-columns: repeat(2, minmax(0, 1fr)); width: 100%; gap: 28px; }
+  .three-columns { grid-template-columns: repeat(3, minmax(0, 1fr)); width: 100%; gap: 28px; }
+  .menu-footnote { width: 100%; }
+  .story-copy { padding: 0 28px; }
+  .menu-content { padding-top: 140px; }
+  .menu-column h3 { font-size: 21px; }
+  .store-information { gap: 20px; }
+}
+
+@media (max-width: 799px) {
+  .gate { display: grid; grid-template-columns: 1fr; grid-template-rows: minmax(0, 1fr) 84px minmax(0, 1fr); min-height: 0; height: 100svh; }
+  .gate-center { position: relative; top: auto; left: auto; width: 100%; height: 84px; transform: none; background: #000; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 9px; }
+  .gate-center h1 { writing-mode: horizontal-tb; white-space: normal; font-size: 13px; letter-spacing: 0; line-height: 22px; margin: 0; }
+  .gate-center > img { width: 72px; height: auto; max-height: 30px; margin: 0; }
+  .door-name, .gate-zeitaku .door-name, .gate-takesumi .door-name { top: 50%; left: 0; right: 0; transform: translateY(-50%); gap: 14px; }
+  .door-name strong, .door-name > span { writing-mode: horizontal-tb; }
+  .door-name strong { font-size: 16px; }
+  .door-name > span { font-size: 11px; }
+  .gate-dots, .gate-zeitaku .gate-dots, .gate-takesumi .gate-dots { top: calc(50% + 54px); left: calc(50% - 20px); right: auto; }
+  .shop-main { margin: 56px 0 0; }
+  .shop-bar { width: 100%; height: 56px; inset: 0 0 auto; }
+  .shop-logo { left: 20px; top: 8px; width: 142px; height: 40px; }
+  .shop-logo picture, .shop-logo img { width: 100%; height: 100%; object-fit: contain; object-position: left center; }
+  .takesumi .shop-logo { width: 90px; }
+  .reservation { top: 10px; left: auto; right: 66px; width: 86px; height: 36px; font-size: 13px; letter-spacing: .1em; }
+  .menu-toggle { display: flex; position: absolute; right: 12px; top: 6px; width: 44px; height: 44px; flex-direction: column; justify-content: center; gap: 7px; padding: 10px; border: 0; background: transparent; }
+  .menu-toggle span { width: 24px; height: 1px; background: currentColor; }
+  .menu-toggle[aria-expanded="true"] { gap: 0; }
+  .menu-toggle[aria-expanded="true"] span:first-child { transform: translateY(.5px) rotate(45deg); }
+  .menu-toggle[aria-expanded="true"] span:last-child { transform: translateY(-.5px) rotate(-45deg); }
+  .shop-navigation { display: none; position: fixed; top: 56px; bottom: 0; right: 0; width: 100%; background: #141414; overflow: auto; }
+  .zeitaku .shop-navigation { background: #f2f1ee; }
+  .shop-navigation.is-open { display: block; }
+  .shop-navigation nav { position: static; width: 100%; padding: 30px 20px; }
+  .shop-navigation nav a { padding: 18px 8px; font-size: 16px; }
+  .other-shop { position: static; width: 110px; margin: 20px auto 40px; }
+  .other-shop img { width: 80px; }
+  .shop-section { height: auto; scroll-margin-top: 56px; }
+  .hero-section { height: 640px; }
+  .hero-section h1 { top: 278px; font-size: 20px; letter-spacing: .16em; line-height: 36px; padding: 0 18px; }
+  .advance { top: auto; bottom: 38px; }
+  .advance span { height: 38px; }
+  .shop-section:not(.hero-section) > .section-photo { position: relative; inset: auto; z-index: 0; width: 100%; height: 260px; }
+  .shop-section:not(.hero-section)::after { display: none; }
+  .menu-content { padding: 36px 24px 46px; width: 100%; }
+  .shop-section h2 { font-size: 26px; line-height: 1.6; letter-spacing: .07em; }
+  .section-meta { font-size: 14px; line-height: 1.9; margin-top: 14px; text-align: left; }
+  .menu-columns, .two-columns, .three-columns { display: block; width: 100%; margin-top: 32px; }
+  .menu-column + .menu-column { margin-top: 36px; }
+  .menu-column h3 { font-size: 21px; line-height: 1.6; margin-bottom: 18px; }
+  .menu-row { min-height: 52px; padding: 8px 0; font-size: 15px; line-height: 24px; grid-template-columns: minmax(0, 1fr) 74px; }
+  .menu-row .menu-detail { font-size: 12px; line-height: 1.7; margin-top: 4px; }
+  .three-columns .menu-row { display: grid; padding: 8px 0; }
+  .menu-footnote { width: 100%; margin-top: 30px; font-size: 12px; line-height: 2; }
+  .comparison-copy { font-size: 15px; line-height: 1.9; }
+  .comparison-copy + .comparison-copy { margin-top: 28px; }
+  .diptych { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .story-section > h2 { position: static; padding: 36px 24px 0; }
+  .story-copy { position: static; width: 100%; padding: 24px 24px 44px; }
+  .story-copy p { font-size: 16px; line-height: 2; }
+  .cutout { margin-top: 24px; }
+  .gallery-section { display: block; }
+  .gallery-section > .gallery-main.section-photo { height: 290px; }
+  .gallery-main picture { position: static; width: 100%; height: 100%; transform: none; }
+  .gallery-thumbnails { display: flex; width: 100%; height: 90px; overflow-x: auto; overflow-y: hidden; }
+  .gallery-thumb { flex: 0 0 130px; width: 130px; height: 89px; }
+  .gallery-thumb img { width: 130px; height: 89px; }
+  .access-content { padding: 36px 24px 44px; }
+  .address { font-size: 16px; line-height: 1.9; text-align: left; margin: 18px 0 28px; }
+  .access-content iframe { width: 100%; height: 290px; }
+  .store-information { display: block; width: 100%; margin-top: 28px; font-size: 13px; line-height: 1.9; }
+  .store-information dl > div { grid-template-columns: 68px minmax(0, 1fr); margin-bottom: 14px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+  .motion-ready .shop-section .section-photo { filter: brightness(1); }
+  .motion-ready .menu-row { opacity: 1; transform: none; }
+}
