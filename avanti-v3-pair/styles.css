@@ -136,22 +136,75 @@ footer { background: #fff; padding-bottom: 28px; }
 .ending-tagline { position: absolute; bottom: 25px; width: 100%; text-align: center; font-size: 18px; line-height: 2; }
 .copyright { text-align: center; font-size: 16px; }
 
-@media (min-width: 835px) and (max-width: 1199px) {
-  .title-opening { height: 65.138889vw; }
-  .pair-logo { top: 14.930556vw; }
-  .pair-name { top: 4.513889vw; }
-  .brand-seal, .ending-seal { width: 8.333333vw; height: 8.333333vw; }
-  .brand-tagline { bottom: 3.75vw; font-size: 15px; }
-  .introduction-inner { font-size: 32px; }
-  .introduction strong { font-size: 38px; }
-  .store-card h3 { font-size: 3.611111vw; }
-  .card-small { font-size: 15px; height: 29vw; }
-  .reservation { font-size: 20px; }
-  .contact { padding-inline: 40px; gap: 40px; }
-  .contact h2 { font-size: 30px; }
-  .title-ending { height: 58.75vw; }
-  .ending-logo { top: 12.5vw; }
-  .ending-tagline { font-size: 15px; }
+/* PC の大きさ（2026-10-19）。本人「pcで開くとなんかでかい。スクロールしないと全体像が見えない。要素が画面いっぱいに広がりすぎ」。
+   土台（男もち女もち）の 1440 の実寸のままだと、一つの要素が画面を埋める。PC（835px 以上）だけ、文字と高さを約 2/3 にし、
+   最初の画面に題の全体（帯・二つの名前・ロゴ・印・下の一行）が入るようにする。店の札と動画と連絡先は幅 1080px までに収める。
+   並び・色・言葉は変えない。SP（834px 以下）の値は触らない。直す前の styles.css は design/checks/pair-pc-size/ にある。 */
+@media (min-width: 835px) {
+  .ticker { height: 64px; font-size: 38px; line-height: 64px; }
+
+  .title-opening { --hh: clamp(500px, calc(100svh - 64px), 680px); --lw: min(calc(var(--hh) * 1.1727), 150%); height: var(--hh); }
+  .pair-name { top: calc(var(--hh) * .0693); font-size: min(calc(var(--hh) * .0768), 5vw); }
+  .pair-logo { top: calc(var(--hh) * .2292); width: var(--lw); }
+  .half-white .pair-logo { left: calc(100% - var(--lw) / 2); }
+  .half-black .pair-logo { left: calc(var(--lw) / -2); }
+  .brand-seal { width: calc(var(--hh) * .128); height: calc(var(--hh) * .128); }
+  .half-white .brand-seal { left: 56px; }
+  .half-black .brand-seal { right: 56px; }
+  .brand-tagline { bottom: calc(var(--hh) * .0576); font-size: 17px; }
+  .menu-tab { width: 42px; height: 88px; font-size: 14px; }
+
+  .introduction { padding: 44px 0 40px; }
+  .introduction-inner { max-width: 920px; font-size: 24px; }
+  .introduction strong { font-size: 28.5px; }
+
+  .slideshow { aspect-ratio: 1440 / 500; }
+  .black-cut { aspect-ratio: 1440 / 560; }
+  .vertical-words { bottom: -118px; width: min(620px, 80%); height: 236px; padding: 8px 44px 0; }
+  .vertical-words p { font-size: 34px; }
+  .door-pair picture { aspect-ratio: 720 / 400; }
+
+  .stores { padding: 40px 0; }
+  .section-band { max-width: 560px; font-size: 28px; }
+  .store-band { height: 140px; margin-top: -97px; }
+  .stores > .ticker:first-of-type { margin-top: -34px; }
+  .store-grid { max-width: 1140px; margin: 0 auto 20px; }
+  .store-card h3 { top: 14px; right: 14px; font-size: min(38px, calc((100vw - 70px) * .0355)); }
+  .card-small { top: 18px; height: 58%; font-size: 14px; }
+  .reservation { right: 14px; bottom: 14px; font-size: clamp(14px, 1.35vw, 19px); }
+  .card-caption { font-size: 16px; padding-top: 12px; }
+
+  .eating > h2 { font-size: 36px; padding: 22px 20px; }
+  .eating summary { padding: 18px 90px; font-size: 22px; }
+  .detail-icon { width: 30px; height: 30px; }
+  .detail-icon::before { width: 16px; }
+  .detail-icon::after { height: 16px; }
+  .eating-steps { max-width: 820px; padding: 24px 48px 36px; font-size: 18px; }
+  .eating-photo { aspect-ratio: 1440 / 540; }
+
+  .video { padding: 24px 0 56px; }
+  .video-band { height: 144px; margin-top: -92px; }
+  .video-frame { width: min(880px, 86.944444%); max-width: none; margin-top: -20px; padding: 7px; }
+  .video-caption { width: min(880px, 86.944444%); }
+  .tiktok-banner { width: min(600px, 59.305556%); max-width: none; min-height: 104px; margin-top: 32px; padding: 14px; gap: 8px; font-size: 20px; }
+  .tiktok-banner span:last-child { font-size: 17px; }
+
+  .news { padding: 60px 24px 44px; }
+  .news p { font-size: 17px; margin-bottom: 24px; }
+  .news a { font-size: 22px; margin: 8px auto; }
+
+  .contact { max-width: 1140px; margin: 0 auto; gap: 56px; padding: 96px 30px; }
+  .contact h2 { font-size: 26px; margin-bottom: 18px; }
+  .contact address { font-size: 17px; }
+  .phone, .line-link { font-size: 22px; }
+  .contact dl { font-size: 15px; margin: 22px 0; }
+  .contact dt { margin-top: 14px; }
+
+  .title-ending { height: 620px; }
+  .ending-names { padding-top: 40px; font-size: clamp(32px, 3.5vw, 50px); }
+  .ending-logo { top: 132px; max-width: 780px; }
+  .ending-seal { width: 86px; height: 86px; }
+  .ending-tagline { bottom: 14px; font-size: 16px; }
 }
 
 @media (max-width: 834px) {
