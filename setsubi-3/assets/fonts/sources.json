@@ -1,0 +1,40 @@
+[
+  {
+    "file": "noto-sans-jp-400.woff2",
+    "source": "NotoSansJP.ttf",
+    "weight": 400,
+    "bytes": 113520,
+    "sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f"
+  },
+  {
+    "file": "noto-sans-jp-700.woff2",
+    "source": "NotoSansJP.ttf",
+    "weight": 700,
+    "bytes": 115680,
+    "sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f"
+  },
+  {
+    "file": "noto-sans-jp-900.woff2",
+    "source": "NotoSansJP.ttf",
+    "weight": 900,
+    "bytes": 113424,
+    "sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f"
+  },
+  {
+    "file": "m-plus-rounded-1c-800.woff2",
+    "source": "MPLUSRounded1c-ExtraBold.ttf",
+    "weight": 800,
+    "bytes": 130628,
+    "sha256": "8e7c15901dca87f1451b356dda594f7d092ba252a5dcc47da74523a242493c36"
+  },
+  {
+    "note": "MPLUSRounded1cのOFL.txt URLは404。Google Fonts METADATA.pbのlicense OFLとTTF nameID 0/13/14を確認。標準OFL1.1本文と当該フォントの著作権文を同梱。",
+    "failure": "urllib.error.HTTPError: HTTP Error 404: Not Found",
+    "urls": [
+      "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansjp/NotoSansJP%5Bwght%5D.ttf",
+      "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansjp/OFL.txt",
+      "https://raw.githubusercontent.com/google/fonts/main/ofl/mplusrounded1c/MPLUSRounded1c-ExtraBold.ttf",
+      "https://raw.githubusercontent.com/google/fonts/main/ofl/mplusrounded1c/METADATA.pb"
+    ]
+  }
+]
