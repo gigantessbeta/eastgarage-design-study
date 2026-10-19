@@ -1,0 +1,794 @@
+[
+  {
+    "file": "pride-hero-pc.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/作業/9002d19893a47f6b2025cbf15acd7e16ddb286402748679d069d2ae454d9d524.jpg",
+    "source_sha256": "9002d19893a47f6b2025cbf15acd7e16ddb286402748679d069d2ae454d9d524",
+    "source_size": [
+      1920,
+      1080
+    ],
+    "crop": [
+      0,
+      74,
+      1920,
+      1007
+    ],
+    "output_size": [
+      1440,
+      700
+    ],
+    "max_planned_display_size": [
+      1440,
+      700
+    ],
+    "scale": 0.750268
+  },
+  {
+    "file": "pride-hero-sp.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/作業/9002d19893a47f6b2025cbf15acd7e16ddb286402748679d069d2ae454d9d524.jpg",
+    "source_sha256": "9002d19893a47f6b2025cbf15acd7e16ddb286402748679d069d2ae454d9d524",
+    "source_size": [
+      1920,
+      1080
+    ],
+    "crop": [
+      489,
+      0,
+      1272,
+      1080
+    ],
+    "output_size": [
+      390,
+      538
+    ],
+    "max_planned_display_size": [
+      390,
+      538
+    ],
+    "scale": 0.498148
+  },
+  {
+    "file": "menu-hero-pc.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/ac12010bd2d7448d08b0bfc2b03c15f0faace80f45add6135be3c451bfff690e.jpg",
+    "source_sha256": "ac12010bd2d7448d08b0bfc2b03c15f0faace80f45add6135be3c451bfff690e",
+    "source_size": [
+      2048,
+      1152
+    ],
+    "crop": [
+      0,
+      78,
+      2048,
+      1074
+    ],
+    "output_size": [
+      1440,
+      700
+    ],
+    "max_planned_display_size": [
+      1440,
+      700
+    ],
+    "scale": 0.703125
+  },
+  {
+    "file": "menu-hero-sp.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/ac12010bd2d7448d08b0bfc2b03c15f0faace80f45add6135be3c451bfff690e.jpg",
+    "source_sha256": "ac12010bd2d7448d08b0bfc2b03c15f0faace80f45add6135be3c451bfff690e",
+    "source_size": [
+      2048,
+      1152
+    ],
+    "crop": [
+      606,
+      0,
+      1441,
+      1152
+    ],
+    "output_size": [
+      390,
+      538
+    ],
+    "max_planned_display_size": [
+      390,
+      538
+    ],
+    "scale": 0.467066
+  },
+  {
+    "file": "shop-hero-pc.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/ec14cd9c22de3e2cd205573b78ce08fbfb8467686ef77789d6ae43972c79ec9a.jpg",
+    "source_sha256": "ec14cd9c22de3e2cd205573b78ce08fbfb8467686ef77789d6ae43972c79ec9a",
+    "source_size": [
+      1562,
+      878
+    ],
+    "crop": [
+      0,
+      60,
+      1562,
+      819
+    ],
+    "output_size": [
+      1440,
+      700
+    ],
+    "max_planned_display_size": [
+      1440,
+      700
+    ],
+    "scale": 0.922266
+  },
+  {
+    "file": "shop-hero-sp.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/ec14cd9c22de3e2cd205573b78ce08fbfb8467686ef77789d6ae43972c79ec9a.jpg",
+    "source_sha256": "ec14cd9c22de3e2cd205573b78ce08fbfb8467686ef77789d6ae43972c79ec9a",
+    "source_size": [
+      1562,
+      878
+    ],
+    "crop": [
+      463,
+      0,
+      1099,
+      878
+    ],
+    "output_size": [
+      390,
+      538
+    ],
+    "max_planned_display_size": [
+      390,
+      538
+    ],
+    "scale": 0.613208
+  },
+  {
+    "file": "pride-entry-pc.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/外観/722266958596879c16eef081d226ef226d7764c35525fc4c5decbf1d65ba4b11.jpg",
+    "source_sha256": "722266958596879c16eef081d226ef226d7764c35525fc4c5decbf1d65ba4b11",
+    "source_size": [
+      640,
+      481
+    ],
+    "crop": [
+      304,
+      0,
+      640,
+      481
+    ],
+    "output_size": [
+      419,
+      599
+    ],
+    "max_planned_display_size": [
+      419,
+      599
+    ],
+    "scale": 1.247024
+  },
+  {
+    "file": "pride-entry-sp.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/外観/722266958596879c16eef081d226ef226d7764c35525fc4c5decbf1d65ba4b11.jpg",
+    "source_sha256": "722266958596879c16eef081d226ef226d7764c35525fc4c5decbf1d65ba4b11",
+    "source_size": [
+      640,
+      481
+    ],
+    "crop": [
+      258,
+      0,
+      640,
+      481
+    ],
+    "output_size": [
+      250,
+      315
+    ],
+    "max_planned_display_size": [
+      250,
+      315
+    ],
+    "scale": 0.654886
+  },
+  {
+    "file": "pride-pork-pc.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/f8148a1a1579b708b4e37a60f6efd81a61ddfeeb1c5bfcde07692b94c3ca0b7e.jpg",
+    "source_sha256": "f8148a1a1579b708b4e37a60f6efd81a61ddfeeb1c5bfcde07692b94c3ca0b7e",
+    "source_size": [
+      1920,
+      1080
+    ],
+    "crop": [
+      657,
+      0,
+      1581,
+      1080
+    ],
+    "output_size": [
+      516,
+      603
+    ],
+    "max_planned_display_size": [
+      516,
+      603
+    ],
+    "scale": 0.558442
+  },
+  {
+    "file": "pride-pork-sp.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/f8148a1a1579b708b4e37a60f6efd81a61ddfeeb1c5bfcde07692b94c3ca0b7e.jpg",
+    "source_sha256": "f8148a1a1579b708b4e37a60f6efd81a61ddfeeb1c5bfcde07692b94c3ca0b7e",
+    "source_size": [
+      1920,
+      1080
+    ],
+    "crop": [
+      541,
+      0,
+      1641,
+      1080
+    ],
+    "output_size": [
+      325,
+      319
+    ],
+    "max_planned_display_size": [
+      325,
+      319
+    ],
+    "scale": 0.295455
+  },
+  {
+    "file": "pride-crumb-pc.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/作業/7665cbea73fde1758b4087326a48a95849ccead1c28d3b5a1e782ebbf6c14599.jpg",
+    "source_sha256": "7665cbea73fde1758b4087326a48a95849ccead1c28d3b5a1e782ebbf6c14599",
+    "source_size": [
+      700,
+      525
+    ],
+    "crop": [
+      199,
+      0,
+      556,
+      525
+    ],
+    "output_size": [
+      330,
+      485
+    ],
+    "max_planned_display_size": [
+      330,
+      485
+    ],
+    "scale": 0.92437
+  },
+  {
+    "file": "pride-crumb-sp.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/作業/7665cbea73fde1758b4087326a48a95849ccead1c28d3b5a1e782ebbf6c14599.jpg",
+    "source_sha256": "7665cbea73fde1758b4087326a48a95849ccead1c28d3b5a1e782ebbf6c14599",
+    "source_size": [
+      700,
+      525
+    ],
+    "crop": [
+      0,
+      19,
+      700,
+      506
+    ],
+    "output_size": [
+      187,
+      130
+    ],
+    "max_planned_display_size": [
+      187,
+      130
+    ],
+    "scale": 0.267143
+  },
+  {
+    "file": "pride-seasoning-pc.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/77813a040b72929369361be1432f39b55827b90789bc6693aee4b839bcf024f2.jpg",
+    "source_sha256": "77813a040b72929369361be1432f39b55827b90789bc6693aee4b839bcf024f2",
+    "source_size": [
+      1215,
+      911
+    ],
+    "crop": [
+      0,
+      304,
+      1215,
+      709
+    ],
+    "output_size": [
+      1200,
+      400
+    ],
+    "max_planned_display_size": [
+      1200,
+      400
+    ],
+    "scale": 0.987654
+  },
+  {
+    "file": "pride-seasoning-sp.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/77813a040b72929369361be1432f39b55827b90789bc6693aee4b839bcf024f2.jpg",
+    "source_sha256": "77813a040b72929369361be1432f39b55827b90789bc6693aee4b839bcf024f2",
+    "source_size": [
+      1215,
+      911
+    ],
+    "crop": [
+      0,
+      304,
+      1215,
+      709
+    ],
+    "output_size": [
+      390,
+      130
+    ],
+    "max_planned_display_size": [
+      390,
+      130
+    ],
+    "scale": 0.320988
+  },
+  {
+    "file": "strip-pork.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/d7d919509befe93ad6c8e3966bbdd802e1746308b07c33ee7f521cef748401a3.jpg",
+    "source_sha256": "d7d919509befe93ad6c8e3966bbdd802e1746308b07c33ee7f521cef748401a3",
+    "source_size": [
+      1920,
+      1080
+    ],
+    "crop": [
+      0,
+      220,
+      1920,
+      860
+    ],
+    "output_size": [
+      720,
+      240
+    ],
+    "max_planned_display_size": [
+      720,
+      240
+    ],
+    "scale": 0.375
+  },
+  {
+    "file": "strip-beef.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/f3bdc9b42b1f308f3aa94bf84bd767eb9f8b6908f823f532988c3aa00d9d316a.jpg",
+    "source_sha256": "f3bdc9b42b1f308f3aa94bf84bd767eb9f8b6908f823f532988c3aa00d9d316a",
+    "source_size": [
+      1920,
+      1080
+    ],
+    "crop": [
+      0,
+      220,
+      1920,
+      860
+    ],
+    "output_size": [
+      720,
+      240
+    ],
+    "max_planned_display_size": [
+      720,
+      240
+    ],
+    "scale": 0.375
+  },
+  {
+    "file": "meat-beef-pc.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/0ffffa81e7e89f8c23fc29cbec7730c6faedf34ae0327610bf7ccdfb50957206.jpg",
+    "source_sha256": "0ffffa81e7e89f8c23fc29cbec7730c6faedf34ae0327610bf7ccdfb50957206",
+    "source_size": [
+      1920,
+      1080
+    ],
+    "crop": [
+      0,
+      340,
+      1920,
+      740
+    ],
+    "output_size": [
+      1440,
+      300
+    ],
+    "max_planned_display_size": [
+      1440,
+      300
+    ],
+    "scale": 0.75
+  },
+  {
+    "file": "meat-beef-sp.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/0ffffa81e7e89f8c23fc29cbec7730c6faedf34ae0327610bf7ccdfb50957206.jpg",
+    "source_sha256": "0ffffa81e7e89f8c23fc29cbec7730c6faedf34ae0327610bf7ccdfb50957206",
+    "source_size": [
+      1920,
+      1080
+    ],
+    "crop": [
+      240,
+      0,
+      1680,
+      1080
+    ],
+    "output_size": [
+      120,
+      90
+    ],
+    "max_planned_display_size": [
+      120,
+      90
+    ],
+    "scale": 0.083333
+  },
+  {
+    "file": "meat-hire-pc.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/f8148a1a1579b708b4e37a60f6efd81a61ddfeeb1c5bfcde07692b94c3ca0b7e.jpg",
+    "source_sha256": "f8148a1a1579b708b4e37a60f6efd81a61ddfeeb1c5bfcde07692b94c3ca0b7e",
+    "source_size": [
+      1920,
+      1080
+    ],
+    "crop": [
+      0,
+      340,
+      1920,
+      740
+    ],
+    "output_size": [
+      1440,
+      300
+    ],
+    "max_planned_display_size": [
+      1440,
+      300
+    ],
+    "scale": 0.75
+  },
+  {
+    "file": "meat-hire-sp.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/f8148a1a1579b708b4e37a60f6efd81a61ddfeeb1c5bfcde07692b94c3ca0b7e.jpg",
+    "source_sha256": "f8148a1a1579b708b4e37a60f6efd81a61ddfeeb1c5bfcde07692b94c3ca0b7e",
+    "source_size": [
+      1920,
+      1080
+    ],
+    "crop": [
+      240,
+      0,
+      1680,
+      1080
+    ],
+    "output_size": [
+      120,
+      90
+    ],
+    "max_planned_display_size": [
+      120,
+      90
+    ],
+    "scale": 0.083333
+  },
+  {
+    "file": "meat-rosu-pc.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/1036bcc3368356a80a1716c5555a8687402b17ae0cd5139df591c2a2e032d8b3.jpg",
+    "source_sha256": "1036bcc3368356a80a1716c5555a8687402b17ae0cd5139df591c2a2e032d8b3",
+    "source_size": [
+      1080,
+      810
+    ],
+    "crop": [
+      0,
+      292,
+      1080,
+      517
+    ],
+    "output_size": [
+      1440,
+      300
+    ],
+    "max_planned_display_size": [
+      1440,
+      300
+    ],
+    "scale": 1.333333
+  },
+  {
+    "file": "meat-rosu-sp.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/1036bcc3368356a80a1716c5555a8687402b17ae0cd5139df591c2a2e032d8b3.jpg",
+    "source_sha256": "1036bcc3368356a80a1716c5555a8687402b17ae0cd5139df591c2a2e032d8b3",
+    "source_size": [
+      1080,
+      810
+    ],
+    "crop": [
+      0,
+      0,
+      1080,
+      810
+    ],
+    "output_size": [
+      120,
+      90
+    ],
+    "max_planned_display_size": [
+      120,
+      90
+    ],
+    "scale": 0.111111
+  },
+  {
+    "file": "takeaway-main.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/1fed4f16b33e1f44f6d24c95d2e5c75ba13007d283b419095fda6d656b1a9947.jpg",
+    "source_sha256": "1fed4f16b33e1f44f6d24c95d2e5c75ba13007d283b419095fda6d656b1a9947",
+    "source_size": [
+      1280,
+      720
+    ],
+    "crop": [
+      280,
+      0,
+      1000,
+      720
+    ],
+    "output_size": [
+      526,
+      526
+    ],
+    "max_planned_display_size": [
+      526,
+      526
+    ],
+    "scale": 0.730556
+  },
+  {
+    "file": "takeaway-small.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/c5519b545c4b8d1c18a7ed0e352cf0cf5b4747030e2d3745460cd585325c3e8a.jpg",
+    "source_sha256": "c5519b545c4b8d1c18a7ed0e352cf0cf5b4747030e2d3745460cd585325c3e8a",
+    "source_size": [
+      640,
+      640
+    ],
+    "crop": [
+      115,
+      0,
+      573,
+      640
+    ],
+    "output_size": [
+      209,
+      292
+    ],
+    "max_planned_display_size": [
+      209,
+      292
+    ],
+    "scale": 0.456332
+  },
+  {
+    "file": "collage-1.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/作業/7665cbea73fde1758b4087326a48a95849ccead1c28d3b5a1e782ebbf6c14599.jpg",
+    "source_sha256": "7665cbea73fde1758b4087326a48a95849ccead1c28d3b5a1e782ebbf6c14599",
+    "source_size": [
+      700,
+      525
+    ],
+    "crop": [
+      49,
+      0,
+      651,
+      525
+    ],
+    "output_size": [
+      429,
+      374
+    ],
+    "max_planned_display_size": [
+      429,
+      374
+    ],
+    "scale": 0.712625
+  },
+  {
+    "file": "collage-2.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/作業/b6b6fb8b60d381962cd238bc11d54fe8fc268537dcb6c15c20641a847e3d04b9.jpg",
+    "source_sha256": "b6b6fb8b60d381962cd238bc11d54fe8fc268537dcb6c15c20641a847e3d04b9",
+    "source_size": [
+      700,
+      525
+    ],
+    "crop": [
+      16,
+      0,
+      684,
+      525
+    ],
+    "output_size": [
+      327,
+      257
+    ],
+    "max_planned_display_size": [
+      327,
+      257
+    ],
+    "scale": 0.489524
+  },
+  {
+    "file": "collage-3.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/3d7c4caff7998d2298be6e0f240b22b46bd341ca7df5169571494d2f5f0370af.jpg",
+    "source_sha256": "3d7c4caff7998d2298be6e0f240b22b46bd341ca7df5169571494d2f5f0370af",
+    "source_size": [
+      700,
+      525
+    ],
+    "crop": [
+      24,
+      0,
+      675,
+      525
+    ],
+    "output_size": [
+      429,
+      346
+    ],
+    "max_planned_display_size": [
+      429,
+      346
+    ],
+    "scale": 0.659048
+  },
+  {
+    "file": "collage-4.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/76b7b1e2f881871c8dac665960a9d06d086af1ef6d4037d1f0bd2750a503b354.jpg",
+    "source_sha256": "76b7b1e2f881871c8dac665960a9d06d086af1ef6d4037d1f0bd2750a503b354",
+    "source_size": [
+      1215,
+      911
+    ],
+    "crop": [
+      286,
+      0,
+      928,
+      911
+    ],
+    "output_size": [
+      327,
+      464
+    ],
+    "max_planned_display_size": [
+      327,
+      464
+    ],
+    "scale": 0.509346
+  },
+  {
+    "file": "gallery-1.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/76b7b1e2f881871c8dac665960a9d06d086af1ef6d4037d1f0bd2750a503b354.jpg",
+    "source_sha256": "76b7b1e2f881871c8dac665960a9d06d086af1ef6d4037d1f0bd2750a503b354",
+    "source_size": [
+      1215,
+      911
+    ],
+    "crop": [
+      0,
+      6,
+      1215,
+      905
+    ],
+    "output_size": [
+      500,
+      370
+    ],
+    "max_planned_display_size": [
+      500,
+      370
+    ],
+    "scale": 0.411568
+  },
+  {
+    "file": "gallery-2.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/611df2c8c3ff7ba8d9b5e072e325e2fd980af98a7aeaf6aa8e96f2c32d27a453.jpg",
+    "source_sha256": "611df2c8c3ff7ba8d9b5e072e325e2fd980af98a7aeaf6aa8e96f2c32d27a453",
+    "source_size": [
+      1080,
+      810
+    ],
+    "crop": [
+      0,
+      6,
+      1080,
+      805
+    ],
+    "output_size": [
+      500,
+      370
+    ],
+    "max_planned_display_size": [
+      500,
+      370
+    ],
+    "scale": 0.463079
+  },
+  {
+    "file": "gallery-3.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/2d836e0e36ee9343f040c4ccfaf19aeebf88c110cb1d8577ec140da14075afd0.jpg",
+    "source_sha256": "2d836e0e36ee9343f040c4ccfaf19aeebf88c110cb1d8577ec140da14075afd0",
+    "source_size": [
+      700,
+      525
+    ],
+    "crop": [
+      0,
+      4,
+      700,
+      522
+    ],
+    "output_size": [
+      500,
+      370
+    ],
+    "max_planned_display_size": [
+      500,
+      370
+    ],
+    "scale": 0.714286
+  },
+  {
+    "file": "gallery-4.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/3d7c4caff7998d2298be6e0f240b22b46bd341ca7df5169571494d2f5f0370af.jpg",
+    "source_sha256": "3d7c4caff7998d2298be6e0f240b22b46bd341ca7df5169571494d2f5f0370af",
+    "source_size": [
+      700,
+      525
+    ],
+    "crop": [
+      0,
+      4,
+      700,
+      522
+    ],
+    "output_size": [
+      500,
+      370
+    ],
+    "max_planned_display_size": [
+      500,
+      370
+    ],
+    "scale": 0.714286
+  },
+  {
+    "file": "gallery-5.jpg",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/外観/722266958596879c16eef081d226ef226d7764c35525fc4c5decbf1d65ba4b11.jpg",
+    "source_sha256": "722266958596879c16eef081d226ef226d7764c35525fc4c5decbf1d65ba4b11",
+    "source_size": [
+      640,
+      481
+    ],
+    "crop": [
+      0,
+      4,
+      640,
+      478
+    ],
+    "output_size": [
+      500,
+      370
+    ],
+    "max_planned_display_size": [
+      500,
+      370
+    ],
+    "scale": 0.78125
+  }
+]

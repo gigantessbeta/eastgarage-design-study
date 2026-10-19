@@ -1,0 +1,12 @@
+{
+  "family": "Noto Serif JP",
+  "weights": [
+    300,
+    400,
+    500
+  ],
+  "source": "https://github.com/google/fonts/tree/main/ofl/notoserifjp",
+  "license": "OFL.txt",
+  "layout_features": "all, including vert and vrt2",
+  "characters": 406
+}
