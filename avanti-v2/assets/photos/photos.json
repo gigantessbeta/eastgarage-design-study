@@ -1,0 +1,1118 @@
+[
+  {
+    "file": "menu-hero-pc.jpg",
+    "store": "research",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/ac12010bd2d7448d08b0bfc2b03c15f0faace80f45add6135be3c451bfff690e.jpg",
+    "source_sha256": "ac12010bd2d7448d08b0bfc2b03c15f0faace80f45add6135be3c451bfff690e",
+    "source_size": [
+      2048,
+      1152
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      2048,
+      1152
+    ],
+    "crop": [
+      0,
+      78,
+      2048,
+      1074
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      1440,
+      700
+    ],
+    "max_planned_display_size": [
+      1440,
+      700
+    ],
+    "scale": 0.703125
+  },
+  {
+    "file": "menu-hero-sp.jpg",
+    "store": "research",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/ac12010bd2d7448d08b0bfc2b03c15f0faace80f45add6135be3c451bfff690e.jpg",
+    "source_sha256": "ac12010bd2d7448d08b0bfc2b03c15f0faace80f45add6135be3c451bfff690e",
+    "source_size": [
+      2048,
+      1152
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      2048,
+      1152
+    ],
+    "crop": [
+      606,
+      0,
+      1441,
+      1152
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      390,
+      538
+    ],
+    "max_planned_display_size": [
+      390,
+      538
+    ],
+    "scale": 0.467066
+  },
+  {
+    "file": "shop-hero-pc.jpg",
+    "store": "research",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/ec14cd9c22de3e2cd205573b78ce08fbfb8467686ef77789d6ae43972c79ec9a.jpg",
+    "source_sha256": "ec14cd9c22de3e2cd205573b78ce08fbfb8467686ef77789d6ae43972c79ec9a",
+    "source_size": [
+      1562,
+      878
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      1562,
+      878
+    ],
+    "crop": [
+      0,
+      60,
+      1562,
+      819
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      1440,
+      700
+    ],
+    "max_planned_display_size": [
+      1440,
+      700
+    ],
+    "scale": 0.922266
+  },
+  {
+    "file": "shop-hero-sp.jpg",
+    "store": "research",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/ec14cd9c22de3e2cd205573b78ce08fbfb8467686ef77789d6ae43972c79ec9a.jpg",
+    "source_sha256": "ec14cd9c22de3e2cd205573b78ce08fbfb8467686ef77789d6ae43972c79ec9a",
+    "source_size": [
+      1562,
+      878
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      1562,
+      878
+    ],
+    "crop": [
+      463,
+      0,
+      1099,
+      878
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      390,
+      538
+    ],
+    "max_planned_display_size": [
+      390,
+      538
+    ],
+    "scale": 0.613208
+  },
+  {
+    "file": "gallery-1.jpg",
+    "store": "research",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/76b7b1e2f881871c8dac665960a9d06d086af1ef6d4037d1f0bd2750a503b354.jpg",
+    "source_sha256": "76b7b1e2f881871c8dac665960a9d06d086af1ef6d4037d1f0bd2750a503b354",
+    "source_size": [
+      1215,
+      911
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      1215,
+      911
+    ],
+    "crop": [
+      0,
+      6,
+      1215,
+      905
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      500,
+      370
+    ],
+    "max_planned_display_size": [
+      500,
+      370
+    ],
+    "scale": 0.411568
+  },
+  {
+    "file": "gallery-2.jpg",
+    "store": "research",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/611df2c8c3ff7ba8d9b5e072e325e2fd980af98a7aeaf6aa8e96f2c32d27a453.jpg",
+    "source_sha256": "611df2c8c3ff7ba8d9b5e072e325e2fd980af98a7aeaf6aa8e96f2c32d27a453",
+    "source_size": [
+      1080,
+      810
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      1080,
+      810
+    ],
+    "crop": [
+      0,
+      6,
+      1080,
+      805
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      500,
+      370
+    ],
+    "max_planned_display_size": [
+      500,
+      370
+    ],
+    "scale": 0.463079
+  },
+  {
+    "file": "gallery-3.jpg",
+    "store": "research",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/2d836e0e36ee9343f040c4ccfaf19aeebf88c110cb1d8577ec140da14075afd0.jpg",
+    "source_sha256": "2d836e0e36ee9343f040c4ccfaf19aeebf88c110cb1d8577ec140da14075afd0",
+    "source_size": [
+      700,
+      525
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      700,
+      525
+    ],
+    "crop": [
+      0,
+      4,
+      700,
+      522
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      500,
+      370
+    ],
+    "max_planned_display_size": [
+      500,
+      370
+    ],
+    "scale": 0.714286
+  },
+  {
+    "file": "gallery-4.jpg",
+    "store": "research",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/3d7c4caff7998d2298be6e0f240b22b46bd341ca7df5169571494d2f5f0370af.jpg",
+    "source_sha256": "3d7c4caff7998d2298be6e0f240b22b46bd341ca7df5169571494d2f5f0370af",
+    "source_size": [
+      700,
+      525
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      700,
+      525
+    ],
+    "crop": [
+      0,
+      4,
+      700,
+      522
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      500,
+      370
+    ],
+    "max_planned_display_size": [
+      500,
+      370
+    ],
+    "scale": 0.714286
+  },
+  {
+    "file": "gallery-5.jpg",
+    "store": "research",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/外観/722266958596879c16eef081d226ef226d7764c35525fc4c5decbf1d65ba4b11.jpg",
+    "source_sha256": "722266958596879c16eef081d226ef226d7764c35525fc4c5decbf1d65ba4b11",
+    "source_size": [
+      640,
+      481
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      640,
+      481
+    ],
+    "crop": [
+      0,
+      4,
+      640,
+      478
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      500,
+      370
+    ],
+    "max_planned_display_size": [
+      500,
+      370
+    ],
+    "scale": 0.78125
+  },
+  {
+    "file": "white-black-strip-pc.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/黒いとんかつの断面/a9853f03a72495896c7347a54326dc4d2a1a610a3a9b1b20cc89cfa3a18f12ff.jpg",
+    "source_sha256": "a9853f03a72495896c7347a54326dc4d2a1a610a3a9b1b20cc89cfa3a18f12ff",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      5712,
+      4284
+    ],
+    "crop": [
+      0,
+      1057,
+      5712,
+      2485
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      1440,
+      360
+    ],
+    "max_planned_display_size": [
+      1440,
+      360
+    ],
+    "scale": 0.252101
+  },
+  {
+    "file": "white-black-strip-sp.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/黒いとんかつの断面/a9853f03a72495896c7347a54326dc4d2a1a610a3a9b1b20cc89cfa3a18f12ff.jpg",
+    "source_sha256": "a9853f03a72495896c7347a54326dc4d2a1a610a3a9b1b20cc89cfa3a18f12ff",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      5712,
+      4284
+    ],
+    "crop": [
+      0,
+      827,
+      5712,
+      2877
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      390,
+      140
+    ],
+    "max_planned_display_size": [
+      390,
+      140
+    ],
+    "scale": 0.068293
+  },
+  {
+    "file": "store-kyomachi.jpg",
+    "store": "research",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/外観/722266958596879c16eef081d226ef226d7764c35525fc4c5decbf1d65ba4b11.jpg",
+    "source_sha256": "722266958596879c16eef081d226ef226d7764c35525fc4c5decbf1d65ba4b11",
+    "source_size": [
+      640,
+      481
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      640,
+      481
+    ],
+    "crop": [
+      0,
+      25,
+      640,
+      436
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      560,
+      360
+    ],
+    "max_planned_display_size": [
+      560,
+      360
+    ],
+    "scale": 0.875912
+  },
+  {
+    "file": "store-kyomachi-sp.jpg",
+    "store": "research",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/外観/722266958596879c16eef081d226ef226d7764c35525fc4c5decbf1d65ba4b11.jpg",
+    "source_sha256": "722266958596879c16eef081d226ef226d7764c35525fc4c5decbf1d65ba4b11",
+    "source_size": [
+      640,
+      481
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      640,
+      481
+    ],
+    "crop": [
+      0,
+      22,
+      640,
+      443
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      350,
+      230
+    ],
+    "max_planned_display_size": [
+      350,
+      230
+    ],
+    "scale": 0.546875
+  },
+  {
+    "file": "store-nakamichi.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/外観/0713ca96549cff3c782eb837472e4ade31fc3894f0a972d373c24084b813fb4b.jpg",
+    "source_sha256": "0713ca96549cff3c782eb837472e4ade31fc3894f0a972d373c24084b813fb4b",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      5712,
+      4284
+    ],
+    "crop": [
+      0,
+      349,
+      5712,
+      4021
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      560,
+      360
+    ],
+    "max_planned_display_size": [
+      560,
+      360
+    ],
+    "scale": 0.098039
+  },
+  {
+    "file": "store-nakamichi-sp.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/外観/0713ca96549cff3c782eb837472e4ade31fc3894f0a972d373c24084b813fb4b.jpg",
+    "source_sha256": "0713ca96549cff3c782eb837472e4ade31fc3894f0a972d373c24084b813fb4b",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      5712,
+      4284
+    ],
+    "crop": [
+      0,
+      302,
+      5712,
+      4056
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      350,
+      230
+    ],
+    "max_planned_display_size": [
+      350,
+      230
+    ],
+    "scale": 0.061275
+  },
+  {
+    "file": "tasting-main.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/内装/37117db9d8e66dfed8ce0bfc326fd488b54f078882de039e261b4942eeeaebce.jpg",
+    "source_sha256": "37117db9d8e66dfed8ce0bfc326fd488b54f078882de039e261b4942eeeaebce",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      5712,
+      4284
+    ],
+    "crop": [
+      1000,
+      0,
+      5284,
+      4284
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      600,
+      600
+    ],
+    "max_planned_display_size": [
+      600,
+      600
+    ],
+    "scale": 0.140056
+  },
+  {
+    "file": "tasting-small.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/黒いとんかつの断面/712f0956cda04d92519afa5706a1f727af92ab4e9b1681db0b47fc22f2644852.jpg",
+    "source_sha256": "712f0956cda04d92519afa5706a1f727af92ab4e9b1681db0b47fc22f2644852",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      5712,
+      4284
+    ],
+    "crop": [
+      1190,
+      0,
+      4522,
+      4284
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      280,
+      360
+    ],
+    "max_planned_display_size": [
+      280,
+      360
+    ],
+    "scale": 0.084034
+  },
+  {
+    "file": "v2-collage-1.jpg",
+    "store": "research",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/内装/76b7b1e2f881871c8dac665960a9d06d086af1ef6d4037d1f0bd2750a503b354.jpg",
+    "source_sha256": "76b7b1e2f881871c8dac665960a9d06d086af1ef6d4037d1f0bd2750a503b354",
+    "source_size": [
+      1215,
+      911
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      1215,
+      911
+    ],
+    "crop": [
+      18,
+      0,
+      1197,
+      911
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      511,
+      395
+    ],
+    "max_planned_display_size": [
+      511,
+      395
+    ],
+    "scale": 0.433589
+  },
+  {
+    "file": "v2-collage-2.jpg",
+    "store": "research",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/作業/7665cbea73fde1758b4087326a48a95849ccead1c28d3b5a1e782ebbf6c14599.jpg",
+    "source_sha256": "7665cbea73fde1758b4087326a48a95849ccead1c28d3b5a1e782ebbf6c14599",
+    "source_size": [
+      700,
+      525
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      700,
+      525
+    ],
+    "crop": [
+      0,
+      18,
+      700,
+      506
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      389,
+      271
+    ],
+    "max_planned_display_size": [
+      389,
+      271
+    ],
+    "scale": 0.555714
+  },
+  {
+    "file": "v2-collage-3.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/外観/b819f30ca74e2f578950afb6e1fedd2fa7e10bdd850c90d3f9737512d9117f03.jpg",
+    "source_sha256": "b819f30ca74e2f578950afb6e1fedd2fa7e10bdd850c90d3f9737512d9117f03",
+    "source_size": [
+      4032,
+      3024
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      4032,
+      3024
+    ],
+    "crop": [
+      0,
+      72,
+      4032,
+      2952
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      511,
+      365
+    ],
+    "max_planned_display_size": [
+      511,
+      365
+    ],
+    "scale": 0.126736
+  },
+  {
+    "file": "v2-collage-4.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/内装/ed8025f446f32f024b537c22f6a7feba476844f8082a7e84d9d0f608e1b224e1.jpg",
+    "source_sha256": "ed8025f446f32f024b537c22f6a7feba476844f8082a7e84d9d0f608e1b224e1",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      5712,
+      4284
+    ],
+    "crop": [
+      876,
+      0,
+      4284,
+      4284
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      389,
+      489
+    ],
+    "max_planned_display_size": [
+      389,
+      489
+    ],
+    "scale": 0.114146
+  },
+  {
+    "file": "kodawari-hero-pc.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/黒いとんかつの断面/a9853f03a72495896c7347a54326dc4d2a1a610a3a9b1b20cc89cfa3a18f12ff.jpg",
+    "source_sha256": "a9853f03a72495896c7347a54326dc4d2a1a610a3a9b1b20cc89cfa3a18f12ff",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      5712,
+      4284
+    ],
+    "crop": [
+      0,
+      603,
+      5712,
+      3380
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      1440,
+      700
+    ],
+    "max_planned_display_size": [
+      1440,
+      700
+    ],
+    "scale": 0.252101
+  },
+  {
+    "file": "kodawari-hero-sp.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/黒いとんかつの断面/a9853f03a72495896c7347a54326dc4d2a1a610a3a9b1b20cc89cfa3a18f12ff.jpg",
+    "source_sha256": "a9853f03a72495896c7347a54326dc4d2a1a610a3a9b1b20cc89cfa3a18f12ff",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      5712,
+      4284
+    ],
+    "crop": [
+      1303,
+      0,
+      4409,
+      4284
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      390,
+      538
+    ],
+    "max_planned_display_size": [
+      390,
+      538
+    ],
+    "scale": 0.125584
+  },
+  {
+    "file": "kodawari-entry.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/看板とロゴ/d28d4af611cb2ae229725251844f3fecfe3c9d3d6ddbb4418c497eede959a7eb.jpg",
+    "source_sha256": "d28d4af611cb2ae229725251844f3fecfe3c9d3d6ddbb4418c497eede959a7eb",
+    "source_size": [
+      640,
+      481
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      640,
+      481
+    ],
+    "crop": [
+      0,
+      0,
+      639,
+      481
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      420,
+      316
+    ],
+    "max_planned_display_size": [
+      420,
+      316
+    ],
+    "scale": 0.657277
+  },
+  {
+    "file": "kodawari-black.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/黒いとんかつの断面/3b5f29d03eb080006cc456648422d4ae1c0086bbdbd698786a4b910051a63164.jpg",
+    "source_sha256": "3b5f29d03eb080006cc456648422d4ae1c0086bbdbd698786a4b910051a63164",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      5712,
+      4284
+    ],
+    "crop": [
+      714,
+      0,
+      4998,
+      4284
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      600,
+      600
+    ],
+    "max_planned_display_size": [
+      600,
+      600
+    ],
+    "scale": 0.140056
+  },
+  {
+    "file": "kodawari-white.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/白いとんかつの断面/ec7225912c1516f490cd4fe9a310dea9b172374b745b669346dccf70b738cf94.jpg",
+    "source_sha256": "ec7225912c1516f490cd4fe9a310dea9b172374b745b669346dccf70b738cf94",
+    "source_size": [
+      4032,
+      3024
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      4032,
+      3024
+    ],
+    "crop": [
+      504,
+      0,
+      3528,
+      3024
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      600,
+      600
+    ],
+    "max_planned_display_size": [
+      600,
+      600
+    ],
+    "scale": 0.198413
+  },
+  {
+    "file": "kodawari-beef.jpg",
+    "store": "research",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research/assets/商品/f3bdc9b42b1f308f3aa94bf84bd767eb9f8b6908f823f532988c3aa00d9d316a.jpg",
+    "source_sha256": "f3bdc9b42b1f308f3aa94bf84bd767eb9f8b6908f823f532988c3aa00d9d316a",
+    "source_size": [
+      1920,
+      1080
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      1920,
+      1080
+    ],
+    "crop": [
+      420,
+      0,
+      1500,
+      1080
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      600,
+      600
+    ],
+    "max_planned_display_size": [
+      600,
+      600
+    ],
+    "scale": 0.555556
+  },
+  {
+    "file": "menu-nakamichi-hero-pc.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/定食/29f7a3722df77264003a755521c259f7796475b7a9b0f9e05a9ed459f81e3bd0.jpg",
+    "source_sha256": "29f7a3722df77264003a755521c259f7796475b7a9b0f9e05a9ed459f81e3bd0",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      5712,
+      4284
+    ],
+    "crop": [
+      0,
+      874,
+      5712,
+      3651
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      1440,
+      700
+    ],
+    "max_planned_display_size": [
+      1440,
+      700
+    ],
+    "scale": 0.252101
+  },
+  {
+    "file": "menu-nakamichi-hero-sp.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/定食/29f7a3722df77264003a755521c259f7796475b7a9b0f9e05a9ed459f81e3bd0.jpg",
+    "source_sha256": "29f7a3722df77264003a755521c259f7796475b7a9b0f9e05a9ed459f81e3bd0",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      5712,
+      4284
+    ],
+    "crop": [
+      1303,
+      0,
+      4409,
+      4284
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      390,
+      538
+    ],
+    "max_planned_display_size": [
+      390,
+      538
+    ],
+    "scale": 0.125584
+  },
+  {
+    "file": "shop-nakamichi-hero-pc.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/外観/0713ca96549cff3c782eb837472e4ade31fc3894f0a972d373c24084b813fb4b.jpg",
+    "source_sha256": "0713ca96549cff3c782eb837472e4ade31fc3894f0a972d373c24084b813fb4b",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      5712,
+      4284
+    ],
+    "crop": [
+      0,
+      934,
+      5712,
+      3711
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      1440,
+      700
+    ],
+    "max_planned_display_size": [
+      1440,
+      700
+    ],
+    "scale": 0.252101
+  },
+  {
+    "file": "shop-nakamichi-hero-sp.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/外観/0713ca96549cff3c782eb837472e4ade31fc3894f0a972d373c24084b813fb4b.jpg",
+    "source_sha256": "0713ca96549cff3c782eb837472e4ade31fc3894f0a972d373c24084b813fb4b",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      5712,
+      4284
+    ],
+    "crop": [
+      1303,
+      0,
+      4409,
+      4284
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      390,
+      538
+    ],
+    "max_planned_display_size": [
+      390,
+      538
+    ],
+    "scale": 0.125584
+  },
+  {
+    "file": "nakamichi-gallery-1.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/内装/37117db9d8e66dfed8ce0bfc326fd488b54f078882de039e261b4942eeeaebce.jpg",
+    "source_sha256": "37117db9d8e66dfed8ce0bfc326fd488b54f078882de039e261b4942eeeaebce",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      5712,
+      4284
+    ],
+    "crop": [
+      0,
+      0,
+      5712,
+      4284
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      560,
+      420
+    ],
+    "max_planned_display_size": [
+      560,
+      420
+    ],
+    "scale": 0.098039
+  },
+  {
+    "file": "nakamichi-gallery-2.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/内装/ed8025f446f32f024b537c22f6a7feba476844f8082a7e84d9d0f608e1b224e1.jpg",
+    "source_sha256": "ed8025f446f32f024b537c22f6a7feba476844f8082a7e84d9d0f608e1b224e1",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      5712,
+      4284
+    ],
+    "crop": [
+      0,
+      0,
+      5712,
+      4284
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      560,
+      420
+    ],
+    "max_planned_display_size": [
+      560,
+      420
+    ],
+    "scale": 0.098039
+  },
+  {
+    "file": "nakamichi-gallery-3.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/内装/a23be6623fbd43582bbb3b50329e2be0990e2b9589975b3b60f16f408cf5b70a.jpg",
+    "source_sha256": "a23be6623fbd43582bbb3b50329e2be0990e2b9589975b3b60f16f408cf5b70a",
+    "source_size": [
+      4032,
+      3024
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      4032,
+      3024
+    ],
+    "crop": [
+      0,
+      0,
+      4032,
+      3024
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      560,
+      420
+    ],
+    "max_planned_display_size": [
+      560,
+      420
+    ],
+    "scale": 0.138889
+  },
+  {
+    "file": "nakamichi-gallery-4.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/看板とロゴ/d28d4af611cb2ae229725251844f3fecfe3c9d3d6ddbb4418c497eede959a7eb.jpg",
+    "source_sha256": "d28d4af611cb2ae229725251844f3fecfe3c9d3d6ddbb4418c497eede959a7eb",
+    "source_size": [
+      640,
+      481
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      640,
+      481
+    ],
+    "crop": [
+      0,
+      0,
+      640,
+      480
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      560,
+      420
+    ],
+    "max_planned_display_size": [
+      560,
+      420
+    ],
+    "scale": 0.875
+  },
+  {
+    "file": "nakamichi-gallery-5.jpg",
+    "store": "research-kuro",
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti/research-kuro/assets/外観/b819f30ca74e2f578950afb6e1fedd2fa7e10bdd850c90d3f9737512d9117f03.jpg",
+    "source_sha256": "b819f30ca74e2f578950afb6e1fedd2fa7e10bdd850c90d3f9737512d9117f03",
+    "source_size": [
+      4032,
+      3024
+    ],
+    "exif_orientation": 1,
+    "oriented_size": [
+      4032,
+      3024
+    ],
+    "crop": [
+      0,
+      0,
+      4032,
+      3024
+    ],
+    "crop_coordinates": "EXIF補正後のpx、left top right bottom",
+    "output_size": [
+      560,
+      420
+    ],
+    "max_planned_display_size": [
+      560,
+      420
+    ],
+    "scale": 0.138889
+  }
+]

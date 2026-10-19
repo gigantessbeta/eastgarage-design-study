@@ -1,0 +1,18 @@
+{
+  "family": "Noto Serif JP",
+  "weights": [
+    300,
+    400,
+    500
+  ],
+  "source": "https://github.com/google/fonts/tree/main/ofl/notoserifjp",
+  "license": "OFL.txt",
+  "layout_features": "all, including vert and vrt2",
+  "characters": 406,
+  "v2_subset": {
+    "source": "/Users/taki/lp-factory-trials/lp-next-site-2026-10-12-avanti/project/projects/avanti-base/design/work/NotoSerifJP.ttf",
+    "source_sha256": "2fd527ba12b6a44ec30d796d633360da0aeba6c5d4af1304ce12bb4dc15a7dfc",
+    "reason": "六頁の追加漢字・店名・記号、縦書き字形と可変ウェイトを保持",
+    "tool": "fontTools existing installation"
+  }
+}
