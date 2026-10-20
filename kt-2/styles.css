@@ -158,3 +158,6 @@ main { animation: page-in 300ms ease-out; }
   .dm-link:hover svg, .recruit a:hover svg { transform: none; }
   .marquee-track { transform: none; will-change: auto; }
 }
+
+/* Claude 2026-10-20: 横のはみ出しを切る（大きな名前の width:113% と流れる帯の負の余白が画面の外へ出ていた） */
+html, body { overflow-x: clip; }
