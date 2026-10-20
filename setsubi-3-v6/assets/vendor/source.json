@@ -1,0 +1,28 @@
+{
+  "package": "gsap",
+  "version": "3.15.0",
+  "registry": "https://registry.npmjs.org/gsap",
+  "dist": {
+    "integrity": "sha512-dMW4CWBTUK1AEEDeZc1g4xpPGIrSf9fJF960qbTZmN/QwZIWY5wgliS6JWl9/25fpTGJrMRtSjGtOmPnfjZB+A==",
+    "shasum": "7851baaffc77642f2db3b1749d3634f9b5a19d14",
+    "tarball": "https://registry.npmjs.org/gsap/-/gsap-3.15.0.tgz",
+    "fileCount": 179,
+    "unpackedSize": 6258071,
+    "signatures": [
+      {
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U",
+        "sig": "MEYCIQDMnVFp4lHnVZDKiXEFgQS1/ghOcqY9lqq6Vn0C5w2kXwIhAMck0eU1AdlHpvt+4PBee+SU9XKyCl+tzidSzv1n59S3"
+      }
+    ]
+  },
+  "license_url": "https://gsap.com/standard-license/",
+  "license_file": "GSAP-LICENSE.txt",
+  "fetched": "2026-10-20",
+  "files": {
+    "gsap.min.js": "92bb9a96476f983d212a2bc4f54c889039c1696dd4461d40a736860938570fbb",
+    "GSAP-LICENSE.txt": "918c283c984df398d1cf052b60237228354c634546a859073a8b14b109e1d556",
+    "GSAP-README.md": "66a79667b0538b19634b5a000a9a3debe588c98d390424e73e5d4de847270828",
+    "MotionPathPlugin.min.js": "ace44a07c6c179f5347d9b46a152d468e4c9f272ee0d68bf0354e00d60000693",
+    "ScrollTrigger.min.js": "b0b14d67b55b0c43c756ac0b106cfcb09d0879945f6ead64451065b0672916a2"
+  }
+}
