@@ -1,0 +1,207 @@
+@font-face{font-family:"Jinya Sans";src:url("assets/fonts/sans-400.woff2") format("woff2");font-style:normal;font-weight:400;font-display:swap}
+@font-face{font-family:"Jinya Sans";src:url("assets/fonts/sans-700.woff2") format("woff2");font-style:normal;font-weight:700;font-display:swap}
+@font-face{font-family:"Jinya Rounded";src:url("assets/fonts/rounded-800.woff2") format("woff2");font-style:normal;font-weight:800;font-display:swap}
+@font-face{font-family:"Jinya Brush";src:url("assets/fonts/brush-400.woff2") format("woff2");font-style:normal;font-weight:400;font-display:swap}
+:root{--ink:#292e36;--indigo:#293d64;--red:#b83f32;--yellow:#f2cf61;--blue-wash:#eaf0f4;--cream:#fbf6e9;--rose:#f9ece7;--line:2px solid var(--ink)}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:28px}
+body{margin:0;background:var(--blue-wash);color:var(--ink);font-family:"Jinya Sans",sans-serif;font-size:14px;line-height:1.8}
+button,a{-webkit-tap-highlight-color:transparent}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit;cursor:pointer}
+button:disabled{opacity:.4;cursor:default}
+button,summary,a{touch-action:manipulation}
+a:focus-visible,button:focus-visible,summary:focus-visible,[tabindex]:focus-visible{outline:3px solid var(--red);outline-offset:5px}
+img{display:block;max-width:100%;height:auto}
+picture{display:block}
+picture img{width:100%}
+p,figure,h1,h2,h3,dl,dd{margin:0}
+button{border:0;background:none}
+.visually-hidden{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;border:0}
+.skip-link{position:fixed;top:8px;left:8px;padding:10px 20px;background:#fff;border:var(--line);z-index:100;transform:translateY(-160%)}
+.skip-link:focus{transform:none}
+.page-column{width:480px;max-width:100%;margin:0 auto;border-inline:var(--line);overflow:clip;background:var(--cream)}
+.left-sign{position:fixed;width:300px;left:calc((100% - 480px)/4);top:50%;transform:translate(-50%,-50%);display:flex;align-items:center;flex-direction:column;gap:18px}
+.wordmark{display:flex;flex-direction:column;align-items:center;color:var(--indigo);font-family:"Jinya Brush",serif;font-weight:400;line-height:1.2}
+.wordmark span{font-size:24px;letter-spacing:.24em}
+.wordmark strong{font-size:76px;letter-spacing:.1em;font-weight:400}
+.left-lantern{width:160px;transform-origin:50% 4%;animation:lantern-tilt 3s steps(1,end) 1.5s infinite}
+.right-nav{position:fixed;left:calc(75% + 120px);top:50%;transform:translate(-50%,-50%);width:280px;padding:26px 40px 30px;border:var(--line);border-radius:20px;background:#fff}
+.right-nav nav{display:grid}
+.right-nav nav a{padding:12px 0;border-bottom:1px dashed #bfc5cb;font-weight:700;line-height:21px;transition:color .2s}
+.right-nav nav a:last-child{border:0}
+.right-nav nav a:hover{color:var(--red)}
+.side-phone{display:flex;gap:9px;align-items:center;margin-top:24px;padding-top:22px;border-top:var(--line);font-size:14px;font-weight:700;white-space:nowrap}
+.side-phone svg{width:19px;height:19px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linejoin:round}
+.mobile-header{display:none}
+.menu-dialog{width:330px;max-width:calc(100% - 40px);padding:40px 26px 28px;border:var(--line);border-radius:18px;background:var(--cream);color:var(--ink)}
+.menu-dialog::backdrop{background:#18263c88}
+.menu-dialog nav{display:grid}
+.menu-dialog nav a{padding:13px 0;border-bottom:1px dashed #bfc5cb;font-weight:700}
+.menu-dialog nav a:last-child{border:0}
+.menu-close{position:absolute;right:8px;top:4px;width:44px;height:44px;font-size:30px}
+.menu-close svg{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round}
+.hero{position:relative;min-height:692px;padding-bottom:40px;overflow:hidden}
+.noren{width:100%;margin:0;transform-origin:50% 0;animation:noren-enter .77s ease-out 1.1s both,noren-tilt 6s steps(1,end) 2.5s infinite}
+.hero-storefront{width:408px;max-width:100%;margin:14px auto 0;animation:shop-enter .9s ease-out .8s both}
+.hero-info{padding:12px 10px 0;text-align:center}
+.hero-info>p{font-size:18px;font-weight:700;line-height:1.9}
+.hero-info small{display:block;margin-top:8px;font-size:11px;line-height:1.6;color:#535d6a}
+.section-pad{padding:80px 24px}
+.white-section{background:#fff}
+.wave{position:absolute;top:-25px;left:-2px;width:calc(100% + 4px);height:27px;overflow:hidden;pointer-events:none}
+.wave::after{content:"";position:absolute;left:0;top:2px;width:100%;height:50px;border-top:var(--line);border-radius:50% 50% 0 0/60% 60% 0 0;background:var(--wave-color,#fff);transform:rotate(-1deg)}
+.about,.spending,.menu-section,.access,.footer{position:relative}
+.section-title{font-family:"Jinya Rounded",sans-serif;font-size:28px;font-weight:800;line-height:1.5;letter-spacing:.06em;text-align:center;margin-bottom:40px}
+.section-title::after{content:"";display:block;width:46px;margin:15px auto 0;border-bottom:2px dotted currentColor;opacity:.65}
+.section-kicker{font-weight:700;font-size:12px;text-align:center;margin-bottom:9px;letter-spacing:.12em}
+.intro{position:relative;min-height:410px;padding-bottom:90px}
+.intro .section-title{margin-bottom:34px}
+.intro-copy{text-align:center;font-size:14px;line-height:2.2;position:relative;z-index:1}
+.intro-sake{position:absolute;width:74px;left:-16px;top:216px;transform:rotate(-12deg)}
+.intro-food{position:absolute;width:96px;right:-13px;bottom:23px;transform:rotate(9deg)}
+.features{padding-top:34px;padding-bottom:50px}
+.minor-title{font-family:"Jinya Rounded",sans-serif;font-weight:800;font-size:22px;text-align:center;line-height:1.5;margin-bottom:54px}
+.feature{position:relative;margin-bottom:64px}
+.feature-photo{width:428px;max-width:100%;aspect-ratio:428/342;overflow:hidden;background:var(--cream);border:var(--line)}
+.feature-photo img{width:100%;height:100%;object-fit:cover}
+.shape-one{border-radius:44% 50% 39% 34%/47% 36% 46% 34%;transform:rotate(-2deg)}
+.shape-two{border-radius:39% 47% 34% 45%/44% 33% 44% 37%;transform:rotate(2deg)}
+.shape-three{border-radius:46% 40% 44% 38%/41% 45% 38% 46%;transform:rotate(-1deg)}
+.feature-number{position:absolute;top:-28px;left:8px;font-family:"Jinya Rounded",sans-serif;font-size:48px;font-weight:800;line-height:1;color:var(--indigo);-webkit-text-stroke:1px var(--ink);paint-order:stroke fill;z-index:2;transform:rotate(-9deg);text-shadow:2px 3px #fff}
+.vermilion-number{color:#d76b57;left:12px}
+.yellow-number{color:var(--yellow);left:24px}
+.feature-label{position:relative;padding:16px 18px 14px;border:var(--line);border-radius:13px;margin-top:12px;text-align:center}
+.feature-label h3{font:800 17px/1.5 "Jinya Rounded",sans-serif;letter-spacing:.03em}
+.feature-label p{font-size:11px;line-height:1.7;margin-top:7px}
+.indigo{background:var(--indigo);color:#fff}
+.vermilion{background:#e99885;color:#292e36}
+.yellow{background:var(--yellow)}
+.feature-decoration{position:absolute;z-index:3;pointer-events:none}
+.lantern-decoration{width:72px;right:-2px;top:-21px;transform:rotate(11deg)}
+.plate-decoration{width:96px;left:-12px;bottom:69px;transform:rotate(-8deg)}
+.chicken-decoration{width:96px;right:-12px;bottom:64px;transform:rotate(9deg)}
+.note{font-size:11px;line-height:1.8;color:#555d65}
+.photo-note{text-align:center;margin-top:-28px}
+.interior-divider{position:relative;z-index:2;width:372px;max-width:calc(100% - 52px);margin:10px auto -10px}
+.spending{background:var(--rose);--wave-color:var(--rose)}
+.step{margin-top:48px}
+.step+.step{margin-top:64px}
+.step-visual{position:relative;width:100%;aspect-ratio:428/349;border:var(--line);border-radius:46px 52px 40px 49px;display:flex;align-items:center;justify-content:center}
+.step-number{position:absolute;top:-40px;left:50%;transform:translateX(-50%) rotate(-7deg);font:800 64px/1 "Jinya Rounded",sans-serif;color:#fff;-webkit-text-stroke:7px var(--ink);paint-order:stroke fill;z-index:3}
+.entrance-frame{background:#d4e2e6}
+.entrance-frame>picture{width:100%}
+.paper-frame{background:#efd383}
+.paper-strips{width:340px;max-width:100%;transform:rotate(-5deg)}
+.drink-frame{background:#bcc9e0;align-items:flex-end;padding-bottom:38px;gap:0}
+.step-sake{width:126px;flex-shrink:0;transform:rotate(-8deg);position:relative;z-index:2}
+.step-sashimi{width:240px;flex-shrink:0;margin-left:-18px;margin-bottom:9px;transform:rotate(6deg)}
+.step h3{font:800 17px/1.5 "Jinya Rounded",sans-serif;text-align:center;margin-top:18px}
+.step>p{text-align:center;margin-top:8px;font-size:14px}
+.menu-section{--wave-color:var(--cream);background:var(--cream)}
+.menu-illustration{width:200px;margin:-28px auto 24px}
+.price-list{display:grid;gap:8px}
+.price-card{border:var(--line);border-radius:16px;background:#fff;padding:22px 12px;text-align:center}
+.price-card h3{font:800 17px/1.5 "Jinya Rounded",sans-serif}
+.price-card h3::after{content:"";width:44px;display:block;margin:13px auto;border-bottom:2px dotted #6b7179}
+.price-card p{font-size:14px}
+.price-card .price{font-size:16px;margin:2px 0 6px}
+.price-card strong{font:800 26px/1.5 "Jinya Rounded",sans-serif}
+.price-note{text-align:center;margin-top:20px}
+.access{--wave-color:var(--rose);background:var(--rose);padding-bottom:100px}
+.locator{position:relative;background:#dce6ed;border:var(--line);border-radius:48px;overflow:hidden;margin-bottom:28px}
+.locator picture{width:100%}
+.locator figcaption{position:absolute;right:18px;bottom:12px;font-size:11px;color:#4b5868}
+.access-info>div{padding:20px 0;border-bottom:1px dashed #b9b8b3}
+.access-info dt{font-weight:700;margin-bottom:7px}
+.access-info dd{font-size:14px}
+.access-info dd.note{font-size:11px;margin-top:8px}
+.access-info .opening-time{font-size:20px;font-weight:700;letter-spacing:.04em}
+.access-phone{font-size:22px;letter-spacing:.03em;font-weight:700}
+.outlined-button{display:inline-flex;align-items:center;justify-content:center;gap:20px;min-height:44px;padding:8px 19px;background:#fff;border:var(--line);border-radius:24px;font-weight:700;font-size:13px;transition:background .2s,color .2s}
+.outlined-button:hover{background:var(--indigo);color:#fff}
+.outlined-button svg{width:18px;height:18px;stroke:currentColor;stroke-width:1.7;fill:none}
+.map-button{margin-top:22px}
+.boards{position:relative;background:#eaa28d;border:var(--line);border-inline:0;border-radius:45px;margin-top:-24px;padding:70px 0 44px}
+.board-carousel{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;overscroll-behavior-x:contain;scrollbar-width:none;padding:4px calc((100% - 265px)/2) 10px;scroll-padding-inline:calc((100% - 265px)/2)}
+.board-carousel::-webkit-scrollbar{display:none}
+.board-card{width:265px;flex:0 0 265px;min-height:360px;padding:32px;border:var(--line);border-radius:30px;background:var(--cream);scroll-snap-align:center;display:flex;flex-direction:column;justify-content:space-between;gap:28px}
+.board-card>img{width:197px;max-height:208px;object-fit:contain;border-radius:16px}
+.board-card h3{font:800 16px/1.7 "Jinya Rounded",sans-serif;margin-top:8px}
+.board-card .note{font-size:11px}
+.carousel-controls{display:flex;gap:23px;align-items:center;justify-content:center;margin:20px 0 16px}
+.carousel-controls button{width:44px;height:44px;background:var(--cream);border:var(--line);border-radius:50%;display:grid;place-items:center}
+.carousel-controls button:hover{background:var(--yellow)}
+.carousel-controls svg{width:19px;height:19px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.carousel-count{font-size:12px;min-width:35px;text-align:center}
+.boards>.note{text-align:center;padding:0 20px}
+.faq{padding-top:95px;padding-bottom:135px}
+.questions details{border-bottom:1px solid #b9bcc1;padding:0}
+.questions summary{list-style:none;display:flex;align-items:center;justify-content:space-between;gap:15px;cursor:pointer;padding:21px 0;font-weight:700;font-size:14px}
+.questions summary::-webkit-details-marker{display:none}
+.questions summary span{width:13px;height:13px;position:relative;flex-shrink:0}
+.questions summary span::before,.questions summary span::after{content:"";position:absolute;background:var(--ink);left:0;top:6px;width:13px;height:2px}
+.questions summary span::after{transform:rotate(90deg);transition:transform .24s}
+.questions [open] summary span::after{transform:rotate(0)}
+.answer{padding:0 0 22px}
+.answer a{text-decoration:underline;text-underline-offset:4px}
+.answer .note{margin-top:8px}
+.footer{background:var(--blue-wash);--wave-color:var(--blue-wash);padding:0 24px 28px;text-align:center}
+.footer-storefront{position:relative;top:-75px;width:325px;max-width:100%;margin:0 auto -38px;z-index:2}
+.footer-wordmark{margin:0 auto 34px}
+.footer-wordmark span{font-size:21px}
+.footer-wordmark strong{font-size:64px}
+.footer-nav{display:flex;align-items:center;flex-direction:column}
+.footer-nav a{padding:12px 0;min-width:145px;border-bottom:1px dashed #bfc5cb;font-size:14px;font-weight:700}
+.footer-nav a:hover{color:var(--red)}
+.footer-phone{display:inline-block;margin-top:32px;font-weight:700;font-size:20px}
+.footer>p{margin-top:50px;font-size:11px}
+.reveal.is-pending{opacity:0;transform:translateY(16px)}
+.reveal{transition:opacity .8s ease-out,transform .8s ease-out}
+.from-left.is-pending{transform:translateX(-16px)}
+.from-right.is-pending{transform:translateX(16px)}
+@keyframes noren-enter{from{opacity:0;transform:translateY(-100%)}to{opacity:1;transform:translateY(0)}}
+@keyframes shop-enter{from{opacity:0;transform:translateY(45px)}to{opacity:1;transform:translateY(0)}}
+@keyframes noren-tilt{0%,56%,72%,100%{rotate:0deg}60%{rotate:.8deg}64%{rotate:-.7deg}68%{rotate:.5deg}}
+@keyframes lantern-tilt{0%,40%,100%{rotate:-2deg}45%,55%{rotate:2deg}50%{rotate:-1deg}}
+@media(max-width:1200px){
+  .left-sign,.right-nav{display:none}
+  .mobile-header{position:fixed;top:0;left:50%;transform:translateX(-50%);width:480px;max-width:100%;height:56px;display:flex;justify-content:space-between;align-items:center;padding:0 18px;background:var(--cream);border-bottom:1px solid var(--ink);z-index:20}
+  .mobile-wordmark{font:400 28px/1 "Jinya Brush",serif;letter-spacing:.04em;color:var(--indigo)}
+  .mobile-wordmark span{font-size:17px}
+  .menu-toggle{height:48px;width:52px;display:flex;align-items:center;justify-content:center;gap:5px;flex-direction:column;font-size:10px;line-height:1}
+  .menu-bars{display:block;width:28px;height:13px;border-top:2px solid;border-bottom:2px solid}
+  .hero{padding-top:56px;min-height:680px}
+  html{scroll-padding-top:80px}
+}
+@media(max-width:420px){
+  .hero-storefront{width:386px;margin-top:20px}
+  .hero-info{padding-top:22px}
+  .hero-info>p{font-size:16px;line-height:1.9}
+  .hero{padding-bottom:50px}
+  .section-title{font-size:26px}
+  .intro{min-height:410px;padding-bottom:90px}
+  .intro-copy{font-size:14px;letter-spacing:-.02em}
+  .intro-sake{left:-25px;top:223px}
+  .intro-food{right:-13px;bottom:26px}
+  .feature{margin-bottom:60px}
+  .feature-photo{width:338px;aspect-ratio:338/270}
+  .feature-label{padding-inline:12px}
+  .interior-divider{width:302px}
+  .step-visual{aspect-ratio:338/276;border-radius:37px 42px 32px 40px}
+  .paper-strips{width:280px}
+  .step-sake{width:110px}
+  .step-sashimi{width:190px;margin-left:-19px}
+  .drink-frame{padding-bottom:22px}
+  .step h3{font-size:17px}
+  .step>p{font-size:13px}
+  .locator{border-radius:38px}
+  .footer-storefront{width:257px;top:-57px;margin-bottom:-26px}
+  .faq{padding-bottom:112px}
+}
+@media(prefers-reduced-motion:reduce){
+  html{scroll-behavior:auto}
+  *,*::before,*::after{animation:none!important;transition:none!important}
+  .reveal.is-pending{opacity:1;transform:none}
+  .noren,.hero-storefront{opacity:1;transform:none}
+}
