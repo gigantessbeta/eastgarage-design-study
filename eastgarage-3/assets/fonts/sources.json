@@ -1,0 +1,26 @@
+[
+  {
+    "file": "ZenMaruGothic-Medium.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/zenmarugothic/ZenMaruGothic-Medium.ttf",
+    "sha256": "3cfdb98a13571ede17fcc769f5093a97c38b80a7b9b2ab754a26b4d822092b3b",
+    "bytes": 3810988
+  },
+  {
+    "file": "ZenMaruGothic-Bold.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/zenmarugothic/ZenMaruGothic-Bold.ttf",
+    "sha256": "fe24426b9c8b5523a0146a8235c8674eccf0493af354a53ec895c3596d9eb745",
+    "bytes": 3779008
+  },
+  {
+    "file": "ZenMaruGothic-Black.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/zenmarugothic/ZenMaruGothic-Black.ttf",
+    "sha256": "6bd74fe76cd39ee0ec18775c3661d845343fb3f6f8fa09a3076638417baf741f",
+    "bytes": 3710324
+  },
+  {
+    "file": "OFL.txt",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/zenmarugothic/OFL.txt",
+    "sha256": "2a20cf7ce1909d8ee1e949095d340f7d7656705f7c810a2d6faf56800ad0cb3d",
+    "bytes": 4402
+  }
+]

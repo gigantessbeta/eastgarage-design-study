@@ -1,0 +1,23 @@
+[
+  {
+    "file": "zen-maru-500.woff2",
+    "weight": 500,
+    "bytes": 35304,
+    "characters": 270,
+    "missing": ""
+  },
+  {
+    "file": "zen-maru-700.woff2",
+    "weight": 700,
+    "bytes": 35824,
+    "characters": 270,
+    "missing": ""
+  },
+  {
+    "file": "zen-maru-900.woff2",
+    "weight": 900,
+    "bytes": 35840,
+    "characters": 270,
+    "missing": ""
+  }
+]
