@@ -20,3 +20,5 @@ footer{background:#b8ebbe;padding:0 17px 17px;color:var(--paper)}.footer-panel{p
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}.gullwing-track{height:auto}.gullwing-stage{height:100svh;min-height:720px;position:relative}.car-rig{display:none}.reduced-car{display:block}.gullwing-copy,.next-heading{opacity:1!important;transform:none!important}.reveal{opacity:1!important}.drift{transform:none!important}.logo-stroke{stroke-dashoffset:0!important}.fan-card{will-change:auto}}
 
 html,body{overflow-x:clip}
+
+.next-heading{display:none}
