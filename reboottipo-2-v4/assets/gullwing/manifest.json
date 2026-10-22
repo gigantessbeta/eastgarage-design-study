@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "temporary": true,
+  "source": "task-60; replace after task-67",
+  "mobileMedia": "(max-width: 768px)",
+  "variants": {
+    "desktop": {
+      "width": 1200,
+      "height": 675,
+      "poster": "arrival/036.webp",
+      "still": "doors/024.webp",
+      "arrival": {
+        "pattern": "arrival/{frame}.webp",
+        "start": 1,
+        "count": 36,
+        "pad": 3
+      },
+      "doors": {
+        "pattern": "doors/{frame}.webp",
+        "start": 1,
+        "count": 24,
+        "pad": 3
+      },
+      "lights": {
+        "headlights": {
+          "kind": "css",
+          "spots": [
+            {
+              "x": 14.5,
+              "y": 63.1,
+              "width": 5.8,
+              "height": 3.1,
+              "rotate": -48
+            },
+            {
+              "x": 37.4,
+              "y": 68.4,
+              "width": 11,
+              "height": 3.6,
+              "rotate": -32
+            }
+          ]
+        },
+        "underglow": {
+          "kind": "css",
+          "spots": [
+            {
+              "x": 53,
+              "y": 88,
+              "width": 69,
+              "height": 13,
+              "rotate": -7
+            }
+          ]
+        }
+      }
+    },
+    "mobile": {
+      "width": 1200,
+      "height": 675,
+      "poster": "arrival/036.webp",
+      "still": "doors/024.webp",
+      "arrival": {
+        "pattern": "arrival/{frame}.webp",
+        "start": 1,
+        "count": 36,
+        "pad": 3
+      },
+      "doors": {
+        "pattern": "doors/{frame}.webp",
+        "start": 1,
+        "count": 24,
+        "pad": 3
+      },
+      "lights": {
+        "headlights": {
+          "kind": "css",
+          "spots": [
+            {
+              "x": 14.5,
+              "y": 63.1,
+              "width": 5.8,
+              "height": 3.1,
+              "rotate": -48
+            },
+            {
+              "x": 37.4,
+              "y": 68.4,
+              "width": 11,
+              "height": 3.6,
+              "rotate": -32
+            }
+          ]
+        },
+        "underglow": {
+          "kind": "css",
+          "spots": [
+            {
+              "x": 53,
+              "y": 88,
+              "width": 69,
+              "height": 13,
+              "rotate": -7
+            }
+          ]
+        }
+      }
+    }
+  }
+}
