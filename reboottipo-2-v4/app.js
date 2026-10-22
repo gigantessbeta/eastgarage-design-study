@@ -186,6 +186,9 @@ import { GullwingSequence } from './gullwing-sequence.js';
         }
         heroFrame(state.hero);
         wrapFrame(state.wrap);
+        // Finish the gullwing interpolation on the exact scroll target before RAF sleeps.
+        if (Math.abs(targets.gullwing - state.gullwing) <= .00005)
+            state.gullwing = targets.gullwing;
         gullwingFrame(state.gullwing);
         bubblingFrame(state.bubbling);
         recordTrack.style.transform = `translate3d(${-state.records * (recordTrack.scrollWidth - innerWidth)}px,0,0)`;

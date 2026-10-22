@@ -8,6 +8,16 @@ export function frameAt(variant, p, reduced = false) {
         return { src: variant.still, sequence: 'still', index: 0 };
     if (p < .06)
         return { src: null, sequence: 'floor', index: -1 };
+    if (variant.timeline) {
+        const spec = variant.timeline;
+        let index = 0;
+        for (let i = 1; i < spec.count; i++) {
+            if (p < (spec.progress[i - 1] + spec.progress[i]) / 2)
+                break;
+            index = i;
+        }
+        return { src: sequencePath(spec, index), sequence: spec.phases[index], index };
+    }
     const name = p < .48 ? 'arrival' : 'doors';
     const spec = variant[name];
     const amount = name === 'arrival' ? ramp(p, .06, .42) : ramp(p, .48, .84);
@@ -19,17 +29,19 @@ export function validateManifest(input) {
     if (!input || typeof input !== 'object')
         throw new Error('Invalid gullwing manifest');
     const m = input;
-    if (m.version !== 1 || typeof m.mobileMedia !== 'string' || !m.variants)
+    if (![1, 2].includes(m.version) || typeof m.mobileMedia !== 'string' || !m.variants)
         throw new Error('Unsupported gullwing manifest');
     for (const v of [m.variants.desktop, m.variants.mobile]) {
         if (!v || !Number.isFinite(v.width) || !Number.isFinite(v.height) || v.width <= 0 || v.height <= 0 || !v.poster || !v.still)
             throw new Error('Invalid gullwing dimensions/posters');
-        for (const spec of [v.arrival, v.doors]) {
+        for (const spec of (v.timeline ? [v.timeline] : [v.arrival, v.doors])) {
             if (!spec || typeof spec.pattern !== 'string' || !spec.pattern.includes('{frame}') || !Number.isInteger(spec.count) || spec.count < 1 || !Number.isInteger(spec.start) || !Number.isInteger(spec.pad) || spec.pad < 1)
                 throw new Error('Invalid gullwing sequence');
         }
+        if (v.timeline && (v.timeline.progress.length !== v.timeline.count || v.timeline.phases.length !== v.timeline.count || v.timeline.progress.some((p, i, all) => !Number.isFinite(p) || p < .06 || p > 1 || (i > 0 && p <= all[i - 1]))))
+            throw new Error('Invalid gullwing timeline');
         for (const spec of [v.lights?.headlights, v.lights?.underglow]) {
-            if (!spec || (spec.kind !== 'image' && spec.kind !== 'css'))
+            if (!spec || (spec.kind !== 'image' && spec.kind !== 'css' && spec.kind !== 'baked'))
                 throw new Error('Invalid gullwing light');
             if (spec.kind === 'image' && !spec.src)
                 throw new Error('Missing gullwing light image');
@@ -109,6 +121,8 @@ export class GullwingSequence {
     }
     async select(variant) {
         const epoch = ++this.epoch;
+        this.cache.clear();
+        this.images.clear();
         this.variant = variant;
         this.ready = false;
         this.loading = false;
@@ -139,6 +153,8 @@ export class GullwingSequence {
         }
     }
     async layer(container, spec, epoch) {
+        if (spec.kind === 'baked')
+            return;
         if (spec.kind === 'image') {
             const image = await this.image(spec.src);
             if (epoch !== this.epoch)
@@ -164,7 +180,7 @@ export class GullwingSequence {
         const variant = this.variant, epoch = this.epoch;
         this.loading = true;
         this.root.dataset.sequenceStatus = 'loading';
-        const paths = [variant.arrival, variant.doors].flatMap(spec => Array.from({ length: spec.count }, (_, i) => sequencePath(spec, i)));
+        const paths = (variant.timeline ? [variant.timeline] : [variant.arrival, variant.doors]).flatMap(spec => Array.from({ length: spec.count }, (_, i) => sequencePath(spec, i)));
         let cursor = 0;
         try {
             await Promise.all(Array.from({ length: 4 }, async () => {
@@ -221,8 +237,8 @@ export class GullwingSequence {
         const selected = frameAt(this.variant, p, reduced);
         const src = reduced || this.ready ? selected.src : this.variant.poster;
         this.draw(src);
-        this.head.style.opacity = String(reduced ? 1 : ramp(p, .40, .48) * .75);
-        this.under.style.opacity = String(reduced ? .58 : ramp(p, .84, 1) * .58);
+        this.head.style.opacity = this.variant.lights.headlights.kind === 'baked' ? '0' : String(reduced ? 1 : ramp(p, .40, .48) * .75);
+        this.under.style.opacity = this.variant.lights.underglow.kind === 'baked' ? '0' : String(reduced ? .58 : ramp(p, .84, 1) * .58);
         this.floor.style.opacity = String(reduced ? 0 : Math.min(ramp(p, 0, .035), 1 - ramp(p, .06, .15)));
         this.floor.style.transform = `translate3d(${(ramp(p, 0, .06) - 1) * 100}%,0,0)`;
         this.root.dataset.frame = this.lastDrawn ?? 'floor';
